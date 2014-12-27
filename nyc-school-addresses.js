@@ -1,7 +1,7 @@
 var fs = require('fs');
 var csvrow = require('csvrow');
 
-var FILENAME = __dirname + "/nyc-school-addresses.csv";
+var FILENAME = __dirname + "/data/nyc-school-addresses.csv";
 
 module.exports = fs.readFileSync(FILENAME, "utf-8")
   .split('\n')
