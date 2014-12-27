@@ -81,14 +81,6 @@ function main() {
     if (err) throw err;
     console.log("Done.");
   });
-/*
-  getTransitTime(GOOGLE_API_KEY,
-                 "343 Gold St., Brooklyn NY",
-                 "1 MetroTech Center, Brooklyn NY",
-                 function(err, info) {
-                  if (err) throw err;
-                  console.log(info);
-                 });*/
 }
 
 if (!module.parent)
