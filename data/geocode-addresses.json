@@ -1,4 +1,9 @@
 {
+  "1 MetroTech Center North, Brooklyn NY, 11201": {
+    "formatted_address": "1 MetroTech Roadway, Brooklyn, NY 11201, USA",
+    "lat": 40.6932639,
+    "lng": -73.9867043
+  },
   "1 Wells St, Brooklyn NY, 11208": {
     "formatted_address": "1 Wells Street, Brooklyn, NY 11208, USA",
     "lat": 40.678748,
@@ -253,6 +258,11 @@
     "formatted_address": "2 Astor Place #3, New York, NY 10003, USA",
     "lat": 40.7298791,
     "lng": -73.99258309999999
+  },
+  "200 Broadway, New York NY, 10038": {
+    "formatted_address": "200 Broadway, New York, NY 10038, USA",
+    "lat": 40.710446,
+    "lng": -74.0089239
   },
   "200 MONROE STREET, Manhattan NY 10002": {
     "formatted_address": "200 Monroe Street, New York, NY 10002, USA",
@@ -808,6 +818,11 @@
     "formatted_address": "883 Classon Avenue, Brooklyn, NY 11225, USA",
     "lat": 40.66995610000001,
     "lng": -73.9611201
+  },
+  "89 E 42nd Street, New York NY, 10017": {
+    "formatted_address": "89 East 42nd Street, New York, NY 10017, USA",
+    "lat": 40.7524713,
+    "lng": -73.9772954
   },
   "89-30 114th Street, Richmond Hill, NY 11418": {
     "formatted_address": "89-30 114th Street, Richmond Hill, NY 11418, USA",
