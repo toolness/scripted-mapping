@@ -1,7 +1,9 @@
 var fs = require('fs');
 var csvrow = require('csvrow');
 
-module.exports = fs.readFileSync("nyc-school-addresses.csv", "utf-8")
+var FILENAME = __dirname + "/nyc-school-addresses.csv";
+
+module.exports = fs.readFileSync(FILENAME, "utf-8")
   .split('\n')
   .slice(1)                        // Remove the row w/ column names.
   .map(function(row) {
