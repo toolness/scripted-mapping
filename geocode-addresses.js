@@ -3,11 +3,13 @@ var async = require('async');
 var stableStringify = require('json-stable-stringify');
 var request = require('request');
 var schoolInfo = require('./nyc-school-addresses');
+var originPointInfo = require('./data/origin-points.json');
 
 var FILENAME = __dirname + "/data/geocode-addresses.json";
 var GEO_COMPONENT_FILTERS = [
   'country:US'
 ].join('|');
+var ALL_INFOS = schoolInfo.concat(originPointInfo);
 
 var geocodes = JSON.parse(fs.readFileSync(FILENAME, "utf-8"));
 
@@ -47,7 +49,7 @@ function main() {
     process.exit(1);
   }
 
-  async.eachLimit(schoolInfo, 3, function(info, cb) {
+  async.eachLimit(ALL_INFOS, 3, function(info, cb) {
     console.log("Geocoding " + info.name + "...");
     geocode(GOOGLE_API_KEY, info.address, function(err) {
       if (!err) return cb(null);
