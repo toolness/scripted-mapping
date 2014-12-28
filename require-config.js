@@ -1,5 +1,6 @@
 var require = {
   paths: {
+    "mapbox": "https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox",
     "underscore": "vendor/underscore",
     "text": "vendor/require.text",
     "jsx": "vendor/require.jsx",
@@ -10,6 +11,9 @@ var require = {
     fileExtension: '.jsx'
   },
   shim: {
+    "mapbox": {
+      exports: "L"
+    },
     "underscore": {
       exports: "_"
     }

@@ -1,11 +1,20 @@
 define(function(require) {
   var React = require('react');
+  var L = require('mapbox');
 
   var App = React.createClass({
+    componentDidMount: function() {
+      this.map = L.mapbox.map(this.refs.map.getDOMNode(),
+                              this.props.mapboxId);
+    },
+    componentWillUnmount: function() {
+      this.map.remove();
+      this.map = null;
+    },
     render: function() {
       return (
-        <div>
-          <nav className="navbar navbar-default">
+        <div className="entire-window">
+          <nav className="navbar navbar-default navbar-fixed-top">
             <div className="container-fluid">
               <div className="navbar-header">
                 <a className="navbar-brand" href="#">ScriptED Mapping</a>
@@ -20,9 +29,8 @@ define(function(require) {
               </ul>
             </div>
           </nav>
-          <div className="container-fluid">
-            <h1>Hello!</h1>
-            <p>Eventually, there will be a map here, but right now there isn't much.</p>
+          <div className="container-fluid entire-window">
+            <div ref="map" className="entire-window"></div>
           </div>
         </div>
       );
