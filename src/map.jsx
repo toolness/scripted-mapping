@@ -6,6 +6,7 @@ define(function(require) {
     componentDidMount: function() {
       this.map = L.mapbox.map(this.getDOMNode(),
                               this.props.mapboxId);
+      this.map.featureLayer.setGeoJSON(this.props.geoJson);
     },
     componentWillUnmount: function() {
       this.map.remove();

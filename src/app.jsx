@@ -1,6 +1,7 @@
 define(function(require) {
   var React = require('react');
   var Map = require('jsx!./map');
+  var schools = require('./schools');
 
   // http://getbootstrap.com/components/#navbar-fixed-top
   var STATUS_BAR_HEIGHT = 50;
@@ -31,7 +32,7 @@ define(function(require) {
               left: 0,
               width: '100%',
               height: 'calc(100% - ' + STATUS_BAR_HEIGHT + 'px)'
-            }}/>
+            }} geoJson={schools.toGeoJson()}/>
           </div>
         </div>
       );
