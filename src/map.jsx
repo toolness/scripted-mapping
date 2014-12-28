@@ -7,6 +7,7 @@ define(function(require) {
       this.map = L.mapbox.map(this.getDOMNode(),
                               this.props.mapboxId);
       this.map.featureLayer.setGeoJSON(this.props.geoJson);
+      this.map.fitBounds(this.map.featureLayer.getBounds());
     },
     componentWillUnmount: function() {
       this.map.remove();
