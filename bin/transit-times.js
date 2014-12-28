@@ -3,10 +3,10 @@ var async = require('async');
 var stableStringify = require('json-stable-stringify');
 var request = require('request');
 var csvrow = require('csvrow');
-var originPointInfo = require('./data/origin-points.json');
+var originPointInfo = require('../data/origin-points.json');
 var schoolInfo = require('./nyc-school-addresses');
 
-var FILENAME = __dirname + "/data/transit-times.json";
+var FILENAME = __dirname + "/../data/transit-times.json";
 var DEPARTURE_TIME = 1343641500;  // July 30, 2012 at 09:45 am
 
 var trips = JSON.parse(fs.readFileSync(FILENAME, "utf-8"));
@@ -61,7 +61,8 @@ function writeCsv() {
     });
     lines.push(csvrow.stringify(row));
   });
-  fs.writeFileSync(__dirname + "/data/transit-times.csv", lines.join('\n'));
+  fs.writeFileSync(__dirname +
+                   "/../data/transit-times.csv", lines.join('\n'));
   console.log("Wrote data/transit-times.csv.");
 }
 

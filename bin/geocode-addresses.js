@@ -3,9 +3,9 @@ var async = require('async');
 var stableStringify = require('json-stable-stringify');
 var request = require('request');
 var schoolInfo = require('./nyc-school-addresses');
-var originPointInfo = require('./data/origin-points.json');
+var originPointInfo = require('../data/origin-points.json');
 
-var FILENAME = __dirname + "/data/geocode-addresses.json";
+var FILENAME = __dirname + "/../data/geocode-addresses.json";
 var GEO_COMPONENT_FILTERS = [
   'country:US'
 ].join('|');
