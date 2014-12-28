@@ -29,6 +29,13 @@ define(function(require) {
               </p>
             );
           }, this)}
+          <div className="text-muted" style={{
+            fontSize: 9,
+            lineHeight: '10px'
+          }}>
+            Transit times are based on taking public transit at
+            9:45am on a weekday morning.
+          </div>
         </div>
       );
     }
