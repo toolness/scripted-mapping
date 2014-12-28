@@ -2,6 +2,9 @@ define(function(require) {
   var React = require('react');
   var Map = require('jsx!./map');
 
+  // http://getbootstrap.com/components/#navbar-fixed-top
+  var STATUS_BAR_HEIGHT = 50;
+
   var App = React.createClass({
     render: function() {
       return (
@@ -27,7 +30,7 @@ define(function(require) {
               bottom: 0,
               left: 0,
               width: '100%',
-              height: 'calc(100% - 50px)'
+              height: 'calc(100% - ' + STATUS_BAR_HEIGHT + 'px)'
             }}/>
           </div>
         </div>
