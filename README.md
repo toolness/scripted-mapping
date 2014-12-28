@@ -36,8 +36,11 @@ Partnerships, describes the scope of the project:
 
 ## Prerequisites
 
-If all you want to do is play with existing data, you don't really
-need anything.
+If all you want to do is play with existing data or work on the
+web front-end, you don't really need anything aside from a web server
+that serves the root of the repository as static files. If you don't
+have one, consider using `python -m SimpleHTTPServer` or npm's
+[http-server][].
 
 If you want to update information about schools or origin locations,
 however, you'll need node v0.10 or higher, as well as a Google developer
@@ -82,6 +85,7 @@ to rebuild the generated files:
 
 <!-- Links -->
 
+  [http-server]: https://www.npmjs.com/package/http-server
   [Google Developer Console]: https://code.google.com/apis/console/
   [Google Directions API]: https://developers.google.com/maps/documentation/directions/
   [Google Geocoding API]: https://developers.google.com/maps/documentation/geocoding/
