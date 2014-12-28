@@ -1,16 +1,8 @@
 define(function(require) {
   var React = require('react');
-  var L = require('mapbox');
+  var Map = require('jsx!./map');
 
   var App = React.createClass({
-    componentDidMount: function() {
-      this.map = L.mapbox.map(this.refs.map.getDOMNode(),
-                              this.props.mapboxId);
-    },
-    componentWillUnmount: function() {
-      this.map.remove();
-      this.map = null;
-    },
     render: function() {
       return (
         <div>
@@ -30,13 +22,13 @@ define(function(require) {
             </div>
           </nav>
           <div className="container-fluid">
-            <div ref="map" style={{
+            <Map mapboxId={this.props.mapboxId} style={{
               position: 'absolute',
               bottom: 0,
               left: 0,
               width: '100%',
               height: 'calc(100% - 50px)'
-            }}></div>
+            }}/>
           </div>
         </div>
       );
