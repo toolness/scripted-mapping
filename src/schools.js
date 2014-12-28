@@ -30,7 +30,7 @@ define(function(require) {
         if (!trip)
           throw new Error("No trip data for " + school.address);
         return {
-          origin: origin.name,
+          origin: origin,
           duration: trip.duration
         };
       });
