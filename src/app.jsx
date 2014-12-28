@@ -1,6 +1,7 @@
 define(function(require) {
   var React = require('react');
   var Map = require('jsx!./map');
+  var StaticTooltip = require('jsx!./static-tooltip');
   var schools = require('./schools');
 
   // http://getbootstrap.com/components/#navbar-fixed-top
@@ -32,7 +33,7 @@ define(function(require) {
               left: 0,
               width: '100%',
               height: 'calc(100% - ' + STATUS_BAR_HEIGHT + 'px)'
-            }} geoJson={schools.toGeoJson()}/>
+            }} geoJson={schools.toGeoJson()} staticTooltip={StaticTooltip}/>
           </div>
         </div>
       );

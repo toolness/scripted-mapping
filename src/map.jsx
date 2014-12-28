@@ -6,6 +6,16 @@ define(function(require) {
     componentDidMount: function() {
       this.map = L.mapbox.map(this.getDOMNode(),
                               this.props.mapboxId);
+      this.map.featureLayer.on('layeradd', function(e) {
+        var marker = e.layer;
+        var feature = marker.feature;
+        var staticHtml = React.renderToStaticMarkup(
+          React.createElement(this.props.staticTooltip, feature.properties)
+        );
+        marker.bindPopup(staticHtml, {
+          closeButton: false
+        });
+      }.bind(this));
       this.map.featureLayer.setGeoJSON(this.props.geoJson);
       this.map.fitBounds(this.map.featureLayer.getBounds());
     },
