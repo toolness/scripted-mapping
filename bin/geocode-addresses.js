@@ -7,7 +7,8 @@ var originPointInfo = require('../data/origin-points.json');
 
 var FILENAME = __dirname + "/../data/geocode-addresses.json";
 var GEO_COMPONENT_FILTERS = [
-  'country:US'
+  'country:US',
+  'administrative_area:NY'
 ].join('|');
 var ALL_INFOS = schoolInfo.concat(originPointInfo);
 
