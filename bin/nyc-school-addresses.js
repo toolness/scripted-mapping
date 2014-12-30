@@ -26,9 +26,16 @@ function main() {
     data.splice(0, 1);
 
     data = data.map(function(columns) {
+      var address = fixup(columns[18], ADDRESS_FIXUPS);
+      var zip = columns[0];
+      var borough = columns[20];
+      if (!/NY/.test(address) && !/New York/i.test(address)) {
+        address += ", " + borough + " NY " + zip;
+        console.log("Disambiguating", address);
+      }
       return {
         name: columns[1],
-        address: fixup(columns[18], ADDRESS_FIXUPS)
+        address: address
       };
     });
     fs.writeFileSync(JSON_FILENAME, stableStringify(data, {space: 2}));
