@@ -22,7 +22,7 @@ function main() {
   csv.parse(data, function(err, data) {
     if (err) throw err;
 
-  // Remove the row w/ column names.
+    // Remove the row w/ column names.
     data.splice(0, 1);
 
     data = data.map(function(columns) {
