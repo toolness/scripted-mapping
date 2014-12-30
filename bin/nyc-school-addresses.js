@@ -1,25 +1,30 @@
 var fs = require('fs');
-var csvrow = require('csvrow');
+var csv = require('csv');
 var stableStringify = require('json-stable-stringify');
 
-var FILENAME = __dirname + "/../data/nyc-school-addresses.csv";
+var BASENAME = "data/nyc-school-addresses";
+var CSV_FILENAME = __dirname + "/../" + BASENAME + ".csv";
+var JSON_FILENAME = __dirname + "/../" + BASENAME + ".json";
 
-module.exports = fs.readFileSync(FILENAME, "utf-8")
-  .split('\n')
-  .slice(1)                        // Remove the row w/ column names.
-  .map(function(row) {
-    var columns = csvrow.parse(row);
-    return {
-      name: columns[0],
-      address: columns[1]
-    };
-  });
+module.exports = JSON.parse(fs.readFileSync(JSON_FILENAME, "utf-8"));
 
 function main() {
-  var outfile = "data/nyc-school-addresses.json";
-  fs.writeFileSync(__dirname + '/../' + outfile,
-                   stableStringify(module.exports, {space: 2}));
-  console.log("wrote " + outfile + ".");
+  var data = fs.readFileSync(CSV_FILENAME, "utf-8");
+  csv.parse(data, function(err, data) {
+    if (err) throw err;
+
+  // Remove the row w/ column names.
+    data.splice(0, 1);
+
+    data = data.map(function(columns) {
+      return {
+        name: columns[0],
+        address: columns[1]
+      };
+    });
+    fs.writeFileSync(JSON_FILENAME, stableStringify(data, {space: 2}));
+    console.log("wrote " + BASENAME + ".json.");
+  });
 }
 
 if (!module.parent)

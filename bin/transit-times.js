@@ -2,7 +2,7 @@ var fs = require('fs');
 var async = require('async');
 var stableStringify = require('json-stable-stringify');
 var request = require('request');
-var csvrow = require('csvrow');
+var csv = require('csv');
 var originPointInfo = require('../data/origin-points.json');
 var schoolInfo = require('./nyc-school-addresses');
 
@@ -45,25 +45,29 @@ function getTransitTime(apiKey, origin, destination, cb) {
   });
 }
 
-function writeCsv() {
+function writeCsv(cb) {
   var headerRow = ["School Name"];
   var lines = [];
 
   originPointInfo.forEach(function(originInfo) {
     headerRow.push("Minutes from " + originInfo.name);
   });
-  lines.push(csvrow.stringify(headerRow));
+  lines.push(headerRow);
   schoolInfo.forEach(function(destinationInfo) {
     var row = [destinationInfo.name];
     originPointInfo.forEach(function(originInfo) {
       var trip = trips[originInfo.address][destinationInfo.address];
       row.push(Math.round(trip.duration / 60).toString());
     });
-    lines.push(csvrow.stringify(row));
+    lines.push(row);
   });
-  fs.writeFileSync(__dirname +
-                   "/../data/transit-times.csv", lines.join('\n'));
-  console.log("Wrote data/transit-times.csv.");
+  csv.stringify(lines, function(err, lines) {
+    if (err) return cb(err);
+    fs.writeFileSync(__dirname +
+                     "/../data/transit-times.csv", lines);
+    console.log("Wrote data/transit-times.csv.");
+    cb(null);
+  });
 }
 
 function main() {
@@ -101,8 +105,10 @@ function main() {
     });
   }, function(err) {
     if (err) throw err;
-    writeCsv();
-    console.log("Done.");
+    writeCsv(function(err) {
+      if (err) throw err;
+      console.log("Done.");
+    });
   });
 }
 
