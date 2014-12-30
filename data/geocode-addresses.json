@@ -34,6 +34,11 @@
     "lat": 40.823187,
     "lng": -73.897385
   },
+  "1001 INTERVALE AVE, BRONX NY 10459": {
+    "formatted_address": "1001 Intervale Avenue, Bronx, NY 10459, USA",
+    "lat": 40.823187,
+    "lng": -73.897385
+  },
   "101 Park Avenue, Brooklyn, NY, 11205": {
     "formatted_address": "101 Park Avenue, Brooklyn, NY 11205, USA",
     "lat": 40.6967378,
@@ -45,6 +50,11 @@
     "lng": -73.8369699
   },
   "1010 REV JAMES POLITE AVE": {
+    "formatted_address": "1010 Rev James A Polite Avenue, Bronx, NY 10459, USA",
+    "lat": 40.82349,
+    "lng": -73.8985308
+  },
+  "1010 REV JAMES POLITE AVE, BRONX NY 10459": {
     "formatted_address": "1010 Rev James A Polite Avenue, Bronx, NY 10459, USA",
     "lat": 40.82349,
     "lng": -73.8985308
@@ -199,6 +209,11 @@
     "lat": 40.6775666,
     "lng": -73.9040643
   },
+  "1495 HERKIMER ST, BROOKLYN NY 11233": {
+    "formatted_address": "1495 Herkimer Street, Brooklyn, NY 11233, USA",
+    "lat": 40.6775666,
+    "lng": -73.9040643
+  },
   "1495 HERKIMER STREET, Brooklyn NY 11233": {
     "formatted_address": "1495 Herkimer Street, Brooklyn, NY 11233, USA",
     "lat": 40.6775666,
@@ -295,6 +310,11 @@
     "lng": -73.7709457
   },
   "198 VARET ST": {
+    "formatted_address": "198 Varet Street, Brooklyn, NY 11206, USA",
+    "lat": 40.7035601,
+    "lng": -73.9358592
+  },
+  "198 VARET ST, BROOKLYN NY 11206": {
     "formatted_address": "198 Varet Street, Brooklyn, NY 11206, USA",
     "lat": 40.7035601,
     "lng": -73.9358592
@@ -419,6 +439,11 @@
     "lat": 40.6830057,
     "lng": -73.99047589999999
   },
+  "242 HOYT ST, BROOKLYN NY 11217": {
+    "formatted_address": "242 Hoyt Street, Brooklyn, NY 11217, USA",
+    "lat": 40.6830057,
+    "lng": -73.99047589999999
+  },
   "244 East 163rd Street, Bronx, NY 10451": {
     "formatted_address": "244 East 163rd Street, Bronx, NY 10451, USA",
     "lat": 40.8275634,
@@ -490,6 +515,11 @@
     "lng": -73.9937249
   },
   "2900 EXTERIOR STSTE 1R": {
+    "formatted_address": "2900 Exterior Street #1r, Bronx, NY 10463, USA",
+    "lat": 40.8764368,
+    "lng": -73.9057361
+  },
+  "2900 EXTERIOR STSTE 1R, BRONX NY 10463": {
     "formatted_address": "2900 Exterior Street #1r, Bronx, NY 10463, USA",
     "lat": 40.8764368,
     "lng": -73.9057361
@@ -629,6 +659,11 @@
     "lat": 40.8054575,
     "lng": -73.9345446
   },
+  "3872 3RD AVE, BRONX NY 10457": {
+    "formatted_address": "3872 3rd Avenue, Bronx, NY 10457, USA",
+    "lat": 40.8389654,
+    "lng": -73.9000587
+  },
   "40 IRVING PLACE, Manhattan New York 10003": {
     "formatted_address": "40 Irving Place, New York, NY 10003, USA",
     "lat": 40.7354677,
@@ -720,6 +755,11 @@
     "lng": -73.93350869999999
   },
   "455 SOUTHERN BLVD": {
+    "formatted_address": "455 Southern Boulevard, Bronx, NY 10455, USA",
+    "lat": 40.8104897,
+    "lng": -73.90729
+  },
+  "455 SOUTHERN BLVD, BRONX NY 10455": {
     "formatted_address": "455 Southern Boulevard, Bronx, NY 10455, USA",
     "lat": 40.8104897,
     "lng": -73.90729
@@ -864,7 +904,17 @@
     "lat": 40.6896738,
     "lng": -73.9507837
   },
+  "600 LAFAYETTE AVE, BROOKLYN NY 11216": {
+    "formatted_address": "600 Lafayette Avenue, Brooklyn, NY 11216, USA",
+    "lat": 40.6896738,
+    "lng": -73.9507837
+  },
   "600 ST ANN'S AVE": {
+    "formatted_address": "600 Saint Anns Avenue, Bronx, NY 10455, USA",
+    "lat": 40.8145265,
+    "lng": -73.9123068
+  },
+  "600 ST ANN'S AVE, BRONX NY 10455": {
     "formatted_address": "600 Saint Anns Avenue, Bronx, NY 10455, USA",
     "lat": 40.8145265,
     "lng": -73.9123068
@@ -929,7 +979,17 @@
     "lat": 40.817354,
     "lng": -73.887964
   },
+  "830 Hunts Point Ave, BRONX NY 10474": {
+    "formatted_address": "830 Hunts Point Avenue, Bronx, NY 10474, USA",
+    "lat": 40.817354,
+    "lng": -73.887964
+  },
   "838 BROOK AVE": {
+    "formatted_address": "838 Brook Avenue, Bronx, NY 10451, USA",
+    "lat": 40.8218558,
+    "lng": -73.9106357
+  },
+  "838 BROOK AVE, BRONX NY 10454": {
     "formatted_address": "838 Brook Avenue, Bronx, NY 10451, USA",
     "lat": 40.8218558,
     "lng": -73.9106357
@@ -1020,6 +1080,11 @@
     "lng": -73.91268389999999
   },
   "99 Terrace View Ave": {
+    "formatted_address": "99 Terrace View Avenue, Bronx, NY 10463, USA",
+    "lat": 40.8771416,
+    "lng": -73.91268389999999
+  },
+  "99 Terrace View Ave, BRONX NY 10463": {
     "formatted_address": "99 Terrace View Avenue, Bronx, NY 10463, USA",
     "lat": 40.8771416,
     "lng": -73.91268389999999
