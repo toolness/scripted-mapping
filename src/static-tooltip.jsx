@@ -5,6 +5,16 @@ define(function(require) {
   var BAD_TIME = 45;
 
   var StaticTooltip = React.createClass({
+    renderProgramInfo: function() {
+      if (this.props.programs.length == 0) return null;
+      return (
+        <ul className="list-inline">
+          {this.props.programs.map(function(program) {
+            return <li key={program}><span className="label label-default">{program}</span></li>;
+          })}
+        </ul>
+      );
+    },
     renderTripInfo: function() {
       return this.props.trips.map(function(trip) {
         var mins = Math.floor(trip.duration / 60);
@@ -29,12 +39,20 @@ define(function(require) {
     },
     render: function() {
       return (
-        <div>
-          <p><strong>{this.props.name}</strong></p>
+        <div style={{lineHeight: '1.2em'}}>
+          <div style={{textTransform: 'uppercase'}}>
+            <strong>{this.props.name}</strong>
+          </div>
+          <div style={{marginBottom: 10}}>
+            <div style={{
+              fontSize: 10,
+              textTransform: 'lowercase'
+            }}>{this.props.address}</div>
+            <div style={{fontSize: 12}}>{this.renderProgramInfo()}</div>
+          </div>
           {this.renderTripInfo()}
           <div className="text-muted" style={{
-            fontSize: 9,
-            lineHeight: '10px'
+            fontSize: 9
           }}>
             Transit times are based on taking public transit at
             9:45am on a weekday morning.
