@@ -6,6 +6,21 @@ var ADDRESS_FIXUPS = {
   "1 CORPORATE COMMONS1 TELEPORT": "1 Teleport Drive, Staten Island, NY 10311",
   "250 EAST 156TH ST4TH FL": "250 East 156th Street, Bronx, NY 10451"
 };
+var PROGRAM_TYPES = [
+  'ScriptEd',
+  'CTE',
+  'MOUSE',
+  'Bootstrap',
+  'SGD',
+  'SEP',
+  'TEALS',
+  'ECS',
+  'ASE',
+  'C/I',
+  'AP CS A',
+  'Club',
+  'Charter'
+];
 var BASENAME = "data/nyc-school-addresses";
 var CSV_FILENAME = __dirname + "/../" + BASENAME + ".csv";
 var JSON_FILENAME = __dirname + "/../" + BASENAME + ".json";
@@ -17,13 +32,35 @@ function fixup(value, fixups) {
   return value;
 }
 
+function makeProgramMapping(columnNames) {
+  var mapping = {};
+
+  PROGRAM_TYPES.forEach(function(name) {
+    var index = columnNames.indexOf(name);
+    if (index == -1)
+      throw new Error("Column not found: " + name);
+    mapping[name] = index;
+  });
+
+  return mapping;
+}
+
+function getPrograms(columns, mapping) {
+  return Object.keys(mapping).filter(function(name) {
+    var index = mapping[name];
+    if (columns[index] == "YES") return true;
+    if (columns[index])
+      throw new Error("Unexpected boolean value: " + columns[index]);
+  });
+}
+
 function main() {
   var data = fs.readFileSync(CSV_FILENAME, "utf-8");
   csv.parse(data, function(err, data) {
     if (err) throw err;
 
-    // Remove the row w/ column names.
-    data.splice(0, 1);
+    var columnNames = data.splice(0, 1)[0];
+    var programMapping = makeProgramMapping(columnNames);
 
     data = data.map(function(columns) {
       var address = fixup(columns[18], ADDRESS_FIXUPS);
@@ -35,7 +72,8 @@ function main() {
       }
       return {
         name: columns[1],
-        address: address
+        address: address,
+        programs: getPrograms(columns, programMapping)
       };
     });
     fs.writeFileSync(JSON_FILENAME, stableStringify(data, {space: 2}));
