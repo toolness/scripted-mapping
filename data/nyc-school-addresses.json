@@ -1,1006 +1,1715 @@
 [
   {
     "address": "225 East 23rd Street, New York, NY 10010",
-    "name": "47 American Sign Language and English Secondary School"
+    "name": "47 American Sign Language and English Secondary School",
+    "programs": [
+      "ECS"
+    ]
   },
   {
     "address": "443 W 135th St, New York, NY 10031",
-    "name": "A PHILIP RANDOLPH CAMPUS HIGH SCHOOL"
+    "name": "A PHILIP RANDOLPH CAMPUS HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "150 ALBANY AVE, BROOKLYN, NY 11213",
-    "name": "ACADEMY FOR HEALTH CAREERS"
+    "name": "ACADEMY FOR HEALTH CAREERS",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "1700 Macombs Road, Bronx, NY 10453",
-    "name": "ACADEMY FOR LANGUAGE AND TECHNOLOGY"
+    "name": "ACADEMY FOR LANGUAGE AND TECHNOLOGY",
+    "programs": [
+      "CTE",
+      "MOUSE"
+    ]
   },
   {
     "address": "921 East 228th Street, Bronx, NY 10466",
-    "name": "Academy for Scholarship and Entrepreneurship: A College Board School"
+    "name": "Academy for Scholarship and Entrepreneurship: A College Board School",
+    "programs": [
+      "CTE",
+      "ECS"
+    ]
   },
   {
     "address": "30-20 Thomson Avenue, Long Island City, NY 11101",
-    "name": "ACADEMY OF FINANCE AND ENTERPRISE"
+    "name": "ACADEMY OF FINANCE AND ENTERPRISE",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "911 FLATBUSH AVENUE, Brooklyn NY 11226",
-    "name": "Academy of Hospitality and Tourism"
+    "name": "Academy of Hospitality and Tourism",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "999 Jamaica Avenue, Brooklyn, NY 11208",
-    "name": "Academy of Innovative Technology"
+    "name": "Academy of Innovative Technology",
+    "programs": [
+      "ScriptEd"
+    ]
   },
   {
     "address": "561 Grand Avenue, Brooklyn, NY 11238",
-    "name": "ACORN COMMUNITY HIGH SCHOOL"
+    "name": "ACORN COMMUNITY HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "333 East 151st Street, Bronx, NY 10451",
-    "name": "ALFRED E SMITH CAREER AND TECHNICAL HIGH SCHOOL"
+    "name": "ALFRED E SMITH CAREER AND TECHNICAL HIGH SCHOOL",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "321 PALMETTO STREET, Brooklyn, NY 11237",
-    "name": "ALL CITY LEADERSHIP SECONDARY SCHOOL"
+    "name": "ALL CITY LEADERSHIP SECONDARY SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "1010 REV. J. A. POLITE AVENUE, Bronx NY 10459",
-    "name": "ARTURO SCHOMBURG SATELLITE ACADEMY BRONX"
+    "name": "ARTURO SCHOMBURG SATELLITE ACADEMY BRONX",
+    "programs": [
+    ]
   },
   {
     "address": "1495 HERKIMER STREET, Brooklyn NY 11233",
-    "name": "Aspirations Diploma Plus High School"
+    "name": "Aspirations Diploma Plus High School",
+    "programs": [
+      "ECS"
+    ]
   },
   {
     "address": "925 Astor Avenue  Bronx NY 10469",
-    "name": "ASTOR COLLEGIATE ACADEMY"
+    "name": "ASTOR COLLEGIATE ACADEMY",
+    "programs": [
+    ]
   },
   {
     "address": "50 Bedford Avenue, Brooklyn, NY 11222",
-    "name": "Automotive High School"
+    "name": "Automotive High School",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "45-30 36th Street, Long Island City, NY 11101",
-    "name": "AVIATION CAREER AND TECHNICAL HIGH SCHOOL"
+    "name": "AVIATION CAREER AND TECHNICAL HIGH SCHOOL",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "500 East Fordham Road, Bronx, NY 10458",
-    "name": "BELMONT PREPERATORY HIGH SCHOOL"
+    "name": "BELMONT PREPERATORY HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "1700 Fulton Street, Brooklyn, NY 11213",
-    "name": "Boys and Girls High School"
+    "name": "Boys and Girls High School",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "2474 CROTONA AVENUE, Bronx, NY 10458",
-    "name": "Bronx Academy for Software Engineering (BASE)"
+    "name": "Bronx Academy for Software Engineering (BASE)",
+    "programs": [
+      "CTE",
+      "ASE",
+      "C/I"
+    ]
   },
   {
     "address": "339 Morris Avenue, Bronx, NY 10451",
-    "name": "BRONX ACADEMY OF LETTERS"
+    "name": "BRONX ACADEMY OF LETTERS",
+    "programs": [
+    ]
   },
   {
     "address": "800 EAST GUN HILL ROAD, Bronx NY 10467",
-    "name": "BRONX AEROSPACE HIGH SCHOOL"
+    "name": "BRONX AEROSPACE HIGH SCHOOL",
+    "programs": [
+      "Club"
+    ]
   },
   {
     "address": "1365 Fulton Avenue, Bronx, NY 10456",
-    "name": "BRONX CENTER FOR SCIENCE AND MATHEMATICS"
+    "name": "BRONX CENTER FOR SCIENCE AND MATHEMATICS",
+    "programs": [
+      "MOUSE"
+    ]
   },
   {
     "address": "240 EAST 172 STREET, Bronx NY 10457",
-    "name": "BRONX COLLEGIATE ACADEMY"
+    "name": "BRONX COLLEGIATE ACADEMY",
+    "programs": [
+    ]
   },
   {
     "address": "1980 Lafayette Avenue, Bronx, NY 10473",
-    "name": "BRONX COMMUNITY HIGH SCHOOL"
+    "name": "BRONX COMMUNITY HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "1980 Lafayette Avenue, Bronx, NY 10473",
-    "name": "Bronx Compass High School"
+    "name": "Bronx Compass High School",
+    "programs": [
+      "SEP",
+      "Club"
+    ]
   },
   {
     "address": "333 East 151st Street, Bronx, NY 10451",
-    "name": "Bronx Design and Construction Academy"
+    "name": "Bronx Design and Construction Academy",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "99 TERRACE VIEW AVENUE, Bronx NY 10463",
-    "name": "BRONX ENGINEERING AND TECHNOLOGY ACADEMY"
+    "name": "BRONX ENGINEERING AND TECHNOLOGY ACADEMY",
+    "programs": [
+      "CTE",
+      "C/I",
+      "Club"
+    ]
   },
   {
     "address": "500 East Fordham Road, Bronx, NY 10458",
-    "name": "BRONX HIGH SCHOOL LAW AND COMMUNITY SERVICES"
+    "name": "BRONX HIGH SCHOOL LAW AND COMMUNITY SERVICES",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "240 East 172nd Street, Bronx, NY 10457",
-    "name": "BRONX HIGH SCHOOL OF BUSINESS"
+    "name": "BRONX HIGH SCHOOL OF BUSINESS",
+    "programs": [
+      "CTE",
+      "Club"
+    ]
   },
   {
     "address": "1110 BOSTON ROAD, BRONX, NY 10456",
-    "name": "BRONX INTERNATIONAL HIGH SCHOOL"
+    "name": "BRONX INTERNATIONAL HIGH SCHOOL",
+    "programs": [
+      "CTE",
+      "C/I"
+    ]
   },
   {
     "address": "800 Home Street, Rm. 426; Bronx, NY 10456",
-    "name": "BRONX LATIN SCHOOL"
+    "name": "BRONX LATIN SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "1710 WEBSTER AVENUE , Bronx NY 10457",
-    "name": "BRONX LEADERSHIP ACADEMY HIGH SCHOOL"
+    "name": "BRONX LEADERSHIP ACADEMY HIGH SCHOOL",
+    "programs": [
+      "MOUSE",
+      "ECS"
+    ]
   },
   {
     "address": "1001 INTERVALE AVE, BRONX NY 10459",
-    "name": "BRONX LIGHTHOUSE CHARTER SCHOOL"
+    "name": "BRONX LIGHTHOUSE CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "3872 3RD AVE, BRONX NY 10457",
-    "name": "BRONX PREPARATORY CHARTER SCHOOL"
+    "name": "BRONX PREPARATORY CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "1010 REV. J. A. POLITE AVENUE, Bronx NY 10459",
-    "name": "BRONX REGIONAL HS"
+    "name": "BRONX REGIONAL HS",
+    "programs": [
+    ]
   },
   {
     "address": "244 East 163rd Street, Bronx, NY 10451",
-    "name": "BRONX SCHOOL FOR LAW, GOVERNMENT AND JUSTICE"
+    "name": "BRONX SCHOOL FOR LAW, GOVERNMENT AND JUSTICE",
+    "programs": [
+    ]
   },
   {
     "address": "99 Terrace View Avenue, Bronx, NY 10463",
-    "name": "BRONX SCHOOL OF LAW AND FINANCE"
+    "name": "BRONX SCHOOL OF LAW AND FINANCE",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "99 Terrace View Avenue, Bronx, NY 10463",
-    "name": "BRONX THEATRE HIGH SCHOOL"
+    "name": "BRONX THEATRE HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "925 Astor Ave, Bronx NY 10469",
-    "name": "Bronxdale High School"
+    "name": "Bronxdale High School",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "6565 FLATLANDS AVENUE, Brooklyn NY 11236",
-    "name": "BROOKLYN BRIDGE ACADEMY"
+    "name": "BROOKLYN BRIDGE ACADEMY",
+    "programs": [
+    ]
   },
   {
     "address": "2021 Bergen Street, Brooklyn, NY 11233",
-    "name": "BROOKLYN COLLEGIATE A COLLEGE BOARD SCHOOL"
+    "name": "BROOKLYN COLLEGIATE A COLLEGE BOARD SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "300 Willoughby Avenue, Brooklyn, NY 11205",
-    "name": "Brooklyn Community Arts and Media High School"
+    "name": "Brooklyn Community Arts and Media High School",
+    "programs": [
+      "ECS"
+    ]
   },
   {
     "address": "1396 BROADWAY, Brooklyn NY 11221",
-    "name": "Brooklyn High School for Law and Technology"
+    "name": "Brooklyn High School for Law and Technology",
+    "programs": [
+      "ScriptEd"
+    ]
   },
   {
     "address": "49 Flatbush Avenue Extension, Brooklyn, NY 11201",
-    "name": "Brooklyn International High School"
+    "name": "Brooklyn International High School",
+    "programs": [
+      "ScriptEd"
+    ]
   },
   {
     "address": "300 Willoughby Avenue, Brooklyn, NY 11205",
-    "name": "Brooklyn Leadership (transfer school)"
+    "name": "Brooklyn Leadership (transfer school)",
+    "programs": [
+      "Bootstrap",
+      "SGD"
+    ]
   },
   {
     "address": "257 North 6th Street, Brooklyn, NY 11211",
-    "name": "BROOKLYN PREPARATORY HIGH SCHOOL"
+    "name": "BROOKLYN PREPARATORY HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "284 Baltic Street, Brooklyn, NY 11201",
-    "name": "BROOKLYN SCHOOL FOR GLOBAL STUDIES"
+    "name": "BROOKLYN SCHOOL FOR GLOBAL STUDIES",
+    "programs": [
+    ]
   },
   {
     "address": "883 Classon Ave, Brooklyn NY 11225",
-    "name": "Brooklyn School for Music and Theatrer"
+    "name": "Brooklyn School for Music and Theatrer",
+    "programs": [
+      "CTE",
+      "Club"
+    ]
   },
   {
     "address": "6565 FLATLANDS AVENUE, Brooklyn NY 11236",
-    "name": "Brooklyn Theatre Arts High School"
+    "name": "Brooklyn Theatre Arts High School",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "797 Bushwick Ave, Brooklyn NY 11221",
-    "name": "BUSHWICK LEADERS HS FOR ACADEMIC EXCELLENCE"
+    "name": "BUSHWICK LEADERS HS FOR ACADEMIC EXCELLENCE",
+    "programs": [
+    ]
   },
   {
     "address": "400 IRVING AVENUE, Brooklyn NY 11237",
-    "name": "BUSHWICK SCHOOL FOR SOCIAL JUSTICE"
+    "name": "BUSHWICK SCHOOL FOR SOCIAL JUSTICE",
+    "programs": [
+    ]
   },
   {
     "address": "439 West 49th St, Manhattan NY 10019",
-    "name": "Business of Sports School"
+    "name": "Business of Sports School",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "188-4 91st Avenue, Hollis, NY 11423",
-    "name": "Cambria Heights Academy"
+    "name": "Cambria Heights Academy",
+    "programs": [
+      "SEP"
+    ]
   },
   {
     "address": "1573 MADISON AVENUE, Manhattan NY 10029",
-    "name": "CENTRAL PARK EAST HIGH SCHOOL"
+    "name": "CENTRAL PARK EAST HIGH SCHOOL",
+    "programs": [
+      "ECS"
+    ]
   },
   {
     "address": "131 Avenue of the Americas, New York, NY 10013",
-    "name": "CHELSEA CAREER AND TECHNICAL EDUCATION HIGH SCHOOL"
+    "name": "CHELSEA CAREER AND TECHNICAL EDUCATION HIGH SCHOOL",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "4600 Broadway, New York, NY 10040",
-    "name": "CITY COLLEGE ACADEMY OF THE ARTS"
+    "name": "CITY COLLEGE ACADEMY OF THE ARTS",
+    "programs": [
+    ]
   },
   {
     "address": "105 Tech Place, Brooklyn, NY 11201",
-    "name": "City Polytechnic High School of Engineering, Architecture, and Technology"
+    "name": "City Polytechnic High School of Engineering, Architecture, and Technology",
+    "programs": [
+      "ScriptEd"
+    ]
   },
   {
     "address": "901 Classon Avenue, Brooklyn, NY 11225",
-    "name": "CLARA BARTON HIGH SCHOOL"
+    "name": "CLARA BARTON HIGH SCHOOL",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "240 East 172nd Street, Bronx, NY 10457",
-    "name": "Claremont International High School"
+    "name": "Claremont International High School",
+    "programs": [
+      "ScriptEd"
+    ]
   },
   {
     "address": "2351 1st Avenue, New York, NY 10035",
-    "name": "COALITION SCHOOL FOR SOCIAL CHANGE"
+    "name": "COALITION SCHOOL FOR SOCIAL CHANGE",
+    "programs": [
+    ]
   },
   {
     "address": "347 BALTIC STREET, Brooklyn NY 11201",
-    "name": "COBBLE HILL SCHOOL OF AMERICAN STUDIES"
+    "name": "COBBLE HILL SCHOOL OF AMERICAN STUDIES",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "925 Astor Avenue, Bronx, NY 10469",
-    "name": "COLLEGIATE INSTITUTE FOR MATH AND SCIENCE"
+    "name": "COLLEGIATE INSTITUTE FOR MATH AND SCIENCE",
+    "programs": [
+      "Club"
+    ]
   },
   {
     "address": "350 Gerard Avenue, Bronx, NY 10451",
-    "name": "COMMUNITY SCHOOL FOR SOCIAL JUSTICE"
+    "name": "COMMUNITY SCHOOL FOR SOCIAL JUSTICE",
+    "programs": [
+    ]
   },
   {
     "address": "580 Crotona Park South, Bronx, NY 10456",
-    "name": "Comprehensive Model School Project"
+    "name": "Comprehensive Model School Project",
+    "programs": [
+      "ECS"
+    ]
   },
   {
     "address": "112 East 106th Street, New York, NY 10029",
-    "name": "Cristo Rey New York High School"
+    "name": "Cristo Rey New York High School",
+    "programs": [
+      "ScriptEd"
+    ]
   },
   {
     "address": "2474 CROTONA AVENUE, Bronx, NY 10458",
-    "name": "CROTONA INTERNATIONAL HIGH SCHOOL"
+    "name": "CROTONA INTERNATIONAL HIGH SCHOOL",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "5800 Tilden Avenue, Brooklyn, NY 11203",
-    "name": "Cultural Academy for the Arts and Sciences"
+    "name": "Cultural Academy for the Arts and Sciences",
+    "programs": [
+    ]
   },
   {
     "address": "100 WEST MOSHOLU PARKWAY SOUTH, BRONX NY",
-    "name": "DEWITT CLINTON HIGH SCHOOL"
+    "name": "DEWITT CLINTON HIGH SCHOOL",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "2780 Reservoir Avenue, Bronx, NY 10468",
-    "name": "DISCOVERY HIGH SCHOOL"
+    "name": "DISCOVERY HIGH SCHOOL",
+    "programs": [
+      "C/I"
+    ]
   },
   {
     "address": "101 Park Avenue, Brooklyn, NY, 11205",
-    "name": "DR SUSAN S MCKINNEY SECONDARY SCHOOL OF THE ARTS"
+    "name": "DR SUSAN S MCKINNEY SECONDARY SCHOOL OF THE ARTS",
+    "programs": [
+      "MOUSE"
+    ]
   },
   {
     "address": "240 East 172nd Street, Bronx, NY 10457",
-    "name": "DREAMYARD PREPARATORY SCHOOL"
+    "name": "DREAMYARD PREPARATORY SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "4143 3rd Avenue, Bronx, NY 10457",
-    "name": "Eagle Academy for Young Men"
+    "name": "Eagle Academy for Young Men",
+    "programs": [
+      "SEP",
+      "TEALS"
+    ]
   },
   {
     "address": "1716 Southern Boulevard, Bronx, NY 10460",
-    "name": "EAST BRONX ACADEMY FOR THE FUTURE"
+    "name": "EAST BRONX ACADEMY FOR THE FUTURE",
+    "programs": [
+    ]
   },
   {
     "address": "2057 LINDEN BOULEVARD; Brooklyn NY 11207",
-    "name": "EAST NEW YORK FAMILY ACADEMY"
+    "name": "EAST NEW YORK FAMILY ACADEMY",
+    "programs": [
+      "Bootstrap"
+    ]
   },
   {
     "address": "420 East 12th Street, New York, NY 10009",
-    "name": "EAST SIDE COMMUNITY SCHOOL"
+    "name": "EAST SIDE COMMUNITY SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "46-21 Colden Street, Flushing, NY 11355",
-    "name": "EAST WEST SCHOOL OF INTERNATIONAL STUDIES"
+    "name": "EAST WEST SCHOOL OF INTERNATIONAL STUDIES",
+    "programs": [
+      "TEALS",
+      "ECS"
+    ]
   },
   {
     "address": "1155 DEKALB AVENUE, Brooklyn NY 11221",
-    "name": "EBC HIGH SCHOOL FOR PUBLIC SERVICE BUSHWICK"
+    "name": "EBC HIGH SCHOOL FOR PUBLIC SERVICE BUSHWICK",
+    "programs": [
+    ]
   },
   {
     "address": "140 West 102nd Street, New York, NY 10025",
-    "name": "Edward A. Reynolds West Side HS"
+    "name": "Edward A. Reynolds West Side HS",
+    "programs": [
+      "Bootstrap"
+    ]
   },
   {
     "address": "100 HESTER STREET, Manhattan NY 10002",
-    "name": "EMMA LAZARUS HIGH SCHOOL"
+    "name": "EMMA LAZARUS HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "36-41 28 St, Queens NY 11106",
-    "name": "Energy Tech High School"
+    "name": "Energy Tech High School",
+    "programs": [
+      "CTE",
+      "Bootstrap"
+    ]
   },
   {
     "address": "99 Terrace View Avenue, Bronx, NY 10463",
-    "name": "ENGLISH LANGUAGE LEARNERS AND INTERNATIONAL SUPPOR"
+    "name": "ENGLISH LANGUAGE LEARNERS AND INTERNATIONAL SUPPOR",
+    "programs": [
+    ]
   },
   {
     "address": "1363 FULTON AVENUE, Bronx NY 10456",
-    "name": "EXIMIUS COLLEGE PREPARATORY ACADEMY"
+    "name": "EXIMIUS COLLEGE PREPARATORY ACADEMY",
+    "programs": [
+      "Club"
+    ]
   },
   {
     "address": "2630 Benson Avenue, Brooklyn, NY 11214",
-    "name": "Expeditionary Learning School for Community Leaders"
+    "name": "Expeditionary Learning School for Community Leaders",
+    "programs": [
+      "TEALS",
+      "Club"
+    ]
   },
   {
     "address": "1619 Boston Road, Bronx, NY 10460",
-    "name": "EXPLORATIONS ACADEMY"
+    "name": "EXPLORATIONS ACADEMY",
+    "programs": [
+      "Club"
+    ]
   },
   {
     "address": "525 West 50th Street, New York, NY 10019",
-    "name": "FACING HISTORY SCHOOL"
+    "name": "FACING HISTORY SCHOOL",
+    "programs": [
+      "Club"
+    ]
   },
   {
     "address": "1021 JENNINGS STREET, Bronx NY 10460",
-    "name": "FANNIE LOU HAMER FREEDOM HIGH SCHOOL"
+    "name": "FANNIE LOU HAMER FREEDOM HIGH SCHOOL",
+    "programs": [
+      "C/I"
+    ]
   },
   {
     "address": "400 Pennsylvania Ave, Brooklyn NY 11207",
-    "name": "FDNY High School for Fire and Life Safey"
+    "name": "FDNY High School for Fire and Life Safey",
+    "programs": [
+      "CTE",
+      "Club"
+    ]
   },
   {
     "address": "1440 Story Avenue, Bronx, NY 10473",
-    "name": "FELISA RINCON DE GAUTIER INSTITUTE FOR LAW AND PUB"
+    "name": "FELISA RINCON DE GAUTIER INSTITUTE FOR LAW AND PUB",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "144-80 Barclay Avenue, Flushing, NY 11355",
-    "name": "FLUSHING INTERNATIONAL HIGH SCHOOL"
+    "name": "FLUSHING INTERNATIONAL HIGH SCHOOL",
+    "programs": [
+      "Bootstrap"
+    ]
   },
   {
     "address": "525 West 50th Street, New York, NY 10019",
-    "name": "FOOD AND FINANCE HIGH SCHOOL"
+    "name": "FOOD AND FINANCE HIGH SCHOOL",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "500 East Fordham Road, Bronx, NY 10458",
-    "name": "FORDHAM HIGH SCHOOL FOR THE ARTS"
+    "name": "FORDHAM HIGH SCHOOL FOR THE ARTS",
+    "programs": [
+      "CTE",
+      "C/I"
+    ]
   },
   {
     "address": "500 East Fordham Road, Bronx, NY 10458",
-    "name": "FORDHAM LEADERSHIP ACADEMY FOR BUSINESS AND TECHNO"
+    "name": "FORDHAM LEADERSHIP ACADEMY FOR BUSINESS AND TECHNO",
+    "programs": [
+    ]
   },
   {
     "address": "70 TOMPKINS AVENUE, Brooklyn NY 11206",
-    "name": "FOUNDATIONS ACADEMY"
+    "name": "FOUNDATIONS ACADEMY",
+    "programs": [
+    ]
   },
   {
     "address": "50 Bedford Avenue, Brooklyn, NY 11222",
-    "name": "FRANCES PERKINS ACADEMY"
+    "name": "FRANCES PERKINS ACADEMY",
+    "programs": [
+    ]
   },
   {
     "address": "58-20 Utopia Parkway, Queens NY 11365",
-    "name": "Francis Lewis High School"
+    "name": "Francis Lewis High School",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "5800 20th Ave, Brooklyn, NY 11204",
-    "name": "FRANKLIN DELANO ROOSEVELT HIGH SCHOOL"
+    "name": "FRANKLIN DELANO ROOSEVELT HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "3630 3rd Ave, Bronx, NY 10456",
-    "name": "FREDERICK DOUGLAS ACADEMY III SECONDARY SCHOOL"
+    "name": "FREDERICK DOUGLAS ACADEMY III SECONDARY SCHOOL",
+    "programs": [
+      "ECS"
+    ]
   },
   {
     "address": "226 Bristol Street, Brooklyn, NY 11212",
-    "name": "FREDERICK DOUGLAS ACADEMY VII HIGH SCHOOL"
+    "name": "FREDERICK DOUGLAS ACADEMY VII HIGH SCHOOL",
+    "programs": [
+      "Club"
+    ]
   },
   {
     "address": "2581 Adam Clayton Powell Junior Boulevard, New York, NY 10039",
-    "name": "FREDERICK DOUGLASS ACADEMY"
+    "name": "FREDERICK DOUGLASS ACADEMY",
+    "programs": [
+    ]
   },
   {
     "address": "143-10 Sprinfield Blvd, Queens NY 11413",
-    "name": "George Washington Carver High School for the Science"
+    "name": "George Washington Carver High School for the Science",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "105 Johnson Street, Brooklyn, NY 11201",
-    "name": "George Westinghouse High School"
+    "name": "George Westinghouse High School",
+    "programs": [
+      "ScriptEd",
+      "ECS"
+    ]
   },
   {
     "address": "501 West 165th Street, New York, NY 10032",
-    "name": "GREGORIO LUPERON HIGH SCH FOR SCIENCE AND MATHEMAT"
+    "name": "GREGORIO LUPERON HIGH SCH FOR SCIENCE AND MATHEMAT",
+    "programs": [
+      "TEALS"
+    ]
   },
   {
     "address": "35 West 124th Street, Manhattan NY 10027",
-    "name": "Harlem Village Academies High School"
+    "name": "Harlem Village Academies High School",
+    "programs": [
+      "ScriptEd",
+      "Charter"
+    ]
   },
   {
     "address": "2 Astor Place #3, New York, NY 10003",
-    "name": "HARVEY MILK HIGH SCHOOL"
+    "name": "HARVEY MILK HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "455 Southern Blvd, Bronx NY 10455",
-    "name": "Health, Education, and Research occupations High School (H.E.R.O)"
+    "name": "Health, Education, and Research occupations High School (H.E.R.O)",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "94-06 104TH STREET, Queens NY 11416",
-    "name": "HIGH SCH CONSTRUCTION, TRADES, ENGINEERING AND ARC"
+    "name": "HIGH SCH CONSTRUCTION, TRADES, ENGINEERING AND ARC",
+    "programs": [
+    ]
   },
   {
     "address": "105-25 HORACE HARDING EXPY N, Queens NY 11368",
-    "name": "HIGH SCHOOL FOR ARTS AND BUSINESS"
+    "name": "HIGH SCHOOL FOR ARTS AND BUSINESS",
+    "programs": [
+      "CTE",
+      "AP CS A"
+    ]
   },
   {
     "address": "122 Amsterdam Avenue, New York, NY 10023",
-    "name": "High School for Arts, Imagination and Inquiry"
+    "name": "High School for Arts, Imagination and Inquiry",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "2474 CROTONA AVENUE, Bronx, NY 10458",
-    "name": "HIGH SCHOOL FOR ENERGY AND TECHNOLOGY"
+    "name": "HIGH SCHOOL FOR ENERGY AND TECHNOLOGY",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "883 Classon Avenue, Brooklyn, NY 11225",
-    "name": "High School for Global Citizenship"
+    "name": "High School for Global Citizenship",
+    "programs": [
+      "ScriptEd",
+      "TEALS"
+    ]
   },
   {
     "address": "345 East 15th Sst Manhattan NY 10003",
-    "name": "HIGH SCHOOL FOR HEALTH PROFESSIONS AND HUMAN SERVICES"
+    "name": "HIGH SCHOOL FOR HEALTH PROFESSIONS AND HUMAN SERVICES",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "1600 Rockaway Parkway, Brooklyn NY 11236",
-    "name": "HIGH SCHOOL FOR INNOVATION IN ADVERTISING AND MEDIA"
+    "name": "HIGH SCHOOL FOR INNOVATION IN ADVERTISING AND MEDIA",
+    "programs": [
+      "CTE",
+      "ECS"
+    ]
   },
   {
     "address": "549 AUDUBON AVENUE, Manhattan NY 10040",
-    "name": "HIGH SCHOOL FOR INTERNATIONAL BUSINESS AND FINANCE"
+    "name": "HIGH SCHOOL FOR INTERNATIONAL BUSINESS AND FINANCE",
+    "programs": [
+    ]
   },
   {
     "address": "40 IRVING PLACE, Manhattan New York 10003",
-    "name": "High School for Language and Diplomacy"
+    "name": "High School for Language and Diplomacy",
+    "programs": [
+      "ScriptEd",
+      "TEALS"
+    ]
   },
   {
     "address": "549 Audubon Ave, New York, NY 10040",
-    "name": "HIGH SCHOOL FOR LAW AND PUBLIC SERVICE"
+    "name": "HIGH SCHOOL FOR LAW AND PUBLIC SERVICE",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "2780 Reservoir Avenue, Bronx, NY 10468",
-    "name": "HIGH SCHOOL FOR TEACHING AND THE PROFESSIONS"
+    "name": "HIGH SCHOOL FOR TEACHING AND THE PROFESSIONS",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "911 FLATBUSH AVENUE, Brooklyn NY 11226",
-    "name": "HIGH SCHOOL FOR YOUTH AND COMMUNITY DEVELOPMENT"
+    "name": "HIGH SCHOOL FOR YOUTH AND COMMUNITY DEVELOPMENT",
+    "programs": [
+    ]
   },
   {
     "address": "122 Amsterdam Avenue, New York, NY 10023",
-    "name": "HIGH SCHOOL OF ARTS AND TECHNOLOGY"
+    "name": "HIGH SCHOOL OF ARTS AND TECHNOLOGY",
+    "programs": [
+      "MOUSE"
+    ]
   },
   {
     "address": "800 EAST GUN HILL ROAD, Bronx NY 10467",
-    "name": "HIGH SCHOOL OF COMPUTERS AND TECHNOLOGY"
+    "name": "HIGH SCHOOL OF COMPUTERS AND TECHNOLOGY",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "100 Trinity Place, Manhattan NY 10006",
-    "name": "HIGH SCHOOL OF ECONOMICS AND FINANCE"
+    "name": "HIGH SCHOOL OF ECONOMICS AND FINANCE",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "525 WEST 50TH STREET, Manhattan NY 10019",
-    "name": "HIGH SCHOOL OF HOSPITALITY MANAGEMENT"
+    "name": "HIGH SCHOOL OF HOSPITALITY MANAGEMENT",
+    "programs": [
+    ]
   },
   {
     "address": "2630 Benson Avenue, Brooklyn, NY 11214",
-    "name": "HIGH SCHOOL OF SPORTS MANAGEMENT"
+    "name": "HIGH SCHOOL OF SPORTS MANAGEMENT",
+    "programs": [
+    ]
   },
   {
     "address": "350 67th Street, Brooklyn, NY 11220",
-    "name": "High School of Telecommunication Arts and Technology"
+    "name": "High School of Telecommunication Arts and Technology",
+    "programs": [
+      "SEP"
+    ]
   },
   {
     "address": "1300 Boynton Avenue, Bronx, NY 10472",
-    "name": "HIGH SCHOOL OF WORLD CULTURES"
+    "name": "HIGH SCHOOL OF WORLD CULTURES",
+    "programs": [
+    ]
   },
   {
     "address": "160-05 HIGHLAND AVENUE, Queens NY 11432",
-    "name": "HILLCREST HIGH SCHOOL"
+    "name": "HILLCREST HIGH SCHOOL",
+    "programs": [
+      "CTE",
+      "ECS"
+    ]
   },
   {
     "address": "965 Longwood, Bronx NY",
-    "name": "HOLCOMBE L RUCKER SCHOOL OF COMMUNITY RESEARCH"
+    "name": "HOLCOMBE L RUCKER SCHOOL OF COMMUNITY RESEARCH",
+    "programs": [
+    ]
   },
   {
     "address": "600 Kingston Avenue, Brooklyn, NY 11203",
-    "name": "HS FOR PUBLIC SERVICE HEROES OF TOMORROW"
+    "name": "HS FOR PUBLIC SERVICE HEROES OF TOMORROW",
+    "programs": [
+    ]
   },
   {
     "address": "830 Hunts Point Ave, BRONX NY 10474",
-    "name": "HYDE LEADERSHIP CHARTER SCHOOL"
+    "name": "HYDE LEADERSHIP CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "2975 Tibbett Ave, Bronx NY, 10463",
-    "name": "IN TECH ACADEMY AKA MS HS 368"
+    "name": "IN TECH ACADEMY AKA MS HS 368",
+    "programs": [
+      "CTE",
+      "MOUSE"
+    ]
   },
   {
     "address": "21-16 44th Road, Long Island City, NY 11101",
-    "name": "INFORMATION TECHNOLOGY HIGH SCHOOL"
+    "name": "INFORMATION TECHNOLOGY HIGH SCHOOL",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "207- 01 116TH AVENUE, Queens NY 11411",
-    "name": "INSTITUTE FOR HEALTH PROFESSIONS AT CAMBRIA HEIGHTS"
+    "name": "INSTITUTE FOR HEALTH PROFESSIONS AT CAMBRIA HEIGHTS",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "345 Brook Avenue, Bronx, NY 10454",
-    "name": "INTERNATIONAL COMMUNITY HIGH SCHOOL"
+    "name": "INTERNATIONAL COMMUNITY HIGH SCHOOL",
+    "programs": [
+      "ECS"
+    ]
   },
   {
     "address": "45-35 Van Dam Street, Long Island City, NY 11101",
-    "name": "INTERNATIONAL HIGH SCHOOL AT LAGUARDIA COMMUNITY C"
+    "name": "INTERNATIONAL HIGH SCHOOL AT LAGUARDIA COMMUNITY C",
+    "programs": [
+    ]
   },
   {
     "address": "48-01 90 St, Queens NY 11373",
-    "name": "INTERNATIONAL HIGH SCHOOL FOR HEALTH SCIENCES"
+    "name": "INTERNATIONAL HIGH SCHOOL FOR HEALTH SCIENCES",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "2900 EXTERIOR STSTE 1R, BRONX NY 10463",
-    "name": "INTERNATIONAL LEADERSHIP CHARTER SCHOOL"
+    "name": "INTERNATIONAL LEADERSHIP CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "2780 Reservoir Avenue, Bronx, NY 10468",
-    "name": "INTERNATIONAL SCHOOL FOR LIBERAL ARTS"
+    "name": "INTERNATIONAL SCHOOL FOR LIBERAL ARTS",
+    "programs": [
+    ]
   },
   {
     "address": "5800 TILDEN AVENUE, Brooklyn NY 11203",
-    "name": "IT TAKES A VILLAGE ACADEMY"
+    "name": "IT TAKES A VILLAGE ACADEMY",
+    "programs": [
+    ]
   },
   {
     "address": "120 WEST 46 STREET, Manhattan NY 10026",
-    "name": "JACQUELINE KENNEDY ONASSIS HIGH SCHOOL"
+    "name": "JACQUELINE KENNEDY ONASSIS HIGH SCHOOL",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "101-01 ROCKAWAY BOULEVARD, Queens, NY 11417",
-    "name": "JOHN ADAMS HIGH SCHOOL"
+    "name": "JOHN ADAMS HIGH SCHOOL",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "50 Avenue X, Brooklyn NY 11223",
-    "name": "JOHN DEWEY HIGH SCHOOL"
+    "name": "JOHN DEWEY HIGH SCHOOL",
+    "programs": [
+      "CTE",
+      "MOUSE",
+      "AP CS A"
+    ]
   },
   {
     "address": "1 Teleport Drive, Staten Island, NY 10311",
-    "name": "JOHN W LAVELLE PREPARATORY CHARTER SCHOOL"
+    "name": "JOHN W LAVELLE PREPARATORY CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "215 Heyward Street, Brooklyn, NY 11206",
-    "name": "JUAN MOREL CAMPOS SECONDARY SCHOOL"
+    "name": "JUAN MOREL CAMPOS SECONDARY SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "2780 Reservoir Avenue, Bronx, NY 10468",
-    "name": "KINGSBRIDGE INTERNATIONAL HIGH SCHOOL"
+    "name": "KINGSBRIDGE INTERNATIONAL HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "250 East 156th Street, Bronx, NY 10451",
-    "name": "KIPP ACADEMY CHARTER SCHOOL"
+    "name": "KIPP ACADEMY CHARTER SCHOOL",
+    "programs": [
+      "TEALS",
+      "Charter"
+    ]
   },
   {
     "address": "500 East Fordham Road, Bronx, NY 10458",
-    "name": "KNOWLEDGE AND POWER PREP ACADEMY INTERNATIONAL HIG"
+    "name": "KNOWLEDGE AND POWER PREP ACADEMY INTERNATIONAL HIG",
+    "programs": [
+    ]
   },
   {
     "address": "351 West 18th Street, New York, NY 10011",
-    "name": "LANDMARK HIGH SCHOOL"
+    "name": "LANDMARK HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "925 Astor Avenue, Bronx, NY 10469",
-    "name": "Language and Innovation"
+    "name": "Language and Innovation",
+    "programs": [
+    ]
   },
   {
     "address": "90 Trinity Place, New York, NY 10006",
-    "name": "LEADERSHIP AND PUBLIC SERVICE HIGH SCHOOL"
+    "name": "LEADERSHIP AND PUBLIC SERVICE HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "1701 FULTON AVENUE, Bronx NY 10457",
-    "name": "LEADERSHIP INSTITUTE"
+    "name": "LEADERSHIP INSTITUTE",
+    "programs": [
+    ]
   },
   {
     "address": "2630 Benson Avenue, Brooklyn, NY 11214",
-    "name": "LIFE ACADEMY HIGH SCHOOL FOR FILM AND MUSIC"
+    "name": "LIFE ACADEMY HIGH SCHOOL FOR FILM AND MUSIC",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "320 E 96th St, New York, NY 10128",
-    "name": "LIFE SCIENCES SECONDARY SCHOOL"
+    "name": "LIFE SCIENCES SECONDARY SCHOOL",
+    "programs": [
+      "Club"
+    ]
   },
   {
     "address": "14-30 Broadway, Queens NY 11106",
-    "name": "LONG ISLAND CITY HIGH SCHOOL"
+    "name": "LONG ISLAND CITY HIGH SCHOOL",
+    "programs": [
+      "CTE",
+      "AP CS A"
+    ]
   },
   {
     "address": "145 STANTON STREET, Manhattan NY 10002",
-    "name": "LOWER EAST SIDE PREPARATORY HIGH SCHOOL"
+    "name": "LOWER EAST SIDE PREPARATORY HIGH SCHOOL",
+    "programs": [
+      "MOUSE",
+      "ECS"
+    ]
   },
   {
     "address": "223 Graham Avenue, Brooklyn, NY 11206",
-    "name": "LYONS COMMUNITY SCHOOL"
+    "name": "LYONS COMMUNITY SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "111 EAST 33RD STREET, Manhattan NY 10016",
-    "name": "MANHATTAN ACADEMY FOR ARTS & LANGUAGE"
+    "name": "MANHATTAN ACADEMY FOR ARTS & LANGUAGE",
+    "programs": [
+      "MOUSE"
+    ]
   },
   {
     "address": "525 West 50th Street, New York, NY 10019",
-    "name": "MANHATTAN BRIDGES HIGH SCHOOL"
+    "name": "MANHATTAN BRIDGES HIGH SCHOOL",
+    "programs": [
+      "CTE",
+      "MOUSE"
+    ]
   },
   {
     "address": "351 West 18th Street, New York, NY 10011",
-    "name": "MANHATTAN BUSINESS ACADEMY"
+    "name": "MANHATTAN BUSINESS ACADEMY",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "260 PLEASANT AVENUE, Manhattan NY 10029",
-    "name": "MANHATTAN CENTER FOR SCIENCE AND MATH"
+    "name": "MANHATTAN CENTER FOR SCIENCE AND MATH",
+    "programs": [
+      "AP CS A"
+    ]
   },
   {
     "address": "317,E 67th St,New York,NY,10065-6051",
-    "name": "Manhattan International High School"
+    "name": "Manhattan International High School",
+    "programs": [
+      "ScriptEd"
+    ]
   },
   {
     "address": "99 TERRACE VIEW AVENUE, Bronx NY 10463",
-    "name": "MARBLE HILL HIGH SCHOOL OF INTERNATIONAL STUDIES"
+    "name": "MARBLE HILL HIGH SCHOOL OF INTERNATIONAL STUDIES",
+    "programs": [
+    ]
   },
   {
     "address": "145 STANTON STREET, Manhattan NY 10002",
-    "name": "MARTA VALLE HIGH SCHOOL"
+    "name": "MARTA VALLE HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "985 Rockaway Avenue, Brooklyn, NY 11212",
-    "name": "METROPOLITAN DIPLOMA PLUS HIGH SCHOOL"
+    "name": "METROPOLITAN DIPLOMA PLUS HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "1180 Rev James A Polite Avenue, Bronx, NY 10459",
-    "name": "METROPOLITAN HIGH SCHOOL"
+    "name": "METROPOLITAN HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "1100 Boston Road, Bronx, NY 10456",
-    "name": "MORRIS ACADEMY FOR COLLABORATIVE STUDIES"
+    "name": "MORRIS ACADEMY FOR COLLABORATIVE STUDIES",
+    "programs": [
+    ]
   },
   {
     "address": "1595 Bathgate Avenue, Bronx, NY 10457",
-    "name": "MOTT HALL BRONX HIGH SCHOOL"
+    "name": "MOTT HALL BRONX HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "6 EDGECOMBE AVENUE, Manhattan NY 10030",
-    "name": "MOTT HALL HIGH SCHOOL"
+    "name": "MOTT HALL HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "701 Saint Anns Avenue, Bronx, NY 10455",
-    "name": "MOTT HAVEN VILLAGE PREP HIGH SCHOOL"
+    "name": "MOTT HAVEN VILLAGE PREP HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "999 Jamaica Avenue, Brooklyn, NY 11208",
-    "name": "MULTICULTURAL HIGH SCHOOL"
+    "name": "MULTICULTURAL HIGH SCHOOL",
+    "programs": [
+      "ECS"
+    ]
   },
   {
     "address": "111 EAST 33RD STREET, Manhattan NY 10016",
-    "name": "MURRAY HILL ACADEMY"
+    "name": "MURRAY HILL ACADEMY",
+    "programs": [
+      "MOUSE",
+      "ECS"
+    ]
   },
   {
     "address": "242 HOYT ST, BROOKLYN NY 11217",
-    "name": "NEW DAWN CHARTER HIGH SCHOOL"
+    "name": "NEW DAWN CHARTER HIGH SCHOOL",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "350 GRAND STREET, Manhattan NY 10002",
-    "name": "NEW DESIGN HIGH SCHOOL"
+    "name": "NEW DESIGN HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "730 CONCOURSE VILLAGE WEST, Bronx NY 10451",
-    "name": "NEW EXPLORERS HIGH SCHOOL"
+    "name": "NEW EXPLORERS HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "99 Terrace View Ave, BRONX NY 10463",
-    "name": "NEW VISIONS CHARTER HIGH SCHOOL FOR ADVANCED MATH"
+    "name": "NEW VISIONS CHARTER HIGH SCHOOL FOR ADVANCED MATH",
+    "programs": [
+      "C/I",
+      "Charter"
+    ]
   },
   {
     "address": "455 SOUTHERN BLVD, BRONX NY 10455",
-    "name": "NEW VISIONS CHARTER HIGH SCHOOL FOR HUMANITIES II"
+    "name": "NEW VISIONS CHARTER HIGH SCHOOL FOR HUMANITIES II",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "921 East 228th Street, Bronx, NY 10466",
-    "name": "NEW WORLD HIGH SCHOOL"
+    "name": "NEW WORLD HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "2801 41st Avenue, Long Island City, NY 11101",
-    "name": "NEWCOMERS HIGH SCHOOL"
+    "name": "NEWCOMERS HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "838 BROOK AVE, BRONX NY 10454",
-    "name": "NYC CHARTER HS ARCHITECTURE, ENGINEERING, CONSTRUC"
+    "name": "NYC CHARTER HS ARCHITECTURE, ENGINEERING, CONSTRUC",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "755 East 100th Street, Brooklyn, NY 11236",
-    "name": "OLYMPUS ACADEMY"
+    "name": "OLYMPUS ACADEMY",
+    "programs": [
+    ]
   },
   {
     "address": "1980 Lafayette Avenue, Bronx, NY 10473",
-    "name": "PABLO NERUDA ACADEMY FOR ARCHITECTURE AND WORLD ST"
+    "name": "PABLO NERUDA ACADEMY FOR ARCHITECTURE AND WORLD ST",
+    "programs": [
+    ]
   },
   {
     "address": "45-10 94th Street, Elmhurst, NY 11373",
-    "name": "PAN AMERICAN INTERNATIONAL HIGH SCHOOL"
+    "name": "PAN AMERICAN INTERNATIONAL HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "1300 Boynton Avenue, Bronx, NY 10472",
-    "name": "PAN AMERICAN INTERNATIONAL HIGH SCHOOL AT MONROE"
+    "name": "PAN AMERICAN INTERNATIONAL HIGH SCHOOL AT MONROE",
+    "programs": [
+    ]
   },
   {
     "address": "237 7th Avenue, Brooklyn, NY 11215",
-    "name": "PARK SLOPE COLLEGIATE"
+    "name": "PARK SLOPE COLLEGIATE",
+    "programs": [
+    ]
   },
   {
     "address": "150 Albany Avenue, Brooklyn, NY 11213",
-    "name": "Pathways in Technology Early College High School (P-Tech)"
+    "name": "Pathways in Technology Early College High School (P-Tech)",
+    "programs": [
+      "CTE",
+      "SEP"
+    ]
   },
   {
     "address": "1180 Rev James A Polite Avenue, Bronx, NY 10459",
-    "name": "PEACE AND DIVERSITY ACADEMY"
+    "name": "PEACE AND DIVERSITY ACADEMY",
+    "programs": [
+    ]
   },
   {
     "address": "850 Grand Street, Brooklyn, NY 11211",
-    "name": "PROGRESS HIGH SCHOOL FOR PROFESSIONAL CAREERS"
+    "name": "PROGRESS HIGH SCHOOL FOR PROFESSIONAL CAREERS",
+    "programs": [
+    ]
   },
   {
     "address": "167-01 GOTHIC DRIVE; Jamaica, NY 11432",
-    "name": "QUEENS COLLEGIATE   A COLLEGE BOARD SCHOOL"
+    "name": "QUEENS COLLEGIATE   A COLLEGE BOARD SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "8-21 Bay 25th Street, Far Rockaway, NY 11691",
-    "name": "Queens High School for Information, Research & Technology (QIRT)"
+    "name": "Queens High School for Information, Research & Technology (QIRT)",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "35-01 UNION STREET, Queens, NY 11354",
-    "name": "Queens High School of Language Studies"
+    "name": "Queens High School of Language Studies",
+    "programs": [
+      "ECS",
+      "Club"
+    ]
   },
   {
     "address": "162-02 HILLSIDE AVENUE, Queens NY 11432",
-    "name": "QUEENS SATELLITE HIGH SCHOOL FOR OPPORTUNITY"
+    "name": "QUEENS SATELLITE HIGH SCHOOL FOR OPPORTUNITY",
+    "programs": [
+    ]
   },
   {
     "address": "37-02 47th Avenue, Long Island City, NY 11101",
-    "name": "Queens Vocational Technical High School"
+    "name": "Queens Vocational Technical High School",
+    "programs": [
+      "ScriptEd",
+      "SEP"
+    ]
   },
   {
     "address": "410 EAST 100 STREET, Manhattan NY 10029",
-    "name": "Renaissance Charter High School for Innovation"
+    "name": "Renaissance Charter High School for Innovation",
+    "programs": [
+      "SEP",
+      "Charter"
+    ]
   },
   {
     "address": "7 Beaver Street, New York, NY 10004",
-    "name": "Richard R Green High School for Teaching"
+    "name": "Richard R Green High School for Teaching",
+    "programs": [
+      "ScriptEd"
+    ]
   },
   {
     "address": "89-30 114th Street, Richmond Hill, NY 11418",
-    "name": "Richmond Hill High School"
+    "name": "Richmond Hill High School",
+    "programs": [
+      "CTE",
+      "Club"
+    ]
   },
   {
     "address": "1495 HERKIMER ST, BROOKLYN NY 11233",
-    "name": "ROADS CHARTER SCHOOL 1"
+    "name": "ROADS CHARTER SCHOOL 1",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "1010 REV JAMES POLITE AVE, BRONX NY 10459",
-    "name": "ROADS CHARTER SCHOOL II"
+    "name": "ROADS CHARTER SCHOOL II",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "370 Fountain Avenue, Brooklyn, NY 11208",
-    "name": "School for Classics"
+    "name": "School for Classics",
+    "programs": [
+      "Bootstrap"
+    ]
   },
   {
     "address": "600 Kingston Avenue, Brooklyn, NY 11203",
-    "name": "SCHOOL FOR DEMOCRACY AND LEADERSHIP"
+    "name": "SCHOOL FOR DEMOCRACY AND LEADERSHIP",
+    "programs": [
+    ]
   },
   {
     "address": "1110 BOSTON ROAD, BRONX, NY 10456",
-    "name": "SCHOOL FOR EXCELLENCE"
+    "name": "SCHOOL FOR EXCELLENCE",
+    "programs": [
+    ]
   },
   {
     "address": "600 Kingston Ave, Brooklyn, NY 11203",
-    "name": "SCHOOL FOR HUMAN RIGHTS"
+    "name": "SCHOOL FOR HUMAN RIGHTS",
+    "programs": [
+      "TEALS",
+      "ECS",
+      "Club"
+    ]
   },
   {
     "address": "284 Baltic Street, Brooklyn, NY 11201",
-    "name": "School for International Studies"
+    "name": "School for International Studies",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "850 Grand Street, Brooklyn, NY 11211",
-    "name": "SCHOOL FOR LEGAL STUDIES"
+    "name": "SCHOOL FOR LEGAL STUDIES",
+    "programs": [
+      "CTE",
+      "ECS"
+    ]
   },
   {
     "address": "49 FLATBUSH AVENUE EXTENSION Brooklyn NY 11201",
-    "name": "Science Skills Center High School for Science, Technology and the Creative Arts"
+    "name": "Science Skills Center High School for Science, Technology and the Creative Arts",
+    "programs": [
+      "CTE",
+      "TEALS",
+      "ECS",
+      "AP CS A"
+    ]
   },
   {
     "address": "911 FLATBUSH AVENUE Brooklyn NY 11226",
-    "name": "SCIENCE, TECH AND RESEARCH HIGH SCHOOL AT ERASMUS"
+    "name": "SCIENCE, TECH AND RESEARCH HIGH SCHOOL AT ERASMUS",
+    "programs": [
+      "CTE",
+      "Club"
+    ]
   },
   {
     "address": "237 7th Ave, Brooklyn, NY 11215",
-    "name": "SECONDARY SCHOOL FOR JOURNALISM"
+    "name": "SECONDARY SCHOOL FOR JOURNALISM",
+    "programs": [
+    ]
   },
   {
     "address": "237 7 AVENUE, Brooklyn, NY 11215",
-    "name": "SECONDARY SCHOOL FOR LAW"
+    "name": "SECONDARY SCHOOL FOR LAW",
+    "programs": [
+    ]
   },
   {
     "address": "360 EAST 145 STREET, Bronx NY 10454",
-    "name": "SOUTH BRONX PREPARATORY   A COLLEGE BOARD SCHOOL"
+    "name": "SOUTH BRONX PREPARATORY   A COLLEGE BOARD SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "173 Conover Street, Brooklyn, NY 11231",
-    "name": "SOUTH BROOKLYN COMMUNITY HIGH SCHOOL"
+    "name": "SOUTH BROOKLYN COMMUNITY HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "439 WEST 49TH STREET, Manhattan, NY 10019",
-    "name": "Stephen Mather  for Building Arts and Craftsmanship High School"
+    "name": "Stephen Mather  for Building Arts and Craftsmanship High School",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": " 226 Bristol Street, Brooklyn, NY 11212",
-    "name": "TEACHERS PREPERATORY HIGH SCHOOL"
+    "name": "TEACHERS PREPERATORY HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "125 Stuyvesant Avenue, Brooklyn, NY 11221",
-    "name": "The Brooklyn Academy for Global Finance"
+    "name": "The Brooklyn Academy for Global Finance",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "2780 Reservoir Avenue, Bronx, NY 10468",
-    "name": "THE CELIA CRUZ BRONX HIGH SCHOOL OF MUSIC"
+    "name": "THE CELIA CRUZ BRONX HIGH SCHOOL OF MUSIC",
+    "programs": [
+    ]
   },
   {
     "address": "850 Grand Street, Brooklyn, NY 11211",
-    "name": "The HIGH SCHOOL FOR ENTERPRISE, BUSINESS AND TECHNOLOGY"
+    "name": "The HIGH SCHOOL FOR ENTERPRISE, BUSINESS AND TECHNOLOGY",
+    "programs": [
+      "CTE",
+      "MOUSE"
+    ]
   },
   {
     "address": "225 West 25th St, Manhattan NY 10011",
-    "name": "The High School of Fashion Industries"
+    "name": "The High School of Fashion Industries",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "49 FLATBUSH AVENUE EXTENSION, Brookly NY 11201",
-    "name": "THE URBAN ASSEMBLY SCHOOL OF MUSIC AND ART AT WATE"
+    "name": "THE URBAN ASSEMBLY SCHOOL OF MUSIC AND ART AT WATE",
+    "programs": [
+    ]
   },
   {
     "address": "165-65 84th Avenue, Jamaica, NY 11432",
-    "name": "Thomas Edison Career and Technical Education High School"
+    "name": "Thomas Edison Career and Technical Education High School",
+    "programs": [
+      "CTE",
+      "Club"
+    ]
   },
   {
     "address": "200-214 WEST 135TH STREET; Manhattan, NY 10030",
-    "name": "THURGOOD MARSHALL ACADEMY FOR LEARNING AND SOCIAL"
+    "name": "THURGOOD MARSHALL ACADEMY FOR LEARNING AND SOCIAL",
+    "programs": [
+    ]
   },
   {
     "address": "1 Wells St, Brooklyn NY, 11208",
-    "name": "TRANSIT TECH CAREER AND TECHNICAL EDUCATION HIGH S"
+    "name": "TRANSIT TECH CAREER AND TECHNICAL EDUCATION HIGH S",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "40 Irving Place, New York, NY 10003",
-    "name": "Union Square Academy for Health Sciences"
+    "name": "Union Square Academy for Health Sciences",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "111 EAST 33RD STREET, Manhattan NY 10016",
-    "name": "UNITY CENTER FOR URBAN TECHNOLOGIES"
+    "name": "UNITY CENTER FOR URBAN TECHNOLOGIES",
+    "programs": [
+    ]
   },
   {
     "address": "200 MONROE STREET, Manhattan NY 10002",
-    "name": "UNIVERSITY NEIGHBORHOOD HIGH SCHOOL"
+    "name": "UNIVERSITY NEIGHBORHOOD HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "600 ST ANN'S AVE, BRONX NY 10455",
-    "name": "UNIVERSITY PREP CHARTER HIGH SCHOOL"
+    "name": "UNIVERSITY PREP CHARTER HIGH SCHOOL",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "1600 Rockaway Parkway, Brooklyn, NY 11236",
-    "name": "Urban Action Academy"
+    "name": "Urban Action Academy",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "350 Grand Street, New York, NY 10002",
-    "name": "URBAN ASSEMBLY ACADEMY OF GOVERNMENT AND LAW"
+    "name": "URBAN ASSEMBLY ACADEMY OF GOVERNMENT AND LAW",
+    "programs": [
+    ]
   },
   {
     "address": "509 West 129th Street, New York, NY 10027",
-    "name": "URBAN ASSEMBLY FOR THE PERFORMING ARTS"
+    "name": "URBAN ASSEMBLY FOR THE PERFORMING ARTS",
+    "programs": [
+    ]
   },
   {
     "address": "439 West 49th Street, New York, NY 10019",
-    "name": "Urban Assembly Gateway School for Technology"
+    "name": "Urban Assembly Gateway School for Technology",
+    "programs": [
+      "CTE",
+      "MOUSE",
+      "SEP"
+    ]
   },
   {
     "address": "1595 Bathgate Avenue, Bronx, NY 10457",
-    "name": "URBAN ASSEMBLY SCHOOL FOR APPLIED MATH AND SCIENCE"
+    "name": "URBAN ASSEMBLY SCHOOL FOR APPLIED MATH AND SCIENCE",
+    "programs": [
+    ]
   },
   {
     "address": "411 PEARL STREET, Manhattan, NY 10038",
-    "name": "Urban Assembly School for Emergency Management"
+    "name": "Urban Assembly School for Emergency Management",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "2005 Madison Avenue, New York, NY 10035",
-    "name": "Urban Assembly School for Global Commerce"
+    "name": "Urban Assembly School for Global Commerce",
+    "programs": [
+      "CTE",
+      "C/I"
+    ]
   },
   {
     "address": "145 West 84th Street, New York, NY 10024",
-    "name": "Urban Assembly School for Green Careers"
+    "name": "Urban Assembly School for Green Careers",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "283 Adams Street, Brooklyn, NY 11201",
-    "name": "Urban Assembly School for Law and Justice"
+    "name": "Urban Assembly School for Law and Justice",
+    "programs": [
+      "ECS",
+      "Club"
+    ]
   },
   {
     "address": "122 AMSTERDAM AVENUE, Manhattan NY 10023",
-    "name": "Urban Assembly School for Media Studies"
+    "name": "Urban Assembly School for Media Studies",
+    "programs": [
+      "C/I"
+    ]
   },
   {
     "address": "26 Broadway, New York, NY 10004",
-    "name": "URBAN ASSEMBLY SCHOOL OF BUSINESS FOR YOUNG WOMEN"
+    "name": "URBAN ASSEMBLY SCHOOL OF BUSINESS FOR YOUNG WOMEN",
+    "programs": [
+    ]
   },
   {
     "address": "525 West 50th Street, New York, NY 10019",
-    "name": "URBAN ASSEMBLY SCHOOL OF DESIGN AND CONSTRUCTION"
+    "name": "URBAN ASSEMBLY SCHOOL OF DESIGN AND CONSTRUCTION",
+    "programs": [
+    ]
   },
   {
     "address": "600 LAFAYETTE AVE, BROOKLYN NY 11216",
-    "name": "URBAN DOVE CHARTER SCHOOL"
+    "name": "URBAN DOVE CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "1595 Bathgate Avenue, Bronx, NY 10457",
-    "name": "VALIDUS PREPARATORY ACADEMY"
+    "name": "VALIDUS PREPARATORY ACADEMY",
+    "programs": [
+    ]
   },
   {
     "address": "317 East 67th Street, New York, NY 10065",
-    "name": "VANGUARD HIGH SCHOOL"
+    "name": "VANGUARD HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "6565 Flatlands Avenue, Brooklyn, NY 11236",
-    "name": "Victory Collegiate High School"
+    "name": "Victory Collegiate High School",
+    "programs": [
+      "ECS"
+    ]
   },
   {
     "address": "402 Eastern Parkway, Brooklyn, NY 11225",
-    "name": "W E B DUBOIS ACADEMIC HIGH SCHOOL"
+    "name": "W E B DUBOIS ACADEMIC HIGH SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "145 Pennsylvania Avenue, Brooklyn,  New York 11207  ",
-    "name": "W H MAXWELL CAREER AND TECHNICAL EDUCATION HIGH SC"
+    "name": "W H MAXWELL CAREER AND TECHNICAL EDUCATION HIGH SC",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "215 West 114 St, Manhattan NY 10026",
-    "name": "WADLEIGH SECONDARY SCHOOL FOR THE PERFORMING AND VISUAL ARTS"
+    "name": "WADLEIGH SECONDARY SCHOOL FOR THE PERFORMING AND VISUAL ARTS",
+    "programs": [
+      "MOUSE"
+    ]
   },
   {
     "address": "511 West 182nd Street, New York, NY 10033",
-    "name": "WASHINGTON HEIGHTS EXPEDITIONARY LEARNING SCHOOL"
+    "name": "WASHINGTON HEIGHTS EXPEDITIONARY LEARNING SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "500 East Fordham Road, Bronx, NY 10458",
-    "name": "WEST BRONX ACADEMY FOR THE FUTURE"
+    "name": "WEST BRONX ACADEMY FOR THE FUTURE",
+    "programs": [
+    ]
   },
   {
     "address": "25 BRIGHTON 4TH ROAD, Brooklyn NY 11235",
-    "name": "WILLIAM E GRADY CAREER AND TECHNICAL EDUCATION HIG"
+    "name": "WILLIAM E GRADY CAREER AND TECHNICAL EDUCATION HIG",
+    "programs": [
+      "CTE",
+      "TEALS",
+      "ECS"
+    ]
   },
   {
     "address": "198 VARET ST, BROOKLYN NY 11206",
-    "name": "WILLIAMSBURG CHARTER HIGH SCHOOL"
+    "name": "WILLIAMSBURG CHARTER HIGH SCHOOL",
+    "programs": [
+      "Charter"
+    ]
   },
   {
     "address": "257 North 6th Street, Brooklyn, NY 11211",
-    "name": "Williamsburg High School for Architecture and Design"
+    "name": "Williamsburg High School for Architecture and Design",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "257 North 6th Street, Brooklyn, NY 11211",
-    "name": "WILLIAMSBURG PREPARATORY SCHOOL"
+    "name": "WILLIAMSBURG PREPARATORY SCHOOL",
+    "programs": [
+    ]
   },
   {
     "address": "1122 EAST 180 STREET, Bronx NY 10460",
-    "name": "WINGS ACADEMY"
+    "name": "WINGS ACADEMY",
+    "programs": [
+    ]
   },
   {
     "address": "456 WHITE PLAINS ROAD, Bronx NY 10473",
-    "name": "WOMEN S ACADEMY OF EXCELLENCE"
+    "name": "WOMEN S ACADEMY OF EXCELLENCE",
+    "programs": [
+    ]
   },
   {
     "address": "400 PENNSYLVANIA AVENUE, Brooklyn, NY 11207",
-    "name": "World Academy for Total Community Health High School (WATCH)"
+    "name": "World Academy for Total Community Health High School (WATCH)",
+    "programs": [
+      "CTE"
+    ]
   },
   {
     "address": "325 Bushwick Avenue, Brooklyn, NY 11206",
-    "name": "Young Women's Leadership School of Brooklyn"
+    "name": "Young Women's Leadership School of Brooklyn",
+    "programs": [
+      "TEALS",
+      "Club"
+    ]
   },
   {
     "address": "23-15 NEWTOWN AVENUE, Queens NY 11102",
-    "name": "YOUNG WOMEN'S LEADERSHIP SCHOOL, Astoria"
+    "name": "YOUNG WOMEN'S LEADERSHIP SCHOOL, Astoria",
+    "programs": [
+      "MOUSE",
+      "ECS"
+    ]
   }
 ]
