@@ -64,6 +64,17 @@ function getPrograms(columns, mapping) {
   });
 }
 
+function getPercentage(value) {
+  if (!value || value == '?') return null;
+  var percentage = value.match(/^([0-9.]+)%$/);
+  if (!percentage)
+    throw new Error('Unable to parse percentage: ' + value);
+  percentage = parseFloat(percentage);
+  if (isNaN(percentage))
+    throw new Error('Unable to parse percentage: ' + value);
+  return percentage;
+}
+
 function main() {
   var data = fs.readFileSync(CSV_FILENAME, "utf-8");
   csv.parse(data, function(err, data) {
@@ -95,7 +106,9 @@ function main() {
         programs: getPrograms(columns, programMapping),
         grades: [parseGrade(column('Lowest Grade Offered')),
                  parseGrade(column('Highest Grade Offered'))],
-        students: students
+        students: students,
+        freeLunch: getPercentage(column('% of Students Eligible for Free Lunch Program (2011-12 and 2014-15)')),
+        reducedLunch: getPercentage(column('% of Student Eligible for a Free or Reduced-Fee Lunch'))
       };
     });
     fs.writeFileSync(JSON_FILENAME, stableStringify(data, {space: 2}));

@@ -48,8 +48,20 @@ define(function(require) {
             {i == 0
              ? <div style={{fontSize: 10}}>{school.address}</div>
              : null}
-            <div style={{fontSize: 10}}>{gradesText(school.grades)}</div>
-            <div style={{fontSize: 10}}>{students}</div>
+            <div style={{fontSize: 10}}>
+              <div>{gradesText(school.grades)}</div>
+              <div>{students}</div>
+              {school.freeLunch
+               ? <div>
+                   {school.freeLunch.toFixed(0)}% receive free lunch
+                 </div>
+               : null}
+              {school.reducedLunch
+               ? <div>
+                   {school.reducedLunch.toFixed(0)}% receive free or reduced-price lunch
+                 </div>
+               : null}
+            </div>
             <div style={{fontSize: 12}}>
               {this.renderProgramInfo(school.programs)}
             </div>
