@@ -38,6 +38,7 @@ define(function(require) {
       }, this);
     },
     render: function() {
+      var students = studentsText(this.props.students, this.props.grades);
       return (
         <div style={{lineHeight: '1.2em'}}>
           <div style={{textTransform: 'uppercase'}}>
@@ -49,9 +50,7 @@ define(function(require) {
               textTransform: 'lowercase'
             }}>{this.props.address}</div>
             <div style={{fontSize: 10}}>{gradesText(this.props.grades)}</div>
-            <div style={{fontSize: 10}}>
-              {studentsText(this.props.students, this.props.grades)}
-            </div>
+            <div style={{fontSize: 10}}>{students}</div>
             <div style={{fontSize: 12}}>{this.renderProgramInfo()}</div>
           </div>
           {this.renderTripInfo()}
@@ -60,6 +59,10 @@ define(function(require) {
           }}>
             Transit times are based on taking public transit at
             9:45am on a weekday morning.
+            {students
+             ? <span> Student population is based on the
+               2011-12 school year.</span>
+             : null}
           </div>
         </div>
       );
