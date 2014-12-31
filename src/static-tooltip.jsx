@@ -5,11 +5,11 @@ define(function(require) {
   var BAD_TIME = 45;
 
   var StaticTooltip = React.createClass({
-    renderProgramInfo: function() {
-      if (this.props.programs.length == 0) return null;
+    renderProgramInfo: function(programs) {
+      if (programs.length == 0) return null;
       return (
         <ul className="list-inline">
-          {this.props.programs.map(function(program) {
+          {programs.map(function(program) {
             return <li key={program}><span className="label label-default">{program}</span></li>;
           })}
         </ul>
@@ -21,7 +21,7 @@ define(function(require) {
         var color = 'black';
         var url = googleMapsUrl(
           trip.origin.address,
-          this.props.name + ', ' + this.props.address
+          this.props.schools[0].address
         );
         if (mins <= GOOD_TIME) color = 'green';
         if (mins >= BAD_TIME) color = 'red';
@@ -37,26 +37,45 @@ define(function(require) {
         );
       }, this);
     },
-    render: function() {
-      var students = studentsText(this.props.students, this.props.grades);
+    renderSchoolInfo: function(school) {
+      var students = studentsText(school.students, school.grades);
       return (
-        <div style={{lineHeight: '1.2em'}}>
+        <li key={school.name}>
           <div style={{textTransform: 'uppercase'}}>
-            <strong>{this.props.name}</strong>
+            <strong>{school.name}</strong>
           </div>
           <div style={{marginBottom: 10}}>
-            <div style={{fontSize: 10}}>{this.props.address}</div>
-            <div style={{fontSize: 10}}>{gradesText(this.props.grades)}</div>
+            <div style={{fontSize: 10}}>{school.address}</div>
+            <div style={{fontSize: 10}}>{gradesText(school.grades)}</div>
             <div style={{fontSize: 10}}>{students}</div>
-            <div style={{fontSize: 12}}>{this.renderProgramInfo()}</div>
+            <div style={{fontSize: 12}}>
+              {this.renderProgramInfo(school.programs)}
+            </div>
           </div>
+        </li>
+      );
+    },
+    renderSchoolsInfo: function() {
+      return (
+        <ul className="list-unstyled">
+          {this.props.schools.map(this.renderSchoolInfo)}
+        </ul>
+      );
+    },
+    render: function() {
+      var hasStudentsInfo = this.props.schools.some(function(school) {
+        return school.students !== null;
+      });
+      return (
+        <div style={{lineHeight: '1.2em'}}>
+          {this.renderSchoolsInfo()}
           {this.renderTripInfo()}
           <div className="text-muted" style={{
             fontSize: 9
           }}>
             Transit times are based on taking public transit at
             9:45am on a weekday morning.
-            {students
+            {hasStudentsInfo
              ? <span> Student population is based on the
                2011-12 school year.</span>
              : null}

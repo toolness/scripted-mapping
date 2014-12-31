@@ -9,22 +9,14 @@ define(function(require) {
 
   var geoJson = null;
 
-  // http://stackoverflow.com/a/1054862
-  function slugify(text) {
-    return text
-     .toLowerCase()
-     .replace(/ /g,'-')
-     .replace(/[^\w-]+/g,'');
-  }
-
   function toGeoJson() {
     if (geoJson) return geoJson;
 
     var ids = {};
     geoJson = [];
     schools.forEach(function(school) {
-      var id = slugify(school.name);
       var geocode = geocodes[school.address];
+      var id = geocode.lng + ',' + geocode.lat;
       var tripInfo = origins.map(function(origin) {
         var trip = trips[origin.address][school.address];
         if (!trip)
@@ -34,27 +26,27 @@ define(function(require) {
           duration: trip.duration
         };
       });
-      if (id in ids) {
-        console.log("Warning, duplicate school id: " + id);
-        return;
+
+      if (!ids[id]) {
+        ids[id] = {
+          type: 'Feature',
+          id: id,
+          geometry: {
+            type: 'Point',
+            coordinates: [geocode.lng, geocode.lat]
+          },
+          properties: {
+            'trips': tripInfo,
+            'schools': [],
+            'marker-size': 'small',
+            'marker-color': MARKER_COLOR
+          }
+        };
+        geoJson.push(ids[id]);
       }
-      if (!geocode)
-        throw new Error("No geocode data for " + school.address);
-      ids[id] = true;
-      geoJson.push({
-        type: 'Feature',
-        id: id,
-        geometry: {
-          type: 'Point',
-          coordinates: [geocode.lng, geocode.lat]
-        },
-        properties: _.extend({}, school, {
-          'address': geocode.formatted_address.match(/^(.+), USA$/)[1],
-          'trips': tripInfo,
-          'marker-size': 'small',
-          'marker-color': MARKER_COLOR
-        })
-      });
+      ids[id].properties.schools.push(_.extend({}, school, {
+        address: geocode.formatted_address.match(/^(.+), USA$/)[1]
+      }));
     });
 
     return geoJson;
