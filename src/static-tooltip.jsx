@@ -49,6 +49,9 @@ define(function(require) {
               textTransform: 'lowercase'
             }}>{this.props.address}</div>
             <div style={{fontSize: 10}}>{gradesText(this.props.grades)}</div>
+            <div style={{fontSize: 10}}>
+              {studentsText(this.props.students, this.props.grades)}
+            </div>
             <div style={{fontSize: 12}}>{this.renderProgramInfo()}</div>
           </div>
           {this.renderTripInfo()}
@@ -62,6 +65,14 @@ define(function(require) {
       );
     }
   });
+
+  function studentsText(students, grades) {
+    if (students === null) return null;
+    var text = students + " students";
+    if (grades[0] < 9)
+      text += " in " + gradesText([9, grades[1]]).toLowerCase();
+    return text;
+  }
 
   function gradesText(grades) {
     if (grades[1] === null) return "Grade " + grades[0];

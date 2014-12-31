@@ -80,6 +80,10 @@ function main() {
         return columns[index];
       };
       var address = fixup(column('Address'), ADDRESS_FIXUPS);
+      var students = column('Total Students [Public School] 2011-12')
+
+      students = parseInt(students);
+      if (isNaN(students)) students = null;
       if (!/NY/.test(address) && !/New York/i.test(address)) {
         address += ", " + column('Borough') + " NY " +
           column('Location ZIP [Public School] 2011-12');
@@ -90,7 +94,8 @@ function main() {
         address: address,
         programs: getPrograms(columns, programMapping),
         grades: [parseGrade(column('Lowest Grade Offered')),
-                 parseGrade(column('Highest Grade Offered'))]
+                 parseGrade(column('Highest Grade Offered'))],
+        students: students
       };
     });
     fs.writeFileSync(JSON_FILENAME, stableStringify(data, {space: 2}));
