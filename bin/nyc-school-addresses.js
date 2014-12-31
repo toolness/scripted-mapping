@@ -63,15 +63,20 @@ function main() {
     var programMapping = makeProgramMapping(columnNames);
 
     data = data.map(function(columns) {
-      var address = fixup(columns[18], ADDRESS_FIXUPS);
-      var zip = columns[0];
-      var borough = columns[20];
+      var column = function(name) {
+        var index = columnNames.indexOf(name);
+        if (index == -1)
+          throw new Error("Invalid column name: " + name);
+        return columns[index];
+      };
+      var address = fixup(column('Address'), ADDRESS_FIXUPS);
       if (!/NY/.test(address) && !/New York/i.test(address)) {
-        address += ", " + borough + " NY " + zip;
+        address += ", " + column('Borough') + " NY " +
+          column('Location ZIP [Public School] 2011-12');
         console.log("Disambiguating", address);
       }
       return {
-        name: columns[1],
+        name: column('School Name'),
         address: address,
         programs: getPrograms(columns, programMapping)
       };
