@@ -37,7 +37,7 @@ define(function(require) {
         );
       }, this);
     },
-    renderSchoolInfo: function(school) {
+    renderSchoolInfo: function(school, i) {
       var students = studentsText(school.students, school.grades);
       return (
         <li key={school.name}>
@@ -45,7 +45,9 @@ define(function(require) {
             <strong>{school.name}</strong>
           </div>
           <div style={{marginBottom: 10}}>
-            <div style={{fontSize: 10}}>{school.address}</div>
+            {i == 0
+             ? <div style={{fontSize: 10}}>{school.address}</div>
+             : null}
             <div style={{fontSize: 10}}>{gradesText(school.grades)}</div>
             <div style={{fontSize: 10}}>{students}</div>
             <div style={{fontSize: 12}}>
