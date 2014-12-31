@@ -49,6 +49,7 @@ define(function(require) {
           coordinates: [geocode.lng, geocode.lat]
         },
         properties: _.extend({}, school, {
+          'address': geocode.formatted_address.match(/^(.+), USA$/)[1],
           'trips': tripInfo,
           'marker-size': 'small',
           'marker-color': MARKER_COLOR

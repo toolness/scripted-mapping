@@ -45,10 +45,7 @@ define(function(require) {
             <strong>{this.props.name}</strong>
           </div>
           <div style={{marginBottom: 10}}>
-            <div style={{
-              fontSize: 10,
-              textTransform: 'lowercase'
-            }}>{this.props.address}</div>
+            <div style={{fontSize: 10}}>{this.props.address}</div>
             <div style={{fontSize: 10}}>{gradesText(this.props.grades)}</div>
             <div style={{fontSize: 10}}>{students}</div>
             <div style={{fontSize: 12}}>{this.renderProgramInfo()}</div>
