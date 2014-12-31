@@ -45,6 +45,16 @@ function makeProgramMapping(columnNames) {
   return mapping;
 }
 
+function parseGrade(text) {
+  if (/^kindergarten$/i.test(text)) return 0;
+  if (text == "N/A") return null;
+
+  var match = text.match(/^([0-9]+)th/);
+  if (!match)
+    throw new Error("Cannot parse grade: " + text);
+  return parseInt(match[1]);
+}
+
 function getPrograms(columns, mapping) {
   return Object.keys(mapping).filter(function(name) {
     var index = mapping[name];
@@ -78,7 +88,9 @@ function main() {
       return {
         name: column('School Name'),
         address: address,
-        programs: getPrograms(columns, programMapping)
+        programs: getPrograms(columns, programMapping),
+        grades: [parseGrade(column('Lowest Grade Offered')),
+                 parseGrade(column('Highest Grade Offered'))]
       };
     });
     fs.writeFileSync(JSON_FILENAME, stableStringify(data, {space: 2}));

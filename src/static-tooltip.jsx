@@ -48,6 +48,7 @@ define(function(require) {
               fontSize: 10,
               textTransform: 'lowercase'
             }}>{this.props.address}</div>
+            <div style={{fontSize: 10}}>{gradesText(this.props.grades)}</div>
             <div style={{fontSize: 12}}>{this.renderProgramInfo()}</div>
           </div>
           {this.renderTripInfo()}
@@ -61,6 +62,11 @@ define(function(require) {
       );
     }
   });
+
+  function gradesText(grades) {
+    if (grades[1] === null) return "Grade " + grades[0];
+    return "Grades " + (grades[0] == 0 ? "K" : grades[0]) + '-' + grades[1];
+  }
 
   function googleMapsUrl(from, to) {
     return "https://www.google.com/maps/dir/" +
