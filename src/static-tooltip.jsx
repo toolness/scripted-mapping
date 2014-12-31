@@ -108,7 +108,8 @@ define(function(require) {
   }
 
   function gradesText(grades) {
-    if (grades[1] === null) return "Grade " + grades[0];
+    if (grades[1] === null || grades[0] == grades[1])
+      return "Grade " + grades[0];
     return "Grades " + (grades[0] == 0 ? "K" : grades[0]) + '-' + grades[1];
   }
 
