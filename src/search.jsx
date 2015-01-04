@@ -2,6 +2,7 @@ define(function(require) {
   var React = require('react');
 
   var Search = React.createClass({
+    mixins: [React.addons.PureRenderMixin],
     getDefaultProps: function() {
       return {
         changeDelay: 300
@@ -26,6 +27,11 @@ define(function(require) {
     },
     componentWillUnmount: function() {
       this.cancelTimeout();
+    },
+    componentDidUpdate: function() {
+      var searchField = this.refs.search.getDOMNode();
+      if (searchField.value != this.props.defaultQuery)
+        searchField.value = this.props.defaultQuery;
     },
     render: function() {
       return (

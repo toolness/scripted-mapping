@@ -13,7 +13,23 @@ define(function(require) {
       return {query: ''};
     },
     handleSearchChange: function(query) {
+      window.location.hash = '#' + encodeURIComponent(query);
+    },
+    handleHashChange: function() {
+      var query = window.location.hash.slice(1);
+
+      try {
+        query = decodeURIComponent(query);
+      } catch (e) {
+        return;
+      }
       this.setState({query: query});
+    },
+    componentDidMount: function() {
+      window.addEventListener('hashchange', this.handleHashChange);
+    },
+    componentWillUnmount: function() {
+      window.removeEventListener('hashchange', this.handleHashChange);
     },
     render: function() {
       var geoJson = schools.filterGeoJson(this.state.query);
