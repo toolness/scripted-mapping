@@ -91,7 +91,7 @@ function main() {
         return columns[index];
       };
       var address = fixup(column('Address'), ADDRESS_FIXUPS);
-      var students = column('Total Students [Public School] 2011-12')
+      var students = column('Total Students [Public School] 2011-12');
 
       students = parseInt(students);
       if (isNaN(students)) students = null;
