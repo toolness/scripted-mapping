@@ -1421,11 +1421,10 @@
     ],
     "name": "Harlem Village Academies High School",
     "programs": [
-      "ScriptEd",
-      "Charter"
+      "ScriptEd"
     ],
     "reducedLunch": null,
-    "students": null
+    "students": 691
   },
   {
     "address": "2 Astor Place #3, New York, NY 10003",
@@ -1946,7 +1945,7 @@
     "freeLunch": 76,
     "grades": [
       6,
-      10
+      11
     ],
     "name": "JOHN W LAVELLE PREPARATORY CHARTER SCHOOL",
     "programs": [
@@ -2348,7 +2347,7 @@
       "Charter"
     ],
     "reducedLunch": 84,
-    "students": 156
+    "students": 232
   },
   {
     "address": "350 GRAND STREET, Manhattan NY 10002",
@@ -3468,5 +3467,468 @@
     ],
     "reducedLunch": null,
     "students": null
+  },
+  {
+    "address": "900 TINTON AVENUE, Bronx NY 10456",
+    "freeLunch": 94,
+    "grades": [
+      9,
+      11
+    ],
+    "name": "NEW VISIONS CHARTER HIGH SCHOOL FOR ADVANCED MATH AND SCIENCE II",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 234
+  },
+  {
+    "address": "455 SOUTHERN BLVD, Bronx NY 10455",
+    "freeLunch": 83,
+    "grades": [
+      9,
+      11
+    ],
+    "name": "NEW VISIONS CHARTER HIGH SCHOOL FOR THE HUMANITIES II",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 221
+  },
+  {
+    "address": "800 HOME STREET, Bronx NY 10456",
+    "freeLunch": 92,
+    "grades": [
+      6,
+      10
+    ],
+    "name": "DR. RICHARD IZQUIERDO HEALTH AND SCIENCE CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 418
+  },
+  {
+    "address": "715 Castle Hill Avenue, Bronx 10473 , BRONX NY 10475",
+    "freeLunch": 74,
+    "grades": [
+      9,
+      9
+    ],
+    "name": "THE EQUALITY CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 238
+  },
+  {
+    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "Achievement First Bushwick Charter School",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 939
+  },
+  {
+    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "Achievement First Crown Heights Charter School ",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 943
+  },
+  {
+    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
+    "freeLunch": null,
+    "grades": [
+      9,
+      10
+    ],
+    "name": "Achievement First East New York Charter School ",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 779
+  },
+  {
+    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "Achievement First Endeavor Charter School ",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 849
+  },
+  {
+    "address": "832 Marcy Avenue, Brooklyn 11216, BROOKLYN NY 11221",
+    "freeLunch": null,
+    "grades": [
+      9,
+      11
+    ],
+    "name": "Bedford Stuyvesant Collegiate Charter School ",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 361
+  },
+  {
+    "address": "832 Marcy Avenue, Brooklyn 11216, BROOKLYN NY 11212",
+    "freeLunch": null,
+    "grades": [
+      9,
+      11
+    ],
+    "name": "Brownsville Collegiate Charter School",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 341
+  },
+  {
+    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11233",
+    "freeLunch": null,
+    "grades": [
+      9,
+      11
+    ],
+    "name": "Excellence Boys Charter School",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 643
+  },
+  {
+    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "Kings Collegiate Charter School",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 415
+  },
+  {
+    "address": "201 East 144th Street, Bronx 10451, BRONX NY 10451",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "KIPP AMP",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 554
+  },
+  {
+    "address": "6565 Flatlands Avenue, Brooklyn 11236, BROOKLYN NY 11236",
+    "freeLunch": null,
+    "grades": [
+      9,
+      9
+    ],
+    "name": "Leadership Prep Bedford Stuyvesant Charter School",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 620
+  },
+  {
+    "address": "231 Palmetto Street, Brooklyn 11221, BROOKLYN NY 11221",
+    "freeLunch": 92,
+    "grades": [
+      9,
+      10
+    ],
+    "name": "Math, Engineering, and Science Academy Charter High School",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 131
+  },
+  {
+    "address": "3000 Avenue X, Brooklyn 11235, BROOKLYN NY 11235",
+    "freeLunch": 88,
+    "grades": [
+      9,
+      10
+    ],
+    "name": "New Visions Charter High School for Advanced Math and Science III",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 128
+  },
+  {
+    "address": "3000 Avenue X, Brooklyn 11235, BROOKLYN NY 11235",
+    "freeLunch": 83,
+    "grades": [
+      9,
+      10
+    ],
+    "name": "New Visions Charter High School for the Humanities III",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 120
+  },
+  {
+    "address": "424 Leonard Street, Brooklyn 11222, BROOKLYN NY 11222",
+    "freeLunch": 78,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "Northside Charter High School",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 383
+  },
+  {
+    "address": "800 Van Siclen Ave, Brooklyn 11207, BROOKLYN NY 11207",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "UFT Charter",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 991
+  },
+  {
+    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "Williamsburg Collegiate Charter School",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 969
+  },
+  {
+    "address": "121 AVENUE OF THE AMERICAS, Manhattan NY 10013",
+    "freeLunch": 83,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "BROOME STREET ACADEMY CHARTER HIGH SCHOOL",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 268
+  },
+  {
+    "address": "222 West 134 Street, Manhattan 10030, Manhattan NY 10030",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "DEMOCRACY PREP CHARTER SCHOOL",
+    "programs": [
+      "Club",
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 722
+  },
+  {
+    "address": "212 West 120 Street, Manhattan 10027, Manhattan NY 10027",
+    "freeLunch": null,
+    "grades": [
+      9,
+      10
+    ],
+    "name": "DEMOCRACY PREP HARLEM CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 571
+  },
+  {
+    "address": "245 West 129th Street, Manhattan 10027, Manhattan NY 10027",
+    "freeLunch": 84,
+    "grades": [
+      9,
+      11
+    ],
+    "name": "HARLEM CHILDREN'S ZONE PROMISE ACADEMY I CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 927
+  },
+  {
+    "address": "35 East 125th Street, Manhattan 10035, Manhattan NY 10035",
+    "freeLunch": 78,
+    "grades": [
+      7,
+      10
+    ],
+    "name": "HARLEM CHILDREN'S ZONE PROMISE ACADEMY II CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 664
+  },
+  {
+    "address": "35 West 124 Street, Manhattan 10027, Manhattan NY 10027",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "Harlem Village Academy Leadership Charter School",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 691
+  },
+  {
+    "address": "1231 Lafayette Avenue, Bronx 10474, Manhattan NY 10474",
+    "freeLunch": 77,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "JOHN V. LINDSAY WILDCAT ACADEMY CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 525
+  },
+  {
+    "address": "201 East 144th Street, Bronx 10451, Manhattan NY 10451",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "KIPP INFINITY CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 1002
+  },
+  {
+    "address": "201 East 144th Street, Bronx 10451, Manhattan NY 10451",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "KIPP STAR COLLEGE PREP CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 838
+  },
+  {
+    "address": "1818 Amsterdam Avenue, Manhattan 10031, Manhattan NY 10031",
+    "freeLunch": 95,
+    "grades": [
+      5,
+      12
+    ],
+    "name": "NEW HEIGHTS ACADEMY CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 745
+  },
+  {
+    "address": "240 West 113 Street, Manhattan 10026, Manhattan NY 10026",
+    "freeLunch": 82,
+    "grades": [
+      6,
+      12
+    ],
+    "name": "THE OPPORTUNITY CHARTER SCHOOL",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 447
+  },
+  {
+    "address": "111 East 33rd Street, Manhattan 10016, Manhattan NY 10016",
+    "freeLunch": null,
+    "grades": [
+      8,
+      9
+    ],
+    "name": "SUCCESS ACADEMY HARLEM 1 CHARTER ",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 915
+  },
+  {
+    "address": "35-59 81st Street, Queens 11372, Queens NY 11372",
+    "freeLunch": 74,
+    "grades": [
+      0,
+      12
+    ],
+    "name": "Renaissance Charter High School",
+    "programs": [
+      "Charter"
+    ],
+    "reducedLunch": null,
+    "students": 545
   }
 ]

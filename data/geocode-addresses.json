@@ -94,6 +94,11 @@
     "lat": 40.7464334,
     "lng": -73.9810279
   },
+  "111 East 33rd Street, Manhattan 10016, Manhattan NY 10016": {
+    "formatted_address": "111 East 33rd Street, New York, NY 10016, USA",
+    "lat": 40.7464334,
+    "lng": -73.9810279
+  },
   "1110 BOSTON ROAD, BRONX, NY 10456": {
     "formatted_address": "1110 Boston Road, Bronx, NY 10456, USA",
     "lat": 40.827995,
@@ -124,6 +129,11 @@
     "lat": 40.7577223,
     "lng": -73.9833542
   },
+  "121 AVENUE OF THE AMERICAS, Manhattan NY 10013": {
+    "formatted_address": "121 Avenue of the Americas, New York, NY 10013, USA",
+    "lat": 40.7240603,
+    "lng": -74.00511279999999
+  },
   "122 AMSTERDAM AVENUE, Manhattan NY 10023": {
     "formatted_address": "122 Amsterdam Avenue, New York, NY 10023, USA",
     "lat": 40.7747793,
@@ -133,6 +143,11 @@
     "formatted_address": "122 Amsterdam Avenue, New York, NY 10023, USA",
     "lat": 40.7747793,
     "lng": -73.98472000000001
+  },
+  "1231 Lafayette Avenue, Bronx 10474, Manhattan NY 10474": {
+    "formatted_address": "1231 Lafayette Avenue, Bronx, NY 10474, USA",
+    "lat": 40.8166578,
+    "lng": -73.8907469
   },
   "125 Stuyvesant Avenue, Brooklyn, NY 11221": {
     "formatted_address": "125 Stuyvesant Avenue, Brooklyn, NY 11221, USA",
@@ -203,6 +218,16 @@
     "formatted_address": "145 West 84th Street, New York, NY 10024, USA",
     "lat": 40.785992,
     "lng": -73.9743724
+  },
+  "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216": {
+    "formatted_address": "1485 Pacific Street, Brooklyn, NY 11216, USA",
+    "lat": 40.6774688,
+    "lng": -73.9420711
+  },
+  "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11233": {
+    "formatted_address": "1485 Pacific Street, Brooklyn, NY 11216, USA",
+    "lat": 40.6774688,
+    "lng": -73.9420711
   },
   "1495 HERKIMER ST": {
     "formatted_address": "1495 Herkimer Street, Brooklyn, NY 11233, USA",
@@ -304,6 +329,11 @@
     "lat": 40.6778434,
     "lng": -74.0141749
   },
+  "1818 Amsterdam Avenue, Manhattan 10031, Manhattan NY 10031": {
+    "formatted_address": "1818 Amsterdam Avenue, New York, NY 10031, USA",
+    "lat": 40.8286152,
+    "lng": -73.9454018
+  },
   "188-4 91st Avenue, Hollis, NY 11423": {
     "formatted_address": "188-4 91st Avenue, Hollis, NY 11423, USA",
     "lat": 40.7119429,
@@ -349,6 +379,16 @@
     "lat": 40.80707930000001,
     "lng": -73.9390933
   },
+  "201 East 144th Street, Bronx 10451, BRONX NY 10451": {
+    "formatted_address": "201 East 144th Street, Bronx, NY 10451, USA",
+    "lat": 40.8161935,
+    "lng": -73.92616890000001
+  },
+  "201 East 144th Street, Bronx 10451, Manhattan NY 10451": {
+    "formatted_address": "201 East 144th Street, Bronx, NY 10451, USA",
+    "lat": 40.8161935,
+    "lng": -73.92616890000001
+  },
   "2021 Bergen Street, Brooklyn, NY 11233": {
     "formatted_address": "2021 Bergen Street, Brooklyn, NY 11233, USA",
     "lat": 40.67443919999999,
@@ -369,6 +409,11 @@
     "lat": 40.748656,
     "lng": -73.9467929
   },
+  "212 West 120 Street, Manhattan 10027, Manhattan NY 10027": {
+    "formatted_address": "212 West 120th Street, New York, NY 10027, USA",
+    "lat": 40.8059763,
+    "lng": -73.9518461
+  },
   "215 Heyward Street, Brooklyn, NY 11206": {
     "formatted_address": "215 Heyward Street, Brooklyn, NY 11206, USA",
     "lat": 40.7041207,
@@ -378,6 +423,11 @@
     "formatted_address": "215 West 114th Street, New York, NY 10026, USA",
     "lat": 40.8023572,
     "lng": -73.9544678
+  },
+  "222 West 134 Street, Manhattan 10030, Manhattan NY 10030": {
+    "formatted_address": "222 West 134th Street, New York, NY 10030, USA",
+    "lat": 40.8145839,
+    "lng": -73.9449913
   },
   "223 Graham Avenue, Brooklyn, NY 11206": {
     "formatted_address": "223 Graham Avenue, Brooklyn, NY 11206, USA",
@@ -403,6 +453,11 @@
     "formatted_address": "23-15 Newtown Avenue, Astoria, NY 11102, USA",
     "lat": 40.7713192,
     "lng": -73.9241835
+  },
+  "231 Palmetto Street, Brooklyn 11221, BROOKLYN NY 11221": {
+    "formatted_address": "231 Palmetto Street, Brooklyn, NY 11221, USA",
+    "lat": 40.6953855,
+    "lng": -73.91577649999999
   },
   "2351 1st Avenue, New York, NY 10035": {
     "formatted_address": "2351 1st Avenue, New York, NY 10035, USA",
@@ -434,6 +489,11 @@
     "lat": 40.83965449999999,
     "lng": -73.911386
   },
+  "240 West 113 Street, Manhattan 10026, Manhattan NY 10026": {
+    "formatted_address": "240 West 113th Street, New York, NY 10026, USA",
+    "lat": 40.8013329,
+    "lng": -73.9553938
+  },
   "242 HOYT ST": {
     "formatted_address": "242 Hoyt Street, Brooklyn, NY 11217, USA",
     "lat": 40.6830057,
@@ -448,6 +508,11 @@
     "formatted_address": "244 East 163rd Street, Bronx, NY 10451, USA",
     "lat": 40.8275634,
     "lng": -73.9185667
+  },
+  "245 West 129th Street, Manhattan 10027, Manhattan NY 10027": {
+    "formatted_address": "245 West 129th Street, New York, NY 10027, USA",
+    "lat": 40.8114886,
+    "lng": -73.9463378
   },
   "2474 CROTONA AVENUE, Bronx, NY 10458": {
     "formatted_address": "2474 Crotona Avenue, Bronx, NY 10458, USA",
@@ -539,6 +604,11 @@
     "lat": 40.69253459999999,
     "lng": -73.9583036
   },
+  "3000 Avenue X, Brooklyn 11235, BROOKLYN NY 11235": {
+    "formatted_address": "3000 Avenue X, Brooklyn, NY 11235, USA",
+    "lat": 40.59314,
+    "lng": -73.936638
+  },
   "317 East 67th Street, New York, NY 10065": {
     "formatted_address": "317 East 67th Street, New York, NY 10065, USA",
     "lat": 40.7653683,
@@ -594,6 +664,16 @@
     "lat": 40.6848686,
     "lng": -73.99077
   },
+  "35 East 125th Street, Manhattan 10035, Manhattan NY 10035": {
+    "formatted_address": "35 East 125th Street, New York, NY 10035, USA",
+    "lat": 40.8061179,
+    "lng": -73.94087200000001
+  },
+  "35 West 124 Street, Manhattan 10027, Manhattan NY 10027": {
+    "formatted_address": "35 West 124th Street, New York, NY 10027, USA",
+    "lat": 40.8065706,
+    "lng": -73.944062
+  },
   "35 West 124th Street, Manhattan NY 10027": {
     "formatted_address": "35 West 124th Street, New York, NY 10027, USA",
     "lat": 40.8065706,
@@ -603,6 +683,11 @@
     "formatted_address": "35-01 Union Street, Flushing, NY 11354, USA",
     "lat": 40.764868,
     "lng": -73.826819
+  },
+  "35-59 81st Street, Queens 11372, Queens NY 11372": {
+    "formatted_address": "35-59 81st Street, Jackson Heights, NY 11372, USA",
+    "lat": 40.7499511,
+    "lng": -73.8851641
   },
   "350 67th Street, Brooklyn, NY 11220": {
     "formatted_address": "350 67th Street, Brooklyn, NY 11220, USA",
@@ -719,6 +804,11 @@
     "lat": 40.729311,
     "lng": -73.9825827
   },
+  "424 Leonard Street, Brooklyn 11222, BROOKLYN NY 11222": {
+    "formatted_address": "424 Leonard Street, Brooklyn, NY 11222, USA",
+    "lat": 40.71976799999999,
+    "lng": -73.9484181
+  },
   "439 WEST 49TH STREET, Manhattan, NY 10019": {
     "formatted_address": "439 West 49th Street, New York, NY 10019, USA",
     "lat": 40.76399929999999,
@@ -760,6 +850,11 @@
     "lng": -73.90729
   },
   "455 SOUTHERN BLVD, BRONX NY 10455": {
+    "formatted_address": "455 Southern Boulevard, Bronx, NY 10455, USA",
+    "lat": 40.8104897,
+    "lng": -73.90729
+  },
+  "455 SOUTHERN BLVD, Bronx NY 10455": {
     "formatted_address": "455 Southern Boulevard, Bronx, NY 10455, USA",
     "lat": 40.8104897,
     "lng": -73.90729
@@ -924,6 +1019,11 @@
     "lat": 40.6335392,
     "lng": -73.9174422
   },
+  "6565 Flatlands Avenue, Brooklyn 11236, BROOKLYN NY 11236": {
+    "formatted_address": "6565 Flatlands Avenue, Brooklyn, NY 11236, USA",
+    "lat": 40.6335392,
+    "lng": -73.9174422
+  },
   "6565 Flatlands Avenue, Brooklyn, NY 11236": {
     "formatted_address": "6565 Flatlands Avenue, Brooklyn, NY 11236, USA",
     "lat": 40.6335392,
@@ -943,6 +1043,11 @@
     "formatted_address": "701 Saint Anns Avenue, Bronx, NY 10455, USA",
     "lat": 40.8181071,
     "lng": -73.9114331
+  },
+  "715 Castle Hill Avenue, Bronx 10473 , BRONX NY 10475": {
+    "formatted_address": "715 Castle Hill Avenue, Bronx, NY 10473, USA",
+    "lat": 40.8212796,
+    "lng": -73.8492831
   },
   "730 CONCOURSE VILLAGE WEST, Bronx NY 10451": {
     "formatted_address": "730 Concourse Village West, Bronx, NY 10451, USA",
@@ -969,10 +1074,20 @@
     "lat": 40.8751075,
     "lng": -73.86165249999999
   },
+  "800 HOME STREET, Bronx NY 10456": {
+    "formatted_address": "800 Home Street, Bronx, NY 10456, USA",
+    "lat": 40.8271204,
+    "lng": -73.9008891
+  },
   "800 Home Street, Rm. 426; Bronx, NY 10456": {
     "formatted_address": "800 Home Street, Bronx, NY 10456, USA",
     "lat": 40.8271204,
     "lng": -73.9008891
+  },
+  "800 Van Siclen Ave, Brooklyn 11207, BROOKLYN NY 11207": {
+    "formatted_address": "800 Van Siclen Avenue, Brooklyn, NY 11207, USA",
+    "lat": 40.6598767,
+    "lng": -73.8854448
   },
   "830 Hunts Point Ave": {
     "formatted_address": "830 Hunts Point Avenue, Bronx, NY 10474, USA",
@@ -983,6 +1098,16 @@
     "formatted_address": "830 Hunts Point Avenue, Bronx, NY 10474, USA",
     "lat": 40.817354,
     "lng": -73.887964
+  },
+  "832 Marcy Avenue, Brooklyn 11216, BROOKLYN NY 11212": {
+    "formatted_address": "832 Marcy Avenue, Brooklyn, NY 11216, USA",
+    "lat": 40.6847358,
+    "lng": -73.9480217
+  },
+  "832 Marcy Avenue, Brooklyn 11216, BROOKLYN NY 11221": {
+    "formatted_address": "832 Marcy Avenue, Brooklyn, NY 11216, USA",
+    "lat": 40.6847358,
+    "lng": -73.9480217
   },
   "838 BROOK AVE": {
     "formatted_address": "838 Brook Avenue, Bronx, NY 10451, USA",
@@ -1023,6 +1148,11 @@
     "formatted_address": "90 Trinity Place, New York, NY 10006, USA",
     "lat": 40.70902419999999,
     "lng": -74.0123569
+  },
+  "900 TINTON AVENUE, Bronx NY 10456": {
+    "formatted_address": "900 Tinton Avenue, Bronx, NY 10456, USA",
+    "lat": 40.82185070000001,
+    "lng": -73.9028489
   },
   "901 Classon Avenue, Brooklyn, NY 11225": {
     "formatted_address": "901 Classon Avenue, Brooklyn, NY 11225, USA",
