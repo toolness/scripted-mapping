@@ -52,7 +52,19 @@ define(function(require) {
     return geoJson;
   }
 
+  function filterGeoJson(query) {
+    var geoJson = toGeoJson();
+    query = query.trim().toLowerCase();
+    if (!query) return geoJson;
+    return geoJson.filter(function(item) {
+      return item.properties.schools.some(function(school) {
+        return school.name.toLowerCase().indexOf(query) != -1;
+      });
+    });
+  }
+
   return {
-    toGeoJson: toGeoJson
+    toGeoJson: toGeoJson,
+    filterGeoJson: filterGeoJson
   };
 });

@@ -3,6 +3,9 @@ define(function(require) {
   var L = require('mapbox');
 
   var Map = React.createClass({
+    componentDidUpdate: function() {
+      this.map.featureLayer.setGeoJSON(this.props.geoJson);
+    },
     componentDidMount: function() {
       this.map = L.mapbox.map(this.getDOMNode(),
                               this.props.mapboxId);
