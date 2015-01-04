@@ -47,7 +47,7 @@ function makeProgramMapping(columnNames) {
 
 function parseGrade(text) {
   if (/^kindergarten$/i.test(text)) return 0;
-  if (text == "N/A") return null;
+  if (text == "N/A" || !text.trim()) return null;
 
   var match = text.match(/^([0-9]+)th/);
   if (!match)
