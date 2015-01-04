@@ -83,25 +83,37 @@ function main() {
     var columnNames = data.splice(0, 1)[0];
     var programMapping = makeProgramMapping(columnNames);
 
-    data = data.map(function(columns) {
+    data = data.map(function(columns, i) {
+      // In spreadsheet programs, row numbers start at 1, while i starts
+      // at 0. We also need to account for the fact that row 1 is just the
+      // column names, so the actual row number is i + 2.
+      var rowNumber = i + 2;
       var column = function(name) {
         var index = columnNames.indexOf(name);
         if (index == -1)
           throw new Error("Invalid column name: " + name);
         return columns[index];
       };
+      var name = column('School Name');
       var address = fixup(column('Address'), ADDRESS_FIXUPS);
       var students = column('Total Students [Public School] 2011-12');
+
+      if (!name) {
+        console.log("No school at row " + rowNumber + ", skipping it.");
+        return null;
+      }
+      console.log("Processing school '" + name + "' (row " +
+                  rowNumber + ")");
 
       students = parseInt(students);
       if (isNaN(students)) students = null;
       if (!/NY/.test(address) && !/New York/i.test(address)) {
         address += ", " + column('Borough') + " NY " +
           column('Location ZIP [Public School] 2011-12');
-        console.log("Disambiguating", address);
+        console.log("  Disambiguating", address);
       }
       return {
-        name: column('School Name'),
+        name: name,
         address: address,
         programs: getPrograms(columns, programMapping),
         grades: [parseGrade(column('Lowest Grade Offered')),
@@ -110,9 +122,9 @@ function main() {
         freeLunch: getPercentage(column('% of Students Eligible for Free Lunch Program (2011-12 and 2014-15)')),
         reducedLunch: getPercentage(column('% of Student Eligible for a Free or Reduced-Fee Lunch'))
       };
-    });
+    }).filter(function(info) { return !!info; });
     fs.writeFileSync(JSON_FILENAME, stableStringify(data, {space: 2}));
-    console.log("wrote " + BASENAME + ".json.");
+    console.log("Wrote " + BASENAME + ".json.");
   });
 }
 
