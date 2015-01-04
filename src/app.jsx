@@ -10,20 +10,20 @@ define(function(require) {
 
   var App = React.createClass({
     getInitialState: function() {
-      return {query: ''};
+      return {query: this.getLocationHash()};
+    },
+    getLocationHash: function() {
+      try {
+        return decodeURIComponent(window.location.hash.slice(1));
+      } catch (e) {
+        return '';
+      }
     },
     handleSearchChange: function(query) {
       window.location.hash = '#' + encodeURIComponent(query);
     },
     handleHashChange: function() {
-      var query = window.location.hash.slice(1);
-
-      try {
-        query = decodeURIComponent(query);
-      } catch (e) {
-        return;
-      }
-      this.setState({query: query});
+      this.setState({query: this.getLocationHash()});
     },
     componentDidMount: function() {
       window.addEventListener('hashchange', this.handleHashChange);
