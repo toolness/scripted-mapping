@@ -75,6 +75,11 @@ function getPercentage(value) {
   return percentage;
 }
 
+function ellipsify(text, maxLength) {
+  if (text.length <= maxLength) return text;
+  return text.substring(0, maxLength - 3) + '...';
+}
+
 function main() {
   var data = fs.readFileSync(CSV_FILENAME, "utf-8");
   csv.parse(data, function(err, data) {
@@ -102,7 +107,7 @@ function main() {
         console.log("No school at row " + rowNumber + ", skipping it.");
         return null;
       }
-      console.log("Processing school '" + name + "' (row " +
+      console.log("Processing school '" + ellipsify(name, 40) + "' (row " +
                   rowNumber + ")");
 
       students = parseInt(students);
