@@ -9,6 +9,12 @@ define(function(require) {
 
   var geoJson = null;
 
+  // Cached mapping from search queries to subsets of the geoJson array.
+  // This shouldn't use a ton of memory since each entry is just a list
+  // of pointers, but in the worst case we can always turn it into a
+  // LRU cache or something.
+  var filteredGeoJson = {};
+
   function toGeoJson() {
     if (geoJson) return geoJson;
 
@@ -56,11 +62,14 @@ define(function(require) {
     var geoJson = toGeoJson();
     query = query.trim().toLowerCase();
     if (!query) return geoJson;
-    return geoJson.filter(function(item) {
-      return item.properties.schools.some(function(school) {
-        return school.name.toLowerCase().indexOf(query) != -1;
+    if (!filteredGeoJson[query]) {
+      filteredGeoJson[query] = geoJson.filter(function(item) {
+        return item.properties.schools.some(function(school) {
+          return school.name.toLowerCase().indexOf(query) != -1;
+        });
       });
-    });
+    }
+    return filteredGeoJson[query];
   }
 
   return {
