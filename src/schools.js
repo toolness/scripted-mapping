@@ -65,7 +65,11 @@ define(function(require) {
     if (!filteredGeoJson[query]) {
       filteredGeoJson[query] = geoJson.filter(function(item) {
         return item.properties.schools.some(function(school) {
-          return school.name.toLowerCase().indexOf(query) != -1;
+          var inName = school.name.toLowerCase().indexOf(query) != -1;
+          var inPrograms = school.programs.some(function(program) {
+            return program.toLowerCase().indexOf(query) != -1;
+          });
+          return inName || inPrograms;
         });
       });
     }
