@@ -1,14 +1,17 @@
 [
   {
     "name": "Grand Central Terminal",
+    "slug": "gc",
     "address": "89 E 42nd Street, New York NY, 10017"
   },
   {
     "name": "Fulton Center",
+    "slug": "fulton",
     "address": "200 Broadway, New York NY, 10038"
   },
   {
     "name": "MetroTech Center",
+    "slug": "metrotech",
     "address": "1 MetroTech Center North, Brooklyn NY, 11201"
   }
 ]

@@ -7,6 +7,7 @@ define(function(require) {
 
   var MARKER_COLOR = '#f0a';
 
+  var originIndexesBySlug = {};
   var geoJson = null;
 
   // Cached mapping from search queries to subsets of the geoJson array.
@@ -58,23 +59,56 @@ define(function(require) {
     return geoJson;
   }
 
+  function parseQuery(query) {
+    var match = query.match(/^(.*?)([0-9]+)m\s+from\s+([A-Za-z0-9]+)$/);
+    if (!match) return {str: query};
+
+    var str = match[1].trim();
+    var time = parseInt(match[2]);
+    var origin = match[3];
+
+    if (!(origin in originIndexesBySlug))
+      return {str: str};
+
+    return {
+      str: str,
+      time: time,
+      origin: origin
+    };
+  }
+
   function filterGeoJson(query) {
     var geoJson = toGeoJson();
-    query = query.trim().toLowerCase();
-    if (!query) return geoJson;
-    if (!filteredGeoJson[query]) {
-      filteredGeoJson[query] = geoJson.filter(function(item) {
-        return item.properties.schools.some(function(school) {
-          var inName = school.name.toLowerCase().indexOf(query) != -1;
-          var inPrograms = school.programs.some(function(program) {
-            return program.toLowerCase().indexOf(query) != -1;
+    query = parseQuery(query.trim().toLowerCase());
+    var queryKey = JSON.stringify(query);
+    if (!filteredGeoJson[queryKey]) {
+      var results = geoJson;
+      if (query.str)
+        results = results.filter(function(item) {
+          return item.properties.schools.some(function(school) {
+            var inName = school.name.toLowerCase().indexOf(query.str) != -1;
+            var inPrograms = school.programs.some(function(program) {
+              return program.toLowerCase().indexOf(query.str) != -1;
+            });
+            return inName || inPrograms;
           });
-          return inName || inPrograms;
         });
-      });
+      if (query.origin && query.time)
+        results = results.filter(function(item) {
+          var origin = originIndexesBySlug[query.origin];
+          var trip = item.properties.trips[origin];
+
+          return trip.duration / 60 <= query.time;
+        });
+
+      filteredGeoJson[queryKey] = results;
     }
-    return filteredGeoJson[query];
+    return filteredGeoJson[queryKey];
   }
+
+  origins.forEach(function(origin, i) {
+    originIndexesBySlug[origin.slug] = i;
+  });
 
   return {
     toGeoJson: toGeoJson,
