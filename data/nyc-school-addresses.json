@@ -228,7 +228,9 @@
       "Charter"
     ],
     "reducedLunch": 79,
-    "students": 939
+    "students": {
+      "allGrades": 939
+    }
   },
   {
     "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
@@ -242,7 +244,9 @@
       "Charter"
     ],
     "reducedLunch": 75,
-    "students": 943
+    "students": {
+      "allGrades": 943
+    }
   },
   {
     "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
@@ -256,7 +260,9 @@
       "Charter"
     ],
     "reducedLunch": 78,
-    "students": 779
+    "students": {
+      "allGrades": 779
+    }
   },
   {
     "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
@@ -270,7 +276,9 @@
       "Charter"
     ],
     "reducedLunch": 79,
-    "students": 849
+    "students": {
+      "allGrades": 849
+    }
   },
   {
     "address": "561 Grand Avenue, Brooklyn, NY 11238",
@@ -457,7 +465,9 @@
       "Charter"
     ],
     "reducedLunch": 83,
-    "students": 361
+    "students": {
+      "allGrades": 361
+    }
   },
   {
     "address": "832 MARCY AVE, BROOKLYN NY 11233",
@@ -1296,7 +1306,9 @@
     "programs": [
     ],
     "reducedLunch": null,
-    "students": 902
+    "students": {
+      "allGrades": 902
+    }
   },
   {
     "address": "6565 FLATLANDS AVENUE, Brooklyn NY 11236",
@@ -1351,7 +1363,9 @@
       "Charter"
     ],
     "reducedLunch": null,
-    "students": 341
+    "students": {
+      "allGrades": 341
+    }
   },
   {
     "address": "231 PALMETTO ST, BROOKLYN NY 11208",
@@ -2418,7 +2432,9 @@
       "Charter"
     ],
     "reducedLunch": null,
-    "students": 664
+    "students": {
+      "allGrades": 664
+    }
   },
   {
     "address": "22 EAST 128TH ST, NEW YORK NY 11206",
@@ -2446,7 +2462,9 @@
       "Charter"
     ],
     "reducedLunch": null,
-    "students": 691
+    "students": {
+      "allGrades": 691
+    }
   },
   {
     "address": "244 WEST 144 ST4TH FL, NEW YORK NY 10032",
@@ -3451,7 +3469,9 @@
       "Charter"
     ],
     "reducedLunch": 80,
-    "students": 415
+    "students": {
+      "allGrades": 415
+    }
   },
   {
     "address": "2630 BENSON AVE, BROOKLYN NY 10006",
@@ -3584,7 +3604,9 @@
       "Charter"
     ],
     "reducedLunch": 79,
-    "students": 620
+    "students": {
+      "allGrades": 620
+    }
   },
   {
     "address": "2865 WEST 19TH ST, BROOKLYN NY 10023",
@@ -3883,7 +3905,9 @@
     "programs": [
     ],
     "reducedLunch": null,
-    "students": 1248
+    "students": {
+      "allGrades": 1248
+    }
   },
   {
     "address": "985 Rockaway Avenue, Brooklyn, NY 11212",
@@ -4122,7 +4146,9 @@
       "Charter"
     ],
     "reducedLunch": null,
-    "students": 745
+    "students": {
+      "allGrades": 745
+    }
   },
   {
     "address": "1601 80 STREET, Brooklyn NY 11214",
@@ -4726,7 +4752,9 @@
       "Charter"
     ],
     "reducedLunch": null,
-    "students": 545
+    "students": {
+      "allGrades": 545
+    }
   },
   {
     "address": "410 EAST 100 STREET, Manhattan NY 10029",
@@ -5401,7 +5429,9 @@
       "Charter"
     ],
     "reducedLunch": 83,
-    "students": 991
+    "students": {
+      "allGrades": 991
+    }
   },
   {
     "address": "40 Irving Place, New York, NY 10003",
@@ -6071,6 +6101,8 @@
       "Club"
     ],
     "reducedLunch": null,
-    "students": 555
+    "students": {
+      "allGrades": 555
+    }
   }
 ]
