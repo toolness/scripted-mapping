@@ -21,6 +21,9 @@ var PROGRAM_TYPES = [
   'Club',
   'Charter'
 ];
+var WEIRD_BOOLEANS = [
+  'Close - 74%' // Bronx Academy of Letters has this under "ScriptEd"
+];
 var BASENAME = "data/nyc-school-addresses";
 var CSV_FILENAME = __dirname + "/../" + BASENAME + ".csv";
 var JSON_FILENAME = __dirname + "/../" + BASENAME + ".json";
@@ -58,14 +61,16 @@ function parseGrade(text) {
 function getPrograms(columns, mapping) {
   return Object.keys(mapping).filter(function(name) {
     var index = mapping[name];
-    if (columns[index] == "YES") return true;
-    if (columns[index])
+    if (columns[index].toUpperCase() == "YES") return true;
+    if (columns[index] && WEIRD_BOOLEANS.indexOf(columns[index]) == -1)
       throw new Error("Unexpected boolean value: " + columns[index]);
   });
 }
 
 function getPercentage(value) {
-  if (!value || value == '?') return null;
+  if (!value || value == '?' ||
+      value == '"Most students"' /* lol whatevs, Cristo Rey */)
+    return null;
   var percentage = value.match(/^([0-9.]+)%$/);
   if (!percentage)
     throw new Error('Unable to parse percentage: ' + value);
@@ -112,8 +117,9 @@ function main() {
 
       students = parseInt(students);
       if (isNaN(students)) students = null;
-      if (!/NY/.test(address) && !/New York/i.test(address)) {
-        address += ", " + column('Borough') + " NY " +
+      if (address == '1150 EAST NEW YORK AVE' /* Brownsville Academy */
+          || (!/NY/.test(address) && !/New York/i.test(address))) {
+        address += ", " + column('City') + " NY " +
           column('Location ZIP [Public School] 2011-12');
         console.log("  Disambiguating", address);
       }
