@@ -20,7 +20,8 @@ define(function(require) {
         });
       }.bind(this));
       this.map.featureLayer.setGeoJSON(this.props.geoJson);
-      this.map.fitBounds(this.map.featureLayer.getBounds());
+      if (this.props.geoJson.length)
+        this.map.fitBounds(this.map.featureLayer.getBounds());
     },
     componentWillUnmount: function() {
       this.map.remove();
