@@ -58,6 +58,16 @@ function parseGrade(text) {
   return parseInt(match[1]);
 }
 
+function parseStudents(value) {
+  var students = value.match(/^([0-9]+)([*]?)$/);
+
+  if (!students) return null;
+  if (students[2] == '*')
+    return {allGrades: parseInt(students[1])};
+  // Student numbers are only for grades 9-12.
+  return parseInt(students[1]);
+}
+
 function getPrograms(columns, mapping) {
   return Object.keys(mapping).filter(function(name) {
     var index = mapping[name];
@@ -115,8 +125,6 @@ function main() {
       console.log("Processing school '" + ellipsify(name, 40) + "' (row " +
                   rowNumber + ")");
 
-      students = parseInt(students);
-      if (isNaN(students)) students = null;
       if (address == '1150 EAST NEW YORK AVE' /* Brownsville Academy */
           || (!/NY/.test(address) && !/New York/i.test(address))) {
         address += ", " + column('City') + " NY " +
@@ -129,7 +137,7 @@ function main() {
         programs: getPrograms(columns, programMapping),
         grades: [parseGrade(column('Lowest Grade Offered')),
                  parseGrade(column('Highest Grade Offered'))],
-        students: students,
+        students: parseStudents(students),
         freeLunch: getPercentage(column('% of Students Eligible for Free Lunch Program (2011-12 and 2014-15)')),
         reducedLunch: getPercentage(column('% of Student Eligible for a Free or Reduced-Fee Lunch'))
       };

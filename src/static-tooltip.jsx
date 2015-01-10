@@ -101,6 +101,9 @@ define(function(require) {
 
   function studentsText(students, grades) {
     if (students === null) return null;
+    if (students && typeof(students.allGrades) == "number")
+      return students.allGrades + " students in all grades";
+
     var text = students + " students";
     if (grades[0] < 9)
       text += " in " + gradesText([9, grades[1]]).toLowerCase();
