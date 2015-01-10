@@ -1,5 +1,9 @@
 {
   "1 MetroTech Center North, Brooklyn NY, 11201": {
+    "1 Monroe St, Manhattan NY 10002": {
+      "distance": 3502,
+      "duration": 1026
+    },
     "1 Teleport Drive, Staten Island, NY 10311": {
       "distance": 31069,
       "duration": 7205
@@ -7,6 +11,10 @@
     "1 Wells St, Brooklyn NY, 11208": {
       "distance": 11652,
       "duration": 2005
+    },
+    "100 HESTER ST, NEW YORK NY 11412": {
+      "distance": 2953,
+      "duration": 627
     },
     "100 HESTER STREET, Manhattan NY 10002": {
       "distance": 4109,
@@ -19,6 +27,18 @@
     "100 WEST MOSHOLU PARKWAY SOUTH, BRONX NY": {
       "distance": 26297,
       "duration": 4226
+    },
+    "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 10457": {
+      "distance": 25712,
+      "duration": 3087
+    },
+    "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 10468": {
+      "distance": 25712,
+      "duration": 3087
+    },
+    "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 11208": {
+      "distance": 25712,
+      "duration": 3087
     },
     "1001 INTERVALE AVE": {
       "distance": 22672,
@@ -36,7 +56,15 @@
       "distance": 14215,
       "duration": 2426
     },
+    "1010 LAFAYETTE AVE, BROOKLYN NY 10473": {
+      "distance": 5342,
+      "duration": 1756
+    },
     "1010 REV JAMES POLITE AVE": {
+      "distance": 22963,
+      "duration": 3316
+    },
+    "1010 REV JAMES POLITE AVE, BRONX NY 10454": {
       "distance": 22963,
       "duration": 3316
     },
@@ -52,6 +80,10 @@
       "distance": 24282,
       "duration": 4023
     },
+    "105 EAST 106TH ST, NEW YORK NY 11206": {
+      "distance": 12042,
+      "duration": 2602
+    },
     "105 Johnson Street, Brooklyn, NY 11201": {
       "distance": 135,
       "duration": 97
@@ -63,6 +95,30 @@
     "105-25 HORACE HARDING EXPY N, Queens NY 11368": {
       "distance": 25020,
       "duration": 3695
+    },
+    "1053 41ST ST, BROOKLYN NY 11207": {
+      "distance": 7835,
+      "duration": 1726
+    },
+    "1065 ELTON ST, BROOKLYN NY 10029": {
+      "distance": 13864,
+      "duration": 3004
+    },
+    "1075 OCEANVIEW AVE, BROOKLYN NY 11694": {
+      "distance": 14514,
+      "duration": 2594
+    },
+    "10835 167TH ST, JAMAICA NY 10029": {
+      "distance": 29711,
+      "duration": 4462
+    },
+    "10989 204TH ST, SAINT ALBANS NY 10469": {
+      "distance": 33548,
+      "duration": 5108
+    },
+    "1100 BOSTON RD, BRONX NY 10006": {
+      "distance": 22462,
+      "duration": 3933
     },
     "1100 Boston Road, Bronx, NY 10456": {
       "distance": 21963,
@@ -84,17 +140,45 @@
       "distance": 14845,
       "duration": 2752
     },
+    "112 SCHERMERHORN ST, BROOKLYN NY 11221": {
+      "distance": 721,
+      "duration": 541
+    },
     "1122 EAST 180 STREET, Bronx NY 10460": {
       "distance": 26061,
       "duration": 3944
+    },
+    "1137 HERKIMER ST, BROOKLYN NY 11355": {
+      "distance": 7642,
+      "duration": 1395
+    },
+    "1150 EAST NEW YORK AVE, BROOKLYN NY 11203": {
+      "distance": 8087,
+      "duration": 1645
     },
     "1155 DEKALB AVENUE, Brooklyn NY 11221": {
       "distance": 6031,
       "duration": 1712
     },
+    "11625 GUY R BREWER BLVD, JAMAICA NY 10011": {
+      "distance": 30445,
+      "duration": 4446
+    },
     "1180 Rev James A Polite Avenue, Bronx, NY 10459": {
       "distance": 24227,
       "duration": 3983
+    },
+    "1186 Carroll St, Brooklyn NY 11225": {
+      "distance": 5350,
+      "duration": 1057
+    },
+    "120 WEST 231ST ST, BRONX NY 11217": {
+      "distance": 25516,
+      "duration": 4051
+    },
+    "120 WEST 30TH ST, NEW YORK NY 10455": {
+      "distance": 9276,
+      "duration": 2379
     },
     "120 WEST 46 STREET, Manhattan NY 10026": {
       "distance": 9323,
@@ -104,6 +188,14 @@
       "distance": 5561,
       "duration": 1021
     },
+    "122 AMSTERDAM AVE, NEW YORK NY 10455": {
+      "distance": 12702,
+      "duration": 2029
+    },
+    "122 AMSTERDAM AVE, NEW YORK NY 10468": {
+      "distance": 12702,
+      "duration": 2029
+    },
     "122 AMSTERDAM AVENUE, Manhattan NY 10023": {
       "distance": 12702,
       "duration": 2039
@@ -112,6 +204,10 @@
       "distance": 11963,
       "duration": 2232
     },
+    "123 WEST 43RD ST, NEW YORK NY 11215": {
+      "distance": 7159,
+      "duration": 1681
+    },
     "1231 Lafayette Avenue, Bronx 10474, Manhattan NY 10474": {
       "distance": 23579,
       "duration": 4259
@@ -119,6 +215,14 @@
     "125 Stuyvesant Avenue, Brooklyn, NY 11221": {
       "distance": 5099,
       "duration": 1461
+    },
+    "1300 BOYNTON AVE, BRONX NY 11101": {
+      "distance": 25633,
+      "duration": 4074
+    },
+    "1300 BOYTON AVE, BRONX NY 10002": {
+      "distance": 25633,
+      "duration": 4074
     },
     "1300 Boynton Avenue, Bronx, NY 10472": {
       "distance": 22279,
@@ -136,6 +240,18 @@
       "distance": 23177,
       "duration": 4462
     },
+    "13811 35TH AVE, FLUSHING NY 10455": {
+      "distance": 24297,
+      "duration": 4076
+    },
+    "13830 LAFAYETTE ST, OZONE PARK NY 10463": {
+      "distance": 14804,
+      "duration": 2830
+    },
+    "1396 BROADWAY, BROOKLYN NY 10469": {
+      "distance": 9983,
+      "duration": 1873
+    },
     "1396 BROADWAY, Brooklyn NY 11221": {
       "distance": 9983,
       "duration": 1873
@@ -148,6 +264,14 @@
       "distance": 14967,
       "duration": 2670
     },
+    "143 10 SPRINGFIELD BLVD, SPRINGFIELD GARDENS NY 10463": {
+      "distance": 23401,
+      "duration": 3281
+    },
+    "143 10 SPRINGFIELD BLVD, SPRINGFIELD GARDENS NY 11432": {
+      "distance": 23401,
+      "duration": 3281
+    },
     "143-10 Sprinfield Blvd, Queens NY 11413": {
       "distance": 33850,
       "duration": 4343
@@ -156,9 +280,17 @@
       "distance": 24662,
       "duration": 4116
     },
+    "1440 STORY AVE, BRONX NY 10457": {
+      "distance": 24839,
+      "duration": 4082
+    },
     "1440 Story Avenue, Bronx, NY 10473": {
       "distance": 24839,
       "duration": 3957
+    },
+    "144176 EAST 128TH ST, NEW YORK NY 10029": {
+      "distance": 16775,
+      "duration": 2464
     },
     "145 Pennsylvania Avenue, Brooklyn,  New York 11207  ": {
       "distance": 8869,
@@ -167,6 +299,14 @@
     "145 STANTON STREET, Manhattan NY 10002": {
       "distance": 3680,
       "duration": 792
+    },
+    "145 WEST 84TH ST, NEW YORK NY 10023": {
+      "distance": 13435,
+      "duration": 2357
+    },
+    "145 West 84 Street, Manhattan NY 10024": {
+      "distance": 13435,
+      "duration": 2357
     },
     "145 West 84th Street, New York, NY 10024": {
       "distance": 13435,
@@ -181,6 +321,10 @@
       "duration": 1115
     },
     "1495 HERKIMER ST": {
+      "distance": 8103,
+      "duration": 1413
+    },
+    "1495 HERKIMER ST, BROOKLYN NY 11215": {
       "distance": 8103,
       "duration": 1413
     },
@@ -200,6 +344,30 @@
       "distance": 6041,
       "duration": 1712
     },
+    "150-91 87 Road, Queens NY 11432": {
+      "distance": 27444,
+      "duration": 3263
+    },
+    "153 35TH ST, BROOKLYN NY 10451": {
+      "distance": 5618,
+      "duration": 1108
+    },
+    "1551 EAST 172ND ST, BRONX NY 10026": {
+      "distance": 23794,
+      "duration": 3699
+    },
+    "1551 EAST 172ND ST, BRONX NY 11201": {
+      "distance": 23794,
+      "duration": 3699
+    },
+    "156-10 Baisley Boulevard, Queens NY 11434": {
+      "distance": 31872,
+      "duration": 5023
+    },
+    "157 WILson Street, Brooklyn NY 11211": {
+      "distance": 6034,
+      "duration": 1797
+    },
     "1573 MADISON AVENUE, Manhattan NY 10029": {
       "distance": 15081,
       "duration": 2918
@@ -208,9 +376,17 @@
       "distance": 22995,
       "duration": 3840
     },
+    "16-66 Hancock St, Ridgewood NY 11385": {
+      "distance": 9096,
+      "duration": 2744
+    },
     "160-05 HIGHLAND AVENUE, Queens NY 11432": {
       "distance": 28396,
       "duration": 3431
+    },
+    "1600 ROCKAWAY PARKWAY, BROOKLYN NY 10023": {
+      "distance": 12538,
+      "duration": 2701
     },
     "1600 Rockaway Parkway, Brooklyn NY 11236": {
       "distance": 14873,
@@ -219,6 +395,18 @@
     "1600 Rockaway Parkway, Brooklyn, NY 11236": {
       "distance": 14873,
       "duration": 3400
+    },
+    "1601 80 STREET, Brooklyn NY 11214": {
+      "distance": 10995,
+      "duration": 2277
+    },
+    "16020 GOETHALS AVE, JAMAICA NY 10456": {
+      "distance": 28995,
+      "duration": 4063
+    },
+    "1619 BOSTON RD, BRONX NY 11236": {
+      "distance": 24858,
+      "duration": 3500
     },
     "1619 Boston Road, Bronx, NY 10460": {
       "distance": 24858,
@@ -232,9 +420,25 @@
       "distance": 28989,
       "duration": 3876
     },
+    "167 01 GOTHIC DR, JAMAICA NY 11207": {
+      "distance": 28567,
+      "duration": 3571
+    },
+    "167 01 GOTHIC DR, JAMAICA NY 11220": {
+      "distance": 28567,
+      "duration": 3571
+    },
     "167-01 GOTHIC DRIVE; Jamaica, NY 11432": {
       "distance": 28686,
       "duration": 3647
+    },
+    "16701 GOTHIC DR, JAMAICA NY 10463": {
+      "distance": 28696,
+      "duration": 3655
+    },
+    "1680 LEXINGTON AVE, NEW YORK NY 10002": {
+      "distance": 14697,
+      "duration": 2640
     },
     "1700 Fulton Street, Brooklyn, NY 11213": {
       "distance": 5719,
@@ -268,6 +472,14 @@
       "distance": 30423,
       "duration": 4039
     },
+    "198 FORSYTH ST, NEW YORK NY 10460": {
+      "distance": 4160,
+      "duration": 722
+    },
+    "198 FORSYTH ST3RD FL, NEW YORK NY 10030": {
+      "distance": 17299,
+      "duration": 2782
+    },
     "198 VARET ST": {
       "distance": 5568,
       "duration": 1956
@@ -275,6 +487,18 @@
     "198 VARET ST, BROOKLYN NY 11206": {
       "distance": 5568,
       "duration": 1956
+    },
+    "1980 LAFAYETTE AVE, BRONX NY 10456": {
+      "distance": 27135,
+      "duration": 4712
+    },
+    "1980 LAFAYETTE AVE, BRONX NY 10459": {
+      "distance": 27135,
+      "duration": 4712
+    },
+    "1980 LAFAYETTE AVE, BRONX NY 11237": {
+      "distance": 27135,
+      "duration": 4712
     },
     "1980 Lafayette Avenue, Bronx, NY 10473": {
       "distance": 28430,
@@ -304,9 +528,17 @@
       "distance": 20175,
       "duration": 3316
     },
+    "201 East 144th Street, Bronx, NY 10451": {
+      "distance": 18461,
+      "duration": 2615
+    },
     "2021 Bergen Street, Brooklyn, NY 11233": {
       "distance": 7893,
       "duration": 1597
+    },
+    "2024 MOHEGAN AVE, BRONX NY 11211": {
+      "distance": 25960,
+      "duration": 3911
     },
     "2057 LINDEN BOULEVARD; Brooklyn NY 11207": {
       "distance": 10709,
@@ -316,9 +548,17 @@
       "distance": 34240,
       "duration": 5699
     },
+    "207-01 116th St, Queens NY 11411": {
+      "distance": 34240,
+      "duration": 5201
+    },
     "21-16 44th Road, Long Island City, NY 11101": {
       "distance": 10754,
       "duration": 2130
+    },
+    "21-27 HIMROD STREET, Queens NY 11385": {
+      "distance": 8604,
+      "duration": 2892
     },
     "212 West 120 Street, Manhattan 10027, Manhattan NY 10027": {
       "distance": 15646,
@@ -328,13 +568,33 @@
       "distance": 5742,
       "duration": 1488
     },
+    "215 WEST 114TH ST, NEW YORK NY 11207": {
+      "distance": 15148,
+      "duration": 2469
+    },
     "215 West 114 St, Manhattan NY 10026": {
       "distance": 15148,
       "duration": 2409
     },
+    "22 EAST 128TH ST, NEW YORK NY 11206": {
+      "distance": 18097,
+      "duration": 2769
+    },
+    "220 HENRY ST, NEW YORK NY 10003": {
+      "distance": 3162,
+      "duration": 774
+    },
     "222 West 134 Street, Manhattan 10030, Manhattan NY 10030": {
       "distance": 17328,
       "duration": 2722
+    },
+    "2225 WEBSTER AVE, BRONX NY 11216": {
+      "distance": 24169,
+      "duration": 3394
+    },
+    "223 GRAHAM AVE, BROOKLYN NY 10455": {
+      "distance": 6387,
+      "duration": 1866
     },
     "223 Graham Avenue, Brooklyn, NY 11206": {
       "distance": 6387,
@@ -356,9 +616,21 @@
       "distance": 16014,
       "duration": 3124
     },
+    "23034 EAST 105TH ST, NEW YORK NY 10459": {
+      "distance": 14817,
+      "duration": 2734
+    },
+    "231 PALMETTO ST, BROOKLYN NY 11208": {
+      "distance": 8781,
+      "duration": 2830
+    },
     "231 Palmetto Street, Brooklyn 11221, BROOKLYN NY 11221": {
       "distance": 7191,
       "duration": 1923
+    },
+    "2351 1ST AVE4TH FL, NEW YORK NY 10035": {
+      "distance": 18586,
+      "duration": 3796
     },
     "2351 1st Avenue, New York, NY 10035": {
       "distance": 16536,
@@ -376,9 +648,21 @@
       "distance": 4823,
       "duration": 1357
     },
+    "240 2ND AVE, NEW YORK NY 10472": {
+      "distance": 32581,
+      "duration": 5896
+    },
+    "240 EAST 109TH ST, MANHATTAN NY 10002": {
+      "distance": 17827,
+      "duration": 2769
+    },
     "240 EAST 172 STREET, Bronx NY 10457": {
       "distance": 21804,
       "duration": 2962
+    },
+    "240 EAST 172ND ST, BRONX NY 11225": {
+      "distance": 21479,
+      "duration": 2774
     },
     "240 East 172nd Street, Bronx, NY 10457": {
       "distance": 21804,
@@ -400,6 +684,10 @@
       "distance": 20520,
       "duration": 3155
     },
+    "244 WEST 144 ST4TH FL, NEW YORK NY 10032": {
+      "distance": 20077,
+      "duration": 3197
+    },
     "245 West 129th Street, Manhattan 10027, Manhattan NY 10027": {
       "distance": 16830,
       "duration": 2681
@@ -416,9 +704,21 @@
       "distance": 14444,
       "duration": 2640
     },
+    "250 EAST 164TH ST, BRONX NY 10459": {
+      "distance": 20133,
+      "duration": 3243
+    },
     "250 East 156th Street, Bronx, NY 10451": {
       "distance": 20519,
       "duration": 3157
+    },
+    "250 HOOPER ST, BROOKLYN NY 10025": {
+      "distance": 6422,
+      "duration": 2020
+    },
+    "250 WEST 18TH ST, NEW YORK NY 11101": {
+      "distance": 17853,
+      "duration": 3501
     },
     "257 North 6th Street, Brooklyn, NY 11211": {
       "distance": 7785,
@@ -436,17 +736,37 @@
       "distance": 16436,
       "duration": 3304
     },
+    "2630 BENSON AVE, BROOKLYN NY 10006": {
+      "distance": 15238,
+      "duration": 2742
+    },
+    "2630 BENSON AVE, BROOKLYN NY 11101": {
+      "distance": 15238,
+      "duration": 2742
+    },
     "2630 Benson Avenue, Brooklyn, NY 11214": {
       "distance": 15238,
       "duration": 2952
+    },
+    "265 RALPH AVE, BROOKLYN NY 10473": {
+      "distance": 6711,
+      "duration": 1182
     },
     "2780 Reservoir Avenue, Bronx, NY 10468": {
       "distance": 24745,
       "duration": 4160
     },
+    "28-04 41 Avenue, Queens NY 11101": {
+      "distance": 13799,
+      "duration": 2250
+    },
     "2801 41st Avenue, Long Island City, NY 11101": {
       "distance": 15532,
       "duration": 2526
+    },
+    "283 ADAMS ST, BROOKLYN NY 11206": {
+      "distance": 372,
+      "duration": 296
     },
     "283 Adams Street, Brooklyn, NY 11201": {
       "distance": 372,
@@ -455,6 +775,10 @@
     "284 Baltic Street, Brooklyn, NY 11201": {
       "distance": 1968,
       "duration": 643
+    },
+    "2865 WEST 19TH ST, BROOKLYN NY 10023": {
+      "distance": 16781,
+      "duration": 2850
     },
     "2900 EXTERIOR STSTE 1R": {
       "distance": 25036,
@@ -472,6 +796,10 @@
       "distance": 10900,
       "duration": 2267
     },
+    "300 WILLOUGHBY AVE, BROOKLYN NY 11694": {
+      "distance": 2718,
+      "duration": 1164
+    },
     "300 Willoughby Avenue, Brooklyn, NY 11205": {
       "distance": 3396,
       "duration": 895
@@ -480,6 +808,18 @@
       "distance": 13315,
       "duration": 3471
     },
+    "3000 EAST TREMONT AVE, BRONX NY 10456": {
+      "distance": 27920,
+      "duration": 4201
+    },
+    "3000 EAST TREMONT AVE, BRONX NY 11433": {
+      "distance": 27920,
+      "duration": 4201
+    },
+    "3000 East Tremont Avenue, Bronx NY 10461": {
+      "distance": 27920,
+      "duration": 4201
+    },
     "317 East 67th Street, New York, NY 10065": {
       "distance": 11716,
       "duration": 2129
@@ -487,6 +827,10 @@
     "317,E 67th St,New York,NY,10065-6051": {
       "distance": 11716,
       "duration": 2129
+    },
+    "32-24 CORPORAL KENNEDY ST, QUEENS NY 11361": {
+      "distance": 30577,
+      "duration": 5040
     },
     "320 E 96th St, New York, NY 10128": {
       "distance": 14404,
@@ -500,13 +844,29 @@
       "distance": 6089,
       "duration": 1938
     },
+    "326 SCHERMERHORN ST, BROOKLYN NY 11214": {
+      "distance": 1315,
+      "duration": 685
+    },
+    "333 EAST 151ST ST, BRONX NY 10451": {
+      "distance": 20989,
+      "duration": 3045
+    },
     "333 East 151st Street, Bronx, NY 10451": {
       "distance": 20989,
       "duration": 3465
     },
+    "333 WEST 17 STREET, MANHATTAN NY 10011": {
+      "distance": 7308,
+      "duration": 1276
+    },
     "339 Morris Avenue, Bronx, NY 10451": {
       "distance": 18026,
       "duration": 3308
+    },
+    "34 WEST 14TH ST, NEW YORK NY 10030": {
+      "distance": 6724,
+      "duration": 1147
     },
     "345 Brook Avenue, Bronx NY": {
       "distance": 17322,
@@ -515,6 +875,10 @@
     "345 Brook Avenue, Bronx, NY 10454": {
       "distance": 17322,
       "duration": 3282
+    },
+    "345 Dean Street, Brooklyn NY 11217": {
+      "distance": 1824,
+      "duration": 606
     },
     "345 East 15th Sst Manhattan NY 10003": {
       "distance": 8044,
@@ -548,6 +912,18 @@
       "distance": 8504,
       "duration": 1914
     },
+    "350 CONEY ISLAND AVE, BROOKLYN NY 11221": {
+      "distance": 6872,
+      "duration": 1455
+    },
+    "350 GRAND ST, NEW YORK NY 10034": {
+      "distance": 3603,
+      "duration": 748
+    },
+    "350 GRAND ST, NEW YORK NY 10472": {
+      "distance": 3603,
+      "duration": 748
+    },
     "350 GRAND STREET, Manhattan NY 10002": {
       "distance": 3603,
       "duration": 748
@@ -560,9 +936,25 @@
       "distance": 3603,
       "duration": 748
     },
+    "351 WEST 18TH ST, NEW YORK NY 10457": {
+      "distance": 7450,
+      "duration": 1378
+    },
+    "351 WEST 18TH ST, NEW YORK NY 10463": {
+      "distance": 7450,
+      "duration": 1378
+    },
+    "351 WEST 18TH ST, NEW YORK NY 11101": {
+      "distance": 7450,
+      "duration": 1378
+    },
     "351 West 18th Street, New York, NY 10011": {
       "distance": 7450,
       "duration": 1348
+    },
+    "3540 BIVONA ST, BRONX NY 11417": {
+      "distance": 30801,
+      "duration": 4571
     },
     "36-41 28 St, Queens NY 11106": {
       "distance": 15444,
@@ -584,6 +976,10 @@
       "distance": 11895,
       "duration": 2176
     },
+    "383 STATE ST, BROOKLYN NY 11366": {
+      "distance": 1141,
+      "duration": 506
+    },
     "3872 3RD AVE": {
       "distance": 1074352,
       "duration": 57435
@@ -596,13 +992,37 @@
       "distance": 6646,
       "duration": 1381
     },
+    "40 IRVING PLACE, NEW YORK NY 11432": {
+      "distance": 6646,
+      "duration": 1381
+    },
     "40 Irving Place, New York, NY 10003": {
       "distance": 7612,
       "duration": 1456
     },
+    "400 IRVING AVE, BROOKLYN NY 10452": {
+      "distance": 9400,
+      "duration": 2831
+    },
+    "400 IRVING AVE, BROOKLYN NY 10453": {
+      "distance": 9400,
+      "duration": 2831
+    },
+    "400 IRVING AVE, BROOKLYN NY 11237": {
+      "distance": 9400,
+      "duration": 2831
+    },
     "400 IRVING AVENUE, Brooklyn NY 11237": {
       "distance": 7141,
       "duration": 1900
+    },
+    "400 PENNSYLVANIA AVE, BROOKLYN NY 11368": {
+      "distance": 9988,
+      "duration": 1952
+    },
+    "400 PENNSYLVANIA AVE, BROOKLYN NY 11432": {
+      "distance": 9988,
+      "duration": 1952
     },
     "400 PENNSYLVANIA AVENUE, Brooklyn, NY 11207": {
       "distance": 9988,
@@ -636,9 +1056,21 @@
       "distance": 5157,
       "duration": 1606
     },
+    "4200 16TH AVE, BROOKLYN NY 11211": {
+      "distance": 8534,
+      "duration": 1571
+    },
     "424 Leonard Street, Brooklyn 11222, BROOKLYN NY 11222": {
       "distance": 8040,
       "duration": 1906
+    },
+    "43 WEST 22ND ST, NEW YORK NY 10016": {
+      "distance": 7238,
+      "duration": 1179
+    },
+    "433 W 135th St, New York, NY 10031": {
+      "distance": 17198,
+      "duration": 2804
     },
     "439 WEST 49TH STREET, Manhattan, NY 10019": {
       "distance": 10332,
@@ -656,6 +1088,10 @@
       "distance": 17161,
       "duration": 2691
     },
+    "444 WEST 56TH ST, NEW YORK NY 10040": {
+      "distance": 10452,
+      "duration": 2256
+    },
     "45-10 94th Street, Elmhurst, NY 11373": {
       "distance": 20681,
       "duration": 3295
@@ -667,6 +1103,14 @@
     "45-35 Van Dam Street, Long Island City, NY 11101": {
       "distance": 15960,
       "duration": 2823
+    },
+    "4510 94TH ST, ELMHURST NY 10460": {
+      "distance": 20681,
+      "duration": 3565
+    },
+    "4535 VAN DAM ST, LONG ISLAND CITY NY 10451": {
+      "distance": 11341,
+      "duration": 2434
     },
     "455 SOUTHERN BLVD": {
       "distance": 2341693,
@@ -684,6 +1128,10 @@
       "distance": 18574,
       "duration": 3441
     },
+    "456 WHITE PLAINS RD, BRONX NY 11237": {
+      "distance": 27978,
+      "duration": 5147
+    },
     "456 WHITE PLAINS ROAD, Bronx NY 10473": {
       "distance": 27978,
       "duration": 4924
@@ -695,6 +1143,18 @@
     "4600 Broadway, New York, NY 10040": {
       "distance": 22146,
       "duration": 3365
+    },
+    "470 JACKSON AVE, BRONX NY 10455": {
+      "distance": 22062,
+      "duration": 3290
+    },
+    "470 JACKSON AVE, BRONX NY 11413": {
+      "distance": 22062,
+      "duration": 3290
+    },
+    "4707 30TH PLACE, LONG ISLAND CITY NY 11212": {
+      "distance": 11214,
+      "duration": 2346
     },
     "48-01 90 St, Queens NY 11373": {
       "distance": 22222,
@@ -728,6 +1188,14 @@
       "distance": 19250,
       "duration": 2831
     },
+    "504 WEST 158th ST, NEW YORK NY 11207": {
+      "distance": 19316,
+      "duration": 2950
+    },
+    "509 WEST 129TH ST, NEW YORK NY 11208": {
+      "distance": 28004,
+      "duration": 5247
+    },
     "509 West 129th Street, New York, NY 10027": {
       "distance": 16771,
       "duration": 2612
@@ -735,6 +1203,10 @@
     "511 West 182nd Street, New York, NY 10033": {
       "distance": 21534,
       "duration": 3436
+    },
+    "521 WEST AVE, BROOKLYN NY 11203": {
+      "distance": 14592,
+      "duration": 2459
     },
     "525 WEST 50TH STREET, Manhattan NY 10019": {
       "distance": 10506,
@@ -744,6 +1216,14 @@
       "distance": 10506,
       "duration": 1933
     },
+    "549 AUDUBON AVE, NEW YORK NY 10469": {
+      "distance": 21696,
+      "duration": 3619
+    },
+    "549 AUDUBON AVE, NEW YORK NY 11226": {
+      "distance": 21696,
+      "duration": 3619
+    },
     "549 AUDUBON AVENUE, Manhattan NY 10040": {
       "distance": 21727,
       "duration": 2989
@@ -751,6 +1231,10 @@
     "549 Audubon Ave, New York, NY 10040": {
       "distance": 21727,
       "duration": 2989
+    },
+    "560 EAST 179TH ST, BRONX NY 10461": {
+      "distance": 22871,
+      "duration": 3839
     },
     "561 Grand Avenue, Brooklyn, NY 11238": {
       "distance": 3912,
@@ -768,6 +1252,10 @@
       "distance": 12176,
       "duration": 2417
     },
+    "5800 TILDEN AVE, BROOKLYN NY 10002": {
+      "distance": 9613,
+      "duration": 2465
+    },
     "5800 TILDEN AVENUE, Brooklyn NY 11203": {
       "distance": 10654,
       "duration": 2724
@@ -779,6 +1267,10 @@
     "6 EDGECOMBE AVENUE, Manhattan NY 10030": {
       "distance": 16827,
       "duration": 2346
+    },
+    "600 KINGSTON AVE, BROOKLYN NY 10033": {
+      "distance": 7369,
+      "duration": 1782
     },
     "600 Kingston Ave, Brooklyn, NY 11203": {
       "distance": 6739,
@@ -804,9 +1296,37 @@
       "distance": 21061,
       "duration": 3084
     },
+    "600 ST ANN'S AVE, BRONX NY 11203": {
+      "distance": 21061,
+      "duration": 3084
+    },
+    "610 HENRY ST, BROOKLYN NY 10457": {
+      "distance": 2913,
+      "duration": 1004
+    },
+    "6125 MARATHON PKY, LITTLE NECK NY 11694": {
+      "distance": 38145,
+      "duration": 6385
+    },
+    "639 St. Anns Avenue, Bronx NY 10455": {
+      "distance": 21856,
+      "duration": 3125
+    },
+    "650 ACADEMY ST, NEW YORK NY 11236": {
+      "distance": 9864,
+      "duration": 3021
+    },
+    "6565 FLATLANDS AVE, BROOKLYN NY 10002": {
+      "distance": 11613,
+      "duration": 2909
+    },
     "6565 FLATLANDS AVENUE, Brooklyn NY 11236": {
       "distance": 11901,
       "duration": 2834
+    },
+    "6565 Flatlands Avenue Brooklyn NY 11235": {
+      "distance": 11613,
+      "duration": 2909
     },
     "6565 Flatlands Avenue, Brooklyn 11236, BROOKLYN NY 11236": {
       "distance": 11901,
@@ -820,9 +1340,17 @@
       "distance": 3232,
       "duration": 719
     },
+    "70 TOMPKINS AVE, BROOKLYN NY 10459": {
+      "distance": 3567,
+      "duration": 1428
+    },
     "70 TOMPKINS AVENUE, Brooklyn NY 11206": {
       "distance": 4244,
       "duration": 1082
+    },
+    "701 ST ANNS AVE, BRONX NY 11373": {
+      "distance": 22031,
+      "duration": 3252
     },
     "701 Saint Anns Avenue, Bronx, NY 10455": {
       "distance": 22031,
@@ -832,25 +1360,73 @@
       "distance": 29327,
       "duration": 5402
     },
+    "730 CONCOURSE VILLAGE WEST, BRONX NY 11201": {
+      "distance": 18688,
+      "duration": 2812
+    },
+    "730 CONCOURSE VILLAGE WEST, BRONX NY 11211": {
+      "distance": 18688,
+      "duration": 2812
+    },
     "730 CONCOURSE VILLAGE WEST, Bronx NY 10451": {
       "distance": 18688,
       "duration": 3442
+    },
+    "750 BAYCHESTER AVE, BRONX NY 10460": {
+      "distance": 29564,
+      "duration": 4435
+    },
+    "7540 PARSONS BLVD, FLUSHING NY 11231": {
+      "distance": 29519,
+      "duration": 4103
     },
     "755 East 100th Street, Brooklyn, NY 11236": {
       "distance": 14298,
       "duration": 3090
     },
+    "77 CHICAGO AVE, STATEN ISLAND NY 10039": {
+      "distance": 15351,
+      "duration": 3352
+    },
+    "778 FOREST AVENUE, BRONX NY 10456": {
+      "distance": 21788,
+      "duration": 3100
+    },
     "797 Bushwick Ave, Brooklyn NY 11221": {
       "distance": 5960,
       "duration": 1657
+    },
+    "8 21 BAY 25TH ST, FAR ROCKAWAY NY 11691": {
+      "distance": 28763,
+      "duration": 3195
     },
     "8-21 Bay 25th Street, Far Rockaway, NY 11691": {
       "distance": 28763,
       "duration": 3555
     },
+    "800 EAST GUN HILL RD, BRONX NY 10467": {
+      "distance": 30574,
+      "duration": 4364
+    },
+    "800 EAST GUN HILL RD, BRONX NY 11203": {
+      "distance": 30574,
+      "duration": 4364
+    },
+    "800 EAST GUN HILL RD, BRONX NY 11211": {
+      "distance": 30574,
+      "duration": 4364
+    },
+    "800 EAST GUN HILL RD, BRONX NY 11233": {
+      "distance": 30574,
+      "duration": 4364
+    },
     "800 EAST GUN HILL ROAD, Bronx NY 10467": {
       "distance": 30574,
       "duration": 4724
+    },
+    "800 HOME ST, BRONX NY 10457": {
+      "distance": 23489,
+      "duration": 3700
     },
     "800 HOME STREET, Bronx NY 10456": {
       "distance": 23489,
@@ -872,6 +1448,18 @@
       "distance": 23778,
       "duration": 3972
     },
+    "8310 21st Avenue, Brooklyn NY 11214": {
+      "distance": 12166,
+      "duration": 2470
+    },
+    "832 MARCY AVE, BROOKLYN NY 11212": {
+      "distance": 4361,
+      "duration": 1473
+    },
+    "832 MARCY AVE, BROOKLYN NY 11233": {
+      "distance": 4361,
+      "duration": 1473
+    },
     "832 Marcy Avenue, Brooklyn 11216, BROOKLYN NY 11212": {
       "distance": 4301,
       "duration": 1304
@@ -888,9 +1476,21 @@
       "distance": 21492,
       "duration": 3394
     },
+    "850 10TH AVE, NEW YORK NY 11214": {
+      "distance": 5231,
+      "duration": 991
+    },
     "850 Grand Street, Brooklyn, NY 11211": {
       "distance": 12344,
       "duration": 2166
+    },
+    "883 CLASSON AVE, BROOKLYN NY 10463": {
+      "distance": 3661,
+      "duration": 1055
+    },
+    "883 CLASSON AVE, BROOKLYN NY 11212": {
+      "distance": 3661,
+      "duration": 1055
     },
     "883 Classon Ave, Brooklyn NY 11225": {
       "distance": 3661,
@@ -908,6 +1508,10 @@
       "distance": 3683,
       "duration": 775
     },
+    "900 TINTON AVE, BRONX NY 11236": {
+      "distance": 22463,
+      "duration": 3214
+    },
     "900 TINTON AVENUE, Bronx NY 10456": {
       "distance": 22463,
       "duration": 3634
@@ -915,6 +1519,14 @@
     "901 Classon Avenue, Brooklyn, NY 11225": {
       "distance": 3674,
       "duration": 1108
+    },
+    "911 FLATBUSH AVE, BROOKLYN NY 10467": {
+      "distance": 5946,
+      "duration": 1740
+    },
+    "911 FLATBUSH AVE, BROOKLYN NY 11213": {
+      "distance": 5946,
+      "duration": 1740
     },
     "911 FLATBUSH AVENUE, Brooklyn NY 11226": {
       "distance": 5979,
@@ -924,9 +1536,17 @@
       "distance": 5979,
       "duration": 1471
     },
+    "921 EAST 228TH ST, BRONX NY 10024": {
+      "distance": 32148,
+      "duration": 4799
+    },
     "921 East 228th Street, Bronx, NY 10466": {
       "distance": 32148,
       "duration": 5189
+    },
+    "925 ASTOR AVE, BRONX NY 10455": {
+      "distance": 28578,
+      "duration": 4331
     },
     "925 Astor Ave, Bronx NY 10469": {
       "distance": 28578,
@@ -940,9 +1560,21 @@
       "distance": 28578,
       "duration": 4721
     },
+    "928 SIMPSON ST, BRONX NY 11208": {
+      "distance": 23113,
+      "duration": 3393
+    },
     "94-06 104TH STREET, Queens NY 11416": {
       "distance": 14016,
       "duration": 3040
+    },
+    "9517 KINGS HGWY, BROOKLYN NY 11221": {
+      "distance": 7685,
+      "duration": 1786
+    },
+    "965 LONGWOOD AVE, BRONX NY 10473": {
+      "distance": 22430,
+      "duration": 3176
     },
     "965 Longwood, Bronx NY": {
       "distance": 22430,
@@ -956,11 +1588,19 @@
       "distance": 24608,
       "duration": 3426
     },
+    "99 TERRACE VIEW AVESTE 138, BRONX NY 10004": {
+      "distance": 24577,
+      "duration": 4056
+    },
     "99 Terrace View Ave": {
       "distance": 326034,
       "duration": 20054
     },
     "99 Terrace View Ave, BRONX NY 10463": {
+      "distance": 24577,
+      "duration": 4056
+    },
+    "99 Terrace View Ave, Bronx NY 10463": {
       "distance": 24577,
       "duration": 4056
     },
@@ -972,6 +1612,14 @@
       "distance": 24608,
       "duration": 3426
     },
+    "999 JAMAICA AVE, BROOKLYN NY 10009": {
+      "distance": 12258,
+      "duration": 1974
+    },
+    "999 JAMAICA AVE, BROOKLYN NY 10451": {
+      "distance": 12258,
+      "duration": 1974
+    },
     "999 Jamaica Avenue, Brooklyn, NY 11208": {
       "distance": 12258,
       "duration": 2334
@@ -982,6 +1630,10 @@
     }
   },
   "200 Broadway, New York NY, 10038": {
+    "1 Monroe St, Manhattan NY 10002": {
+      "distance": 1596,
+      "duration": 750
+    },
     "1 Teleport Drive, Staten Island, NY 10311": {
       "distance": 33005,
       "duration": 4789
@@ -989,6 +1641,10 @@
     "1 Wells St, Brooklyn NY, 11208": {
       "distance": 14473,
       "duration": 2227
+    },
+    "100 HESTER ST, NEW YORK NY 11412": {
+      "distance": 2415,
+      "duration": 1106
     },
     "100 HESTER STREET, Manhattan NY 10002": {
       "distance": 1927,
@@ -1001,6 +1657,18 @@
     "100 WEST MOSHOLU PARKWAY SOUTH, BRONX NY": {
       "distance": 22286,
       "duration": 3307
+    },
+    "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 10457": {
+      "distance": 28533,
+      "duration": 3279
+    },
+    "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 10468": {
+      "distance": 28533,
+      "duration": 3279
+    },
+    "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 11208": {
+      "distance": 28533,
+      "duration": 3279
     },
     "1001 INTERVALE AVE": {
       "distance": 17028,
@@ -1018,7 +1686,15 @@
       "distance": 17036,
       "duration": 2648
     },
+    "1010 LAFAYETTE AVE, BROOKLYN NY 10473": {
+      "distance": 8623,
+      "duration": 1631
+    },
     "1010 REV JAMES POLITE AVE": {
+      "distance": 17319,
+      "duration": 2392
+    },
+    "1010 REV JAMES POLITE AVE, BRONX NY 10454": {
       "distance": 17319,
       "duration": 2392
     },
@@ -1034,6 +1710,10 @@
       "distance": 19059,
       "duration": 3367
     },
+    "105 EAST 106TH ST, NEW YORK NY 11206": {
+      "distance": 14863,
+      "duration": 2794
+    },
     "105 Johnson Street, Brooklyn, NY 11201": {
       "distance": 3529,
       "duration": 707
@@ -1045,6 +1725,30 @@
     "105-25 HORACE HARDING EXPY N, Queens NY 11368": {
       "distance": 22729,
       "duration": 3948
+    },
+    "1053 41ST ST, BROOKLYN NY 11207": {
+      "distance": 11294,
+      "duration": 1922
+    },
+    "1065 ELTON ST, BROOKLYN NY 10029": {
+      "distance": 16685,
+      "duration": 3196
+    },
+    "1075 OCEANVIEW AVE, BROOKLYN NY 11694": {
+      "distance": 17971,
+      "duration": 3030
+    },
+    "10835 167TH ST, JAMAICA NY 10029": {
+      "distance": 27143,
+      "duration": 4193
+    },
+    "10989 204TH ST, SAINT ALBANS NY 10469": {
+      "distance": 28615,
+      "duration": 4180
+    },
+    "1100 BOSTON RD, BRONX NY 10006": {
+      "distance": 16388,
+      "duration": 3039
     },
     "1100 Boston Road, Bronx, NY 10456": {
       "distance": 16473,
@@ -1066,17 +1770,45 @@
       "distance": 10835,
       "duration": 1743
     },
+    "112 SCHERMERHORN ST, BROOKLYN NY 11221": {
+      "distance": 3502,
+      "duration": 704
+    },
     "1122 EAST 180 STREET, Bronx NY 10460": {
       "distance": 22056,
       "duration": 3358
+    },
+    "1137 HERKIMER ST, BROOKLYN NY 11355": {
+      "distance": 10463,
+      "duration": 1587
+    },
+    "1150 EAST NEW YORK AVE, BROOKLYN NY 11203": {
+      "distance": 10910,
+      "duration": 1626
     },
     "1155 DEKALB AVENUE, Brooklyn NY 11221": {
       "distance": 8405,
       "duration": 1762
     },
+    "11625 GUY R BREWER BLVD, JAMAICA NY 10011": {
+      "distance": 26724,
+      "duration": 3673
+    },
     "1180 Rev James A Polite Avenue, Bronx, NY 10459": {
       "distance": 20222,
       "duration": 3397
+    },
+    "1186 Carroll St, Brooklyn NY 11225": {
+      "distance": 8172,
+      "duration": 1038
+    },
+    "120 WEST 231ST ST, BRONX NY 11217": {
+      "distance": 21505,
+      "duration": 3132
+    },
+    "120 WEST 30TH ST, NEW YORK NY 10455": {
+      "distance": 6159,
+      "duration": 1971
     },
     "120 WEST 46 STREET, Manhattan NY 10026": {
       "distance": 6303,
@@ -1086,6 +1818,14 @@
       "distance": 2444,
       "duration": 613
     },
+    "122 AMSTERDAM AVE, NEW YORK NY 10455": {
+      "distance": 8698,
+      "duration": 1383
+    },
+    "122 AMSTERDAM AVE, NEW YORK NY 10468": {
+      "distance": 8698,
+      "duration": 1383
+    },
     "122 AMSTERDAM AVENUE, Manhattan NY 10023": {
       "distance": 8698,
       "duration": 1393
@@ -1094,6 +1834,10 @@
       "distance": 8779,
       "duration": 1866
     },
+    "123 WEST 43RD ST, NEW YORK NY 11215": {
+      "distance": 10492,
+      "duration": 2162
+    },
     "1231 Lafayette Avenue, Bronx 10474, Manhattan NY 10474": {
       "distance": 17552,
       "duration": 3270
@@ -1101,6 +1845,14 @@
     "125 Stuyvesant Avenue, Brooklyn, NY 11221": {
       "distance": 8817,
       "duration": 2075
+    },
+    "1300 BOYNTON AVE, BRONX NY 11101": {
+      "distance": 19730,
+      "duration": 3011
+    },
+    "1300 BOYTON AVE, BRONX NY 10002": {
+      "distance": 19730,
+      "duration": 3011
     },
     "1300 Boynton Avenue, Bronx, NY 10472": {
       "distance": 19696,
@@ -1118,6 +1870,18 @@
       "distance": 17528,
       "duration": 4363
     },
+    "13811 35TH AVE, FLUSHING NY 10455": {
+      "distance": 20427,
+      "duration": 3260
+    },
+    "13830 LAFAYETTE ST, OZONE PARK NY 10463": {
+      "distance": 17625,
+      "duration": 3022
+    },
+    "1396 BROADWAY, BROOKLYN NY 10469": {
+      "distance": 9147,
+      "duration": 1600
+    },
     "1396 BROADWAY, Brooklyn NY 11221": {
       "distance": 9147,
       "duration": 1600
@@ -1130,6 +1894,14 @@
       "distance": 12009,
       "duration": 2343
     },
+    "143 10 SPRINGFIELD BLVD, SPRINGFIELD GARDENS NY 10463": {
+      "distance": 26854,
+      "duration": 3347
+    },
+    "143 10 SPRINGFIELD BLVD, SPRINGFIELD GARDENS NY 11432": {
+      "distance": 26854,
+      "duration": 3347
+    },
     "143-10 Sprinfield Blvd, Queens NY 11413": {
       "distance": 30733,
       "duration": 3935
@@ -1138,9 +1910,17 @@
       "distance": 20757,
       "duration": 4369
     },
+    "1440 STORY AVE, BRONX NY 10457": {
+      "distance": 19082,
+      "duration": 3128
+    },
     "1440 Story Avenue, Bronx, NY 10473": {
       "distance": 18887,
       "duration": 3743
+    },
+    "144176 EAST 128TH ST, NEW YORK NY 10029": {
+      "distance": 12765,
+      "duration": 1545
     },
     "145 Pennsylvania Avenue, Brooklyn,  New York 11207  ": {
       "distance": 11689,
@@ -1149,6 +1929,14 @@
     "145 STANTON STREET, Manhattan NY 10002": {
       "distance": 2784,
       "duration": 986
+    },
+    "145 WEST 84TH ST, NEW YORK NY 10023": {
+      "distance": 10318,
+      "duration": 1949
+    },
+    "145 West 84 Street, Manhattan NY 10024": {
+      "distance": 10318,
+      "duration": 1949
     },
     "145 West 84th Street, New York, NY 10024": {
       "distance": 10318,
@@ -1163,6 +1951,10 @@
       "duration": 1337
     },
     "1495 HERKIMER ST": {
+      "distance": 10924,
+      "duration": 1605
+    },
+    "1495 HERKIMER ST, BROOKLYN NY 11215": {
       "distance": 10924,
       "duration": 1605
     },
@@ -1182,6 +1974,30 @@
       "distance": 9518,
       "duration": 1896
     },
+    "150-91 87 Road, Queens NY 11432": {
+      "distance": 23723,
+      "duration": 2687
+    },
+    "153 35TH ST, BROOKLYN NY 10451": {
+      "distance": 8951,
+      "duration": 1589
+    },
+    "1551 EAST 172ND ST, BRONX NY 10026": {
+      "distance": 19784,
+      "duration": 3050
+    },
+    "1551 EAST 172ND ST, BRONX NY 11201": {
+      "distance": 19784,
+      "duration": 3050
+    },
+    "156-10 Baisley Boulevard, Queens NY 11434": {
+      "distance": 28151,
+      "duration": 4194
+    },
+    "157 WILson Street, Brooklyn NY 11211": {
+      "distance": 5812,
+      "duration": 1376
+    },
     "1573 MADISON AVENUE, Manhattan NY 10029": {
       "distance": 11036,
       "duration": 2318
@@ -1190,9 +2006,17 @@
       "distance": 18478,
       "duration": 2767
     },
+    "16-66 Hancock St, Ridgewood NY 11385": {
+      "distance": 13193,
+      "duration": 2084
+    },
     "160-05 HIGHLAND AVENUE, Queens NY 11432": {
       "distance": 26105,
       "duration": 3684
+    },
+    "1600 ROCKAWAY PARKWAY, BROOKLYN NY 10023": {
+      "distance": 15359,
+      "duration": 2893
     },
     "1600 Rockaway Parkway, Brooklyn NY 11236": {
       "distance": 18326,
@@ -1201,6 +2025,18 @@
     "1600 Rockaway Parkway, Brooklyn, NY 11236": {
       "distance": 18326,
       "duration": 3796
+    },
+    "1601 80 STREET, Brooklyn NY 11214": {
+      "distance": 14454,
+      "duration": 2473
+    },
+    "16020 GOETHALS AVE, JAMAICA NY 10456": {
+      "distance": 25274,
+      "duration": 3607
+    },
+    "1619 BOSTON RD, BRONX NY 11236": {
+      "distance": 19214,
+      "duration": 2576
     },
     "1619 Boston Road, Bronx, NY 10460": {
       "distance": 20853,
@@ -1214,9 +2050,25 @@
       "distance": 26698,
       "duration": 4129
     },
+    "167 01 GOTHIC DR, JAMAICA NY 11207": {
+      "distance": 24846,
+      "duration": 2995
+    },
+    "167 01 GOTHIC DR, JAMAICA NY 11220": {
+      "distance": 24846,
+      "duration": 2995
+    },
     "167-01 GOTHIC DRIVE; Jamaica, NY 11432": {
       "distance": 26395,
       "duration": 3900
+    },
+    "16701 GOTHIC DR, JAMAICA NY 10463": {
+      "distance": 24975,
+      "duration": 3079
+    },
+    "1680 LEXINGTON AVE, NEW YORK NY 10002": {
+      "distance": 10687,
+      "duration": 1631
     },
     "1700 Fulton Street, Brooklyn, NY 11213": {
       "distance": 8540,
@@ -1250,6 +2102,14 @@
       "distance": 23886,
       "duration": 4068
     },
+    "198 FORSYTH ST, NEW YORK NY 10460": {
+      "distance": 2450,
+      "duration": 806
+    },
+    "198 FORSYTH ST3RD FL, NEW YORK NY 10030": {
+      "distance": 14182,
+      "duration": 2374
+    },
     "198 VARET ST": {
       "distance": 10246,
       "duration": 1663
@@ -1257,6 +2117,18 @@
     "198 VARET ST, BROOKLYN NY 11206": {
       "distance": 10246,
       "duration": 1663
+    },
+    "1980 LAFAYETTE AVE, BRONX NY 10456": {
+      "distance": 21378,
+      "duration": 3758
+    },
+    "1980 LAFAYETTE AVE, BRONX NY 10459": {
+      "distance": 21378,
+      "duration": 3758
+    },
+    "1980 LAFAYETTE AVE, BRONX NY 11237": {
+      "distance": 21378,
+      "duration": 3758
     },
     "1980 Lafayette Avenue, Bronx, NY 10473": {
       "distance": 22528,
@@ -1286,9 +2158,17 @@
       "distance": 14451,
       "duration": 2326
     },
+    "201 East 144th Street, Bronx, NY 10451": {
+      "distance": 14451,
+      "duration": 1696
+    },
     "2021 Bergen Street, Brooklyn, NY 11233": {
       "distance": 10714,
       "duration": 1819
+    },
+    "2024 MOHEGAN AVE, BRONX NY 11211": {
+      "distance": 20317,
+      "duration": 2987
     },
     "2057 LINDEN BOULEVARD; Brooklyn NY 11207": {
       "distance": 14162,
@@ -1298,9 +2178,17 @@
       "distance": 26765,
       "duration": 5092
     },
+    "207-01 116th St, Queens NY 11411": {
+      "distance": 30999,
+      "duration": 4973
+    },
     "21-16 44th Road, Long Island City, NY 11101": {
       "distance": 10608,
       "duration": 1615
+    },
+    "21-27 HIMROD STREET, Queens NY 11385": {
+      "distance": 12483,
+      "duration": 2543
     },
     "212 West 120 Street, Manhattan 10027, Manhattan NY 10027": {
       "distance": 12529,
@@ -1310,13 +2198,33 @@
       "distance": 6149,
       "duration": 1649
     },
+    "215 WEST 114TH ST, NEW YORK NY 11207": {
+      "distance": 12031,
+      "duration": 2061
+    },
     "215 West 114 St, Manhattan NY 10026": {
       "distance": 12031,
       "duration": 2001
     },
+    "22 EAST 128TH ST, NEW YORK NY 11206": {
+      "distance": 12888,
+      "duration": 1645
+    },
+    "220 HENRY ST, NEW YORK NY 10003": {
+      "distance": 2523,
+      "duration": 1216
+    },
     "222 West 134 Street, Manhattan 10030, Manhattan NY 10030": {
       "distance": 14211,
       "duration": 2314
+    },
+    "2225 WEBSTER AVE, BRONX NY 11216": {
+      "distance": 20296,
+      "duration": 2968
+    },
+    "223 GRAHAM AVE, BROOKLYN NY 10455": {
+      "distance": 8934,
+      "duration": 1456
     },
     "223 Graham Avenue, Brooklyn, NY 11206": {
       "distance": 8899,
@@ -1338,9 +2246,21 @@
       "distance": 14187,
       "duration": 2846
     },
+    "23034 EAST 105TH ST, NEW YORK NY 10459": {
+      "distance": 10807,
+      "duration": 1725
+    },
+    "231 PALMETTO ST, BROOKLYN NY 11208": {
+      "distance": 12552,
+      "duration": 2071
+    },
     "231 Palmetto Street, Brooklyn 11221, BROOKLYN NY 11221": {
       "distance": 10635,
       "duration": 2628
+    },
+    "2351 1ST AVE4TH FL, NEW YORK NY 10035": {
+      "distance": 15758,
+      "duration": 2816
     },
     "2351 1st Avenue, New York, NY 10035": {
       "distance": 12490,
@@ -1358,9 +2278,21 @@
       "distance": 7165,
       "duration": 1722
     },
+    "240 2ND AVE, NEW YORK NY 10472": {
+      "distance": 28962,
+      "duration": 4699
+    },
+    "240 EAST 109TH ST, MANHATTAN NY 10002": {
+      "distance": 11500,
+      "duration": 1880
+    },
     "240 EAST 172 STREET, Bronx NY 10457": {
       "distance": 19188,
       "duration": 3087
+    },
+    "240 EAST 172ND ST, BRONX NY 11225": {
+      "distance": 17334,
+      "duration": 2316
     },
     "240 East 172nd Street, Bronx, NY 10457": {
       "distance": 19188,
@@ -1382,6 +2314,10 @@
       "distance": 15925,
       "duration": 2811
     },
+    "244 WEST 144 ST4TH FL, NEW YORK NY 10032": {
+      "distance": 16961,
+      "duration": 2789
+    },
     "245 West 129th Street, Manhattan 10027, Manhattan NY 10027": {
       "distance": 13501,
       "duration": 2355
@@ -1398,9 +2334,21 @@
       "distance": 17828,
       "duration": 3206
     },
+    "250 EAST 164TH ST, BRONX NY 10459": {
+      "distance": 16123,
+      "duration": 2324
+    },
     "250 East 156th Street, Bronx, NY 10451": {
       "distance": 14872,
       "duration": 2022
+    },
+    "250 HOOPER ST, BROOKLYN NY 10025": {
+      "distance": 5948,
+      "duration": 1244
+    },
+    "250 WEST 18TH ST, NEW YORK NY 11101": {
+      "distance": 13811,
+      "duration": 2527
     },
     "257 North 6th Street, Brooklyn, NY 11211": {
       "distance": 7155,
@@ -1418,17 +2366,37 @@
       "distance": 12390,
       "duration": 2704
     },
+    "2630 BENSON AVE, BROOKLYN NY 10006": {
+      "distance": 18571,
+      "duration": 3223
+    },
+    "2630 BENSON AVE, BROOKLYN NY 11101": {
+      "distance": 18571,
+      "duration": 3223
+    },
     "2630 Benson Avenue, Brooklyn, NY 11214": {
       "distance": 16933,
       "duration": 3045
+    },
+    "265 RALPH AVE, BROOKLYN NY 10473": {
+      "distance": 9532,
+      "duration": 1374
     },
     "2780 Reservoir Avenue, Bronx, NY 10468": {
       "distance": 20734,
       "duration": 3241
     },
+    "28-04 41 Avenue, Queens NY 11101": {
+      "distance": 9974,
+      "duration": 1572
+    },
     "2801 41st Avenue, Long Island City, NY 11101": {
       "distance": 11434,
       "duration": 1983
+    },
+    "283 ADAMS ST, BROOKLYN NY 11206": {
+      "distance": 3508,
+      "duration": 710
     },
     "283 Adams Street, Brooklyn, NY 11201": {
       "distance": 3794,
@@ -1437,6 +2405,10 @@
     "284 Baltic Street, Brooklyn, NY 11201": {
       "distance": 4332,
       "duration": 1111
+    },
+    "2865 WEST 19TH ST, BROOKLYN NY 10023": {
+      "distance": 18737,
+      "duration": 3289
     },
     "2900 EXTERIOR STSTE 1R": {
       "distance": 21719,
@@ -1454,6 +2426,10 @@
       "distance": 11817,
       "duration": 2243
     },
+    "300 WILLOUGHBY AVE, BROOKLYN NY 11694": {
+      "distance": 6441,
+      "duration": 1400
+    },
     "300 Willoughby Avenue, Brooklyn, NY 11205": {
       "distance": 7922,
       "duration": 1827
@@ -1462,6 +2438,18 @@
       "distance": 16773,
       "duration": 3717
     },
+    "3000 EAST TREMONT AVE, BRONX NY 10456": {
+      "distance": 23910,
+      "duration": 3552
+    },
+    "3000 EAST TREMONT AVE, BRONX NY 11433": {
+      "distance": 23910,
+      "duration": 3552
+    },
+    "3000 East Tremont Avenue, Bronx NY 10461": {
+      "distance": 23910,
+      "duration": 3552
+    },
     "317 East 67th Street, New York, NY 10065": {
       "distance": 8212,
       "duration": 1924
@@ -1469,6 +2457,10 @@
     "317,E 67th St,New York,NY,10065-6051": {
       "distance": 8019,
       "duration": 1505
+    },
+    "32-24 CORPORAL KENNEDY ST, QUEENS NY 11361": {
+      "distance": 25532,
+      "duration": 4699
     },
     "320 E 96th St, New York, NY 10128": {
       "distance": 10358,
@@ -1482,13 +2474,29 @@
       "distance": 9281,
       "duration": 1967
     },
+    "326 SCHERMERHORN ST, BROOKLYN NY 11214": {
+      "distance": 4040,
+      "duration": 764
+    },
+    "333 EAST 151ST ST, BRONX NY 10451": {
+      "distance": 14774,
+      "duration": 1970
+    },
     "333 East 151st Street, Bronx, NY 10451": {
       "distance": 14774,
       "duration": 2600
     },
+    "333 WEST 17 STREET, MANHATTAN NY 10011": {
+      "distance": 4192,
+      "duration": 868
+    },
     "339 Morris Avenue, Bronx, NY 10451": {
       "distance": 14169,
       "duration": 2624
+    },
+    "34 WEST 14TH ST, NEW YORK NY 10030": {
+      "distance": 3816,
+      "duration": 737
     },
     "345 Brook Avenue, Bronx NY": {
       "distance": 14739,
@@ -1497,6 +2505,10 @@
     "345 Brook Avenue, Bronx, NY 10454": {
       "distance": 14739,
       "duration": 2635
+    },
+    "345 Dean Street, Brooklyn NY 11217": {
+      "distance": 5176,
+      "duration": 955
     },
     "345 East 15th Sst Manhattan NY 10003": {
       "distance": 4034,
@@ -1530,6 +2542,18 @@
       "distance": 12272,
       "duration": 2177
     },
+    "350 CONEY ISLAND AVE, BROOKLYN NY 11221": {
+      "distance": 9692,
+      "duration": 1977
+    },
+    "350 GRAND ST, NEW YORK NY 10034": {
+      "distance": 2591,
+      "duration": 1089
+    },
+    "350 GRAND ST, NEW YORK NY 10472": {
+      "distance": 2591,
+      "duration": 1089
+    },
     "350 GRAND STREET, Manhattan NY 10002": {
       "distance": 2591,
       "duration": 1015
@@ -1542,9 +2566,25 @@
       "distance": 2591,
       "duration": 1015
     },
+    "351 WEST 18TH ST, NEW YORK NY 10457": {
+      "distance": 4334,
+      "duration": 970
+    },
+    "351 WEST 18TH ST, NEW YORK NY 10463": {
+      "distance": 4334,
+      "duration": 970
+    },
+    "351 WEST 18TH ST, NEW YORK NY 11101": {
+      "distance": 4334,
+      "duration": 970
+    },
     "351 West 18th Street, New York, NY 10011": {
       "distance": 4334,
       "duration": 940
+    },
+    "3540 BIVONA ST, BRONX NY 11417": {
+      "distance": 28037,
+      "duration": 4593
     },
     "36-41 28 St, Queens NY 11106": {
       "distance": 12573,
@@ -1566,6 +2606,10 @@
       "distance": 14716,
       "duration": 2398
     },
+    "383 STATE ST, BROOKLYN NY 11366": {
+      "distance": 3962,
+      "duration": 698
+    },
     "3872 3RD AVE": {
       "distance": 1064119,
       "duration": 56453
@@ -1578,13 +2622,37 @@
       "distance": 3632,
       "duration": 594
     },
+    "40 IRVING PLACE, NEW YORK NY 11432": {
+      "distance": 3632,
+      "duration": 594
+    },
     "40 Irving Place, New York, NY 10003": {
       "distance": 3597,
       "duration": 1093
     },
+    "400 IRVING AVE, BROOKLYN NY 10452": {
+      "distance": 12291,
+      "duration": 1902
+    },
+    "400 IRVING AVE, BROOKLYN NY 10453": {
+      "distance": 12291,
+      "duration": 1902
+    },
+    "400 IRVING AVE, BROOKLYN NY 11237": {
+      "distance": 12291,
+      "duration": 1902
+    },
     "400 IRVING AVENUE, Brooklyn NY 11237": {
       "distance": 11163,
       "duration": 2819
+    },
+    "400 PENNSYLVANIA AVE, BROOKLYN NY 11368": {
+      "distance": 12405,
+      "duration": 2077
+    },
+    "400 PENNSYLVANIA AVE, BROOKLYN NY 11432": {
+      "distance": 12405,
+      "duration": 2077
     },
     "400 PENNSYLVANIA AVENUE, Brooklyn, NY 11207": {
       "distance": 13441,
@@ -1618,9 +2686,21 @@
       "distance": 4116,
       "duration": 1562
     },
+    "4200 16TH AVE, BROOKLYN NY 11211": {
+      "distance": 11354,
+      "duration": 2093
+    },
     "424 Leonard Street, Brooklyn 11222, BROOKLYN NY 11222": {
       "distance": 8316,
       "duration": 2397
+    },
+    "43 WEST 22ND ST, NEW YORK NY 10016": {
+      "distance": 4434,
+      "duration": 1041
+    },
+    "433 W 135th St, New York, NY 10031": {
+      "distance": 14081,
+      "duration": 2396
     },
     "439 WEST 49TH STREET, Manhattan, NY 10019": {
       "distance": 7215,
@@ -1638,6 +2718,10 @@
       "distance": 14044,
       "duration": 2283
     },
+    "444 WEST 56TH ST, NEW YORK NY 10040": {
+      "distance": 8212,
+      "duration": 1778
+    },
     "45-10 94th Street, Elmhurst, NY 11373": {
       "distance": 18757,
       "duration": 3526
@@ -1649,6 +2733,14 @@
     "45-35 Van Dam Street, Long Island City, NY 11101": {
       "distance": 11862,
       "duration": 2280
+    },
+    "4510 94TH ST, ELMHURST NY 10460": {
+      "distance": 16812,
+      "duration": 2749
+    },
+    "4535 VAN DAM ST, LONG ISLAND CITY NY 10451": {
+      "distance": 11084,
+      "duration": 1727
     },
     "455 SOUTHERN BLVD": {
       "distance": 2331460,
@@ -1666,6 +2758,10 @@
       "distance": 15990,
       "duration": 2794
     },
+    "456 WHITE PLAINS RD, BRONX NY 11237": {
+      "distance": 23190,
+      "duration": 4164
+    },
     "456 WHITE PLAINS ROAD, Bronx NY 10473": {
       "distance": 23156,
       "duration": 5053
@@ -1677,6 +2773,18 @@
     "4600 Broadway, New York, NY 10040": {
       "distance": 19029,
       "duration": 2957
+    },
+    "470 JACKSON AVE, BRONX NY 10455": {
+      "distance": 16418,
+      "duration": 2366
+    },
+    "470 JACKSON AVE, BRONX NY 11413": {
+      "distance": 16418,
+      "duration": 2366
+    },
+    "4707 30TH PLACE, LONG ISLAND CITY NY 11212": {
+      "distance": 11428,
+      "duration": 1978
     },
     "48-01 90 St, Queens NY 11373": {
       "distance": 18125,
@@ -1710,6 +2818,14 @@
       "distance": 16133,
       "duration": 2423
     },
+    "504 WEST 158th ST, NEW YORK NY 11207": {
+      "distance": 16199,
+      "duration": 2542
+    },
+    "509 WEST 129TH ST, NEW YORK NY 11208": {
+      "distance": 24134,
+      "duration": 4630
+    },
     "509 West 129th Street, New York, NY 10027": {
       "distance": 13442,
       "duration": 2286
@@ -1717,6 +2833,10 @@
     "511 West 182nd Street, New York, NY 10033": {
       "distance": 18222,
       "duration": 3097
+    },
+    "521 WEST AVE, BROOKLYN NY 11203": {
+      "distance": 17412,
+      "duration": 2981
     },
     "525 WEST 50TH STREET, Manhattan NY 10019": {
       "distance": 7389,
@@ -1726,6 +2846,14 @@
       "distance": 7389,
       "duration": 1525
     },
+    "549 AUDUBON AVE, NEW YORK NY 10469": {
+      "distance": 18224,
+      "duration": 2961
+    },
+    "549 AUDUBON AVE, NEW YORK NY 11226": {
+      "distance": 18224,
+      "duration": 2961
+    },
     "549 AUDUBON AVENUE, Manhattan NY 10040": {
       "distance": 19040,
       "duration": 3271
@@ -1733,6 +2861,10 @@
     "549 Audubon Ave, New York, NY 10040": {
       "distance": 19040,
       "duration": 3271
+    },
+    "560 EAST 179TH ST, BRONX NY 10461": {
+      "distance": 20347,
+      "duration": 3514
     },
     "561 Grand Avenue, Brooklyn, NY 11238": {
       "distance": 7650,
@@ -1750,6 +2882,10 @@
       "distance": 15510,
       "duration": 3018
     },
+    "5800 TILDEN AVE, BROOKLYN NY 10002": {
+      "distance": 12882,
+      "duration": 2702
+    },
     "5800 TILDEN AVENUE, Brooklyn NY 11203": {
       "distance": 13476,
       "duration": 2705
@@ -1761,6 +2897,10 @@
     "6 EDGECOMBE AVENUE, Manhattan NY 10030": {
       "distance": 13710,
       "duration": 1938
+    },
+    "600 KINGSTON AVE, BROOKLYN NY 10033": {
+      "distance": 10192,
+      "duration": 1763
     },
     "600 Kingston Ave, Brooklyn, NY 11203": {
       "distance": 9798,
@@ -1786,9 +2926,37 @@
       "distance": 15418,
       "duration": 2160
     },
+    "600 ST ANN'S AVE, BRONX NY 11203": {
+      "distance": 15540,
+      "duration": 2327
+    },
+    "610 HENRY ST, BROOKLYN NY 10457": {
+      "distance": 5411,
+      "duration": 1585
+    },
+    "6125 MARATHON PKY, LITTLE NECK NY 11694": {
+      "distance": 34424,
+      "duration": 5809
+    },
+    "639 St. Anns Avenue, Bronx NY 10455": {
+      "distance": 16212,
+      "duration": 2201
+    },
+    "650 ACADEMY ST, NEW YORK NY 11236": {
+      "distance": 15477,
+      "duration": 2975
+    },
+    "6565 FLATLANDS AVE, BROOKLYN NY 10002": {
+      "distance": 15333,
+      "duration": 3284
+    },
     "6565 FLATLANDS AVENUE, Brooklyn NY 11236": {
       "distance": 15140,
       "duration": 3210
+    },
+    "6565 Flatlands Avenue Brooklyn NY 11235": {
+      "distance": 15333,
+      "duration": 3284
     },
     "6565 Flatlands Avenue, Brooklyn 11236, BROOKLYN NY 11236": {
       "distance": 15012,
@@ -1802,9 +2970,17 @@
       "distance": 890,
       "duration": 270
     },
+    "70 TOMPKINS AVE, BROOKLYN NY 10459": {
+      "distance": 7544,
+      "duration": 1472
+    },
     "70 TOMPKINS AVENUE, Brooklyn NY 11206": {
       "distance": 7544,
       "duration": 1892
+    },
+    "701 ST ANNS AVE, BRONX NY 11373": {
+      "distance": 16387,
+      "duration": 2328
     },
     "701 Saint Anns Avenue, Bronx, NY 10455": {
       "distance": 18027,
@@ -1814,25 +2990,73 @@
       "distance": 23205,
       "duration": 4513
     },
+    "730 CONCOURSE VILLAGE WEST, BRONX NY 11201": {
+      "distance": 14678,
+      "duration": 1893
+    },
+    "730 CONCOURSE VILLAGE WEST, BRONX NY 11211": {
+      "distance": 14678,
+      "duration": 1893
+    },
     "730 CONCOURSE VILLAGE WEST, Bronx NY 10451": {
       "distance": 14678,
       "duration": 2523
+    },
+    "750 BAYCHESTER AVE, BRONX NY 10460": {
+      "distance": 29789,
+      "duration": 3703
+    },
+    "7540 PARSONS BLVD, FLUSHING NY 11231": {
+      "distance": 25798,
+      "duration": 3647
     },
     "755 East 100th Street, Brooklyn, NY 11236": {
       "distance": 17751,
       "duration": 3486
     },
+    "77 CHICAGO AVE, STATEN ISLAND NY 10039": {
+      "distance": 17508,
+      "duration": 1509
+    },
+    "778 FOREST AVENUE, BRONX NY 10456": {
+      "distance": 16144,
+      "duration": 2176
+    },
     "797 Bushwick Ave, Brooklyn NY 11221": {
       "distance": 8501,
       "duration": 1831
+    },
+    "8 21 BAY 25TH ST, FAR ROCKAWAY NY 11691": {
+      "distance": 31584,
+      "duration": 3387
     },
     "8-21 Bay 25th Street, Far Rockaway, NY 11691": {
       "distance": 31584,
       "duration": 3777
     },
+    "800 EAST GUN HILL RD, BRONX NY 10467": {
+      "distance": 24930,
+      "duration": 3440
+    },
+    "800 EAST GUN HILL RD, BRONX NY 11203": {
+      "distance": 24930,
+      "duration": 3440
+    },
+    "800 EAST GUN HILL RD, BRONX NY 11211": {
+      "distance": 24930,
+      "duration": 3440
+    },
+    "800 EAST GUN HILL RD, BRONX NY 11233": {
+      "distance": 24930,
+      "duration": 3440
+    },
     "800 EAST GUN HILL ROAD, Bronx NY 10467": {
       "distance": 26569,
       "duration": 4138
+    },
+    "800 HOME ST, BRONX NY 10457": {
+      "distance": 17845,
+      "duration": 2776
     },
     "800 HOME STREET, Bronx NY 10456": {
       "distance": 19485,
@@ -1854,6 +3078,18 @@
       "distance": 18274,
       "duration": 2940
     },
+    "8310 21st Avenue, Brooklyn NY 11214": {
+      "distance": 15625,
+      "duration": 2666
+    },
+    "832 MARCY AVE, BROOKLYN NY 11212": {
+      "distance": 7619,
+      "duration": 1478
+    },
+    "832 MARCY AVE, BROOKLYN NY 11233": {
+      "distance": 7619,
+      "duration": 1478
+    },
     "832 Marcy Avenue, Brooklyn 11216, BROOKLYN NY 11212": {
       "distance": 7220,
       "duration": 1508
@@ -1870,9 +3106,21 @@
       "distance": 16863,
       "duration": 2727
     },
+    "850 10TH AVE, NEW YORK NY 11214": {
+      "distance": 8051,
+      "duration": 1513
+    },
     "850 Grand Street, Brooklyn, NY 11211": {
       "distance": 8507,
       "duration": 1699
+    },
+    "883 CLASSON AVE, BROOKLYN NY 10463": {
+      "distance": 7114,
+      "duration": 1301
+    },
+    "883 CLASSON AVE, BROOKLYN NY 11212": {
+      "distance": 7114,
+      "duration": 1301
     },
     "883 Classon Ave, Brooklyn NY 11225": {
       "distance": 7114,
@@ -1890,6 +3138,10 @@
       "distance": 384,
       "duration": 275
     },
+    "900 TINTON AVE, BRONX NY 11236": {
+      "distance": 16820,
+      "duration": 2290
+    },
     "900 TINTON AVENUE, Bronx NY 10456": {
       "distance": 18459,
       "duration": 3048
@@ -1897,6 +3149,14 @@
     "901 Classon Avenue, Brooklyn, NY 11225": {
       "distance": 7127,
       "duration": 1264
+    },
+    "911 FLATBUSH AVE, BROOKLYN NY 10467": {
+      "distance": 9156,
+      "duration": 2160
+    },
+    "911 FLATBUSH AVE, BROOKLYN NY 11213": {
+      "distance": 9156,
+      "duration": 2160
     },
     "911 FLATBUSH AVENUE, Brooklyn NY 11226": {
       "distance": 10655,
@@ -1906,9 +3166,17 @@
       "distance": 10655,
       "duration": 2363
     },
+    "921 EAST 228TH ST, BRONX NY 10024": {
+      "distance": 26504,
+      "duration": 3875
+    },
     "921 East 228th Street, Bronx, NY 10466": {
       "distance": 28143,
       "duration": 4603
+    },
+    "925 ASTOR AVE, BRONX NY 10455": {
+      "distance": 22934,
+      "duration": 3407
     },
     "925 Astor Ave, Bronx NY 10469": {
       "distance": 24573,
@@ -1922,9 +3190,21 @@
       "distance": 24573,
       "duration": 4135
     },
+    "928 SIMPSON ST, BRONX NY 11208": {
+      "distance": 18048,
+      "duration": 2712
+    },
     "94-06 104TH STREET, Queens NY 11416": {
       "distance": 16836,
       "duration": 3262
+    },
+    "9517 KINGS HGWY, BROOKLYN NY 11221": {
+      "distance": 11902,
+      "duration": 2751
+    },
+    "965 LONGWOOD AVE, BRONX NY 10473": {
+      "distance": 16787,
+      "duration": 2252
     },
     "965 Longwood, Bronx NY": {
       "distance": 17261,
@@ -1938,11 +3218,19 @@
       "distance": 21921,
       "duration": 3708
     },
+    "99 TERRACE VIEW AVESTE 138, BRONX NY 10004": {
+      "distance": 21575,
+      "duration": 3066
+    },
     "99 Terrace View Ave": {
       "distance": 322653,
       "duration": 19426
     },
     "99 Terrace View Ave, BRONX NY 10463": {
+      "distance": 21575,
+      "duration": 3066
+    },
+    "99 Terrace View Ave, Bronx NY 10463": {
       "distance": 21575,
       "duration": 3066
     },
@@ -1954,6 +3242,14 @@
       "distance": 21921,
       "duration": 3708
     },
+    "999 JAMAICA AVE, BROOKLYN NY 10009": {
+      "distance": 15151,
+      "duration": 2601
+    },
+    "999 JAMAICA AVE, BROOKLYN NY 10451": {
+      "distance": 15151,
+      "duration": 2601
+    },
     "999 Jamaica Avenue, Brooklyn, NY 11208": {
       "distance": 15088,
       "duration": 2725
@@ -1964,6 +3260,10 @@
     }
   },
   "89 E 42nd Street, New York NY, 10017": {
+    "1 Monroe St, Manhattan NY 10002": {
+      "distance": 5996,
+      "duration": 1230
+    },
     "1 Teleport Drive, Staten Island, NY 10311": {
       "distance": 28192,
       "duration": 6700
@@ -1971,6 +3271,10 @@
     "1 Wells St, Brooklyn NY, 11208": {
       "distance": 19991,
       "duration": 3349
+    },
+    "100 HESTER ST, NEW YORK NY 11412": {
+      "distance": 5090,
+      "duration": 1509
     },
     "100 HESTER STREET, Manhattan NY 10002": {
       "distance": 4630,
@@ -1983,6 +3287,18 @@
     "100 WEST MOSHOLU PARKWAY SOUTH, BRONX NY": {
       "distance": 16741,
       "duration": 2407
+    },
+    "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 10457": {
+      "distance": 34051,
+      "duration": 3921
+    },
+    "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 10468": {
+      "distance": 34051,
+      "duration": 3921
+    },
+    "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 11208": {
+      "distance": 34051,
+      "duration": 3921
     },
     "1001 INTERVALE AVE": {
       "distance": 11483,
@@ -2000,7 +3316,15 @@
       "distance": 22554,
       "duration": 3350
     },
+    "1010 LAFAYETTE AVE, BROOKLYN NY 10473": {
+      "distance": 13012,
+      "duration": 2078
+    },
     "1010 REV JAMES POLITE AVE": {
+      "distance": 11774,
+      "duration": 1792
+    },
+    "1010 REV JAMES POLITE AVE, BRONX NY 10454": {
       "distance": 11774,
       "duration": 1792
     },
@@ -2016,6 +3340,10 @@
       "distance": 13549,
       "duration": 2148
     },
+    "105 EAST 106TH ST, NEW YORK NY 11206": {
+      "distance": 17796,
+      "duration": 2836
+    },
     "105 Johnson Street, Brooklyn, NY 11201": {
       "distance": 9608,
       "duration": 1498
@@ -2027,6 +3355,30 @@
     "105-25 HORACE HARDING EXPY N, Queens NY 11368": {
       "distance": 15753,
       "duration": 3029
+    },
+    "1053 41ST ST, BROOKLYN NY 11207": {
+      "distance": 16839,
+      "duration": 2492
+    },
+    "1065 ELTON ST, BROOKLYN NY 10029": {
+      "distance": 21536,
+      "duration": 3739
+    },
+    "1075 OCEANVIEW AVE, BROOKLYN NY 11694": {
+      "distance": 23516,
+      "duration": 3060
+    },
+    "10835 167TH ST, JAMAICA NY 10029": {
+      "distance": 20502,
+      "duration": 3585
+    },
+    "10989 204TH ST, SAINT ALBANS NY 10469": {
+      "distance": 23069,
+      "duration": 3610
+    },
+    "1100 BOSTON RD, BRONX NY 10006": {
+      "distance": 10963,
+      "duration": 2319
     },
     "1100 Boston Road, Bronx, NY 10456": {
       "distance": 10963,
@@ -2048,17 +3400,45 @@
       "distance": 5290,
       "duration": 903
     },
+    "112 SCHERMERHORN ST, BROOKLYN NY 11221": {
+      "distance": 9303,
+      "duration": 1285
+    },
     "1122 EAST 180 STREET, Bronx NY 10460": {
       "distance": 14872,
       "duration": 2270
+    },
+    "1137 HERKIMER ST, BROOKLYN NY 11355": {
+      "distance": 15981,
+      "duration": 2439
+    },
+    "1150 EAST NEW YORK AVE, BROOKLYN NY 11203": {
+      "distance": 16455,
+      "duration": 2226
     },
     "1155 DEKALB AVENUE, Brooklyn NY 11221": {
       "distance": 12857,
       "duration": 2025
     },
+    "11625 GUY R BREWER BLVD, JAMAICA NY 10011": {
+      "distance": 21178,
+      "duration": 3103
+    },
     "1180 Rev James A Polite Avenue, Bronx, NY 10459": {
       "distance": 14148,
       "duration": 2614
+    },
+    "1186 Carroll St, Brooklyn NY 11225": {
+      "distance": 13718,
+      "duration": 1668
+    },
+    "120 WEST 231ST ST, BRONX NY 11217": {
+      "distance": 15960,
+      "duration": 2562
+    },
+    "120 WEST 30TH ST, NEW YORK NY 10455": {
+      "distance": 4350,
+      "duration": 1862
     },
     "120 WEST 46 STREET, Manhattan NY 10026": {
       "distance": 1120,
@@ -2068,6 +3448,14 @@
       "distance": 4578,
       "duration": 1143
     },
+    "122 AMSTERDAM AVE, NEW YORK NY 10455": {
+      "distance": 4100,
+      "duration": 1127
+    },
+    "122 AMSTERDAM AVE, NEW YORK NY 10468": {
+      "distance": 4100,
+      "duration": 1127
+    },
     "122 AMSTERDAM AVENUE, Manhattan NY 10023": {
       "distance": 3558,
       "duration": 1522
@@ -2076,6 +3464,10 @@
       "distance": 4312,
       "duration": 1632
     },
+    "123 WEST 43RD ST, NEW YORK NY 11215": {
+      "distance": 16037,
+      "duration": 2702
+    },
     "1231 Lafayette Avenue, Bronx 10474, Manhattan NY 10474": {
       "distance": 12042,
       "duration": 2051
@@ -2083,6 +3475,14 @@
     "125 Stuyvesant Avenue, Brooklyn, NY 11221": {
       "distance": 13269,
       "duration": 2338
+    },
+    "1300 BOYNTON AVE, BRONX NY 11101": {
+      "distance": 14185,
+      "duration": 2171
+    },
+    "1300 BOYTON AVE, BRONX NY 10002": {
+      "distance": 14185,
+      "duration": 2171
     },
     "1300 Boynton Avenue, Bronx, NY 10472": {
       "distance": 14185,
@@ -2100,6 +3500,18 @@
       "distance": 12018,
       "duration": 3324
     },
+    "13811 35TH AVE, FLUSHING NY 10455": {
+      "distance": 14927,
+      "duration": 2562
+    },
+    "13830 LAFAYETTE ST, OZONE PARK NY 10463": {
+      "distance": 23322,
+      "duration": 3302
+    },
+    "1396 BROADWAY, BROOKLYN NY 10469": {
+      "distance": 13536,
+      "duration": 2047
+    },
     "1396 BROADWAY, Brooklyn NY 11221": {
       "distance": 13536,
       "duration": 2047
@@ -2112,6 +3524,14 @@
       "distance": 6834,
       "duration": 2430
     },
+    "143 10 SPRINGFIELD BLVD, SPRINGFIELD GARDENS NY 10463": {
+      "distance": 32399,
+      "duration": 3917
+    },
+    "143 10 SPRINGFIELD BLVD, SPRINGFIELD GARDENS NY 11432": {
+      "distance": 32399,
+      "duration": 3917
+    },
     "143-10 Sprinfield Blvd, Queens NY 11413": {
       "distance": 25932,
       "duration": 4687
@@ -2120,9 +3540,17 @@
       "distance": 15397,
       "duration": 2789
     },
+    "1440 STORY AVE, BRONX NY 10457": {
+      "distance": 13376,
+      "duration": 2524
+    },
     "1440 Story Avenue, Bronx, NY 10473": {
       "distance": 13376,
       "duration": 2524
+    },
+    "144176 EAST 128TH ST, NEW YORK NY 10029": {
+      "distance": 7220,
+      "duration": 975
     },
     "145 Pennsylvania Avenue, Brooklyn,  New York 11207  ": {
       "distance": 17207,
@@ -2131,6 +3559,14 @@
     "145 STANTON STREET, Manhattan NY 10002": {
       "distance": 4389,
       "duration": 1322
+    },
+    "145 WEST 84TH ST, NEW YORK NY 10023": {
+      "distance": 5697,
+      "duration": 1662
+    },
+    "145 West 84 Street, Manhattan NY 10024": {
+      "distance": 5697,
+      "duration": 1662
     },
     "145 West 84th Street, New York, NY 10024": {
       "distance": 5373,
@@ -2145,6 +3581,10 @@
       "duration": 2758
     },
     "1495 HERKIMER ST": {
+      "distance": 14039,
+      "duration": 2010
+    },
+    "1495 HERKIMER ST, BROOKLYN NY 11215": {
       "distance": 14039,
       "duration": 2010
     },
@@ -2164,6 +3604,30 @@
       "distance": 16160,
       "duration": 2799
     },
+    "150-91 87 Road, Queens NY 11432": {
+      "distance": 18177,
+      "duration": 2117
+    },
+    "153 35TH ST, BROOKLYN NY 10451": {
+      "distance": 14496,
+      "duration": 2129
+    },
+    "1551 EAST 172ND ST, BRONX NY 10026": {
+      "distance": 14239,
+      "duration": 2210
+    },
+    "1551 EAST 172ND ST, BRONX NY 11201": {
+      "distance": 14239,
+      "duration": 2210
+    },
+    "156-10 Baisley Boulevard, Queens NY 11434": {
+      "distance": 22605,
+      "duration": 3624
+    },
+    "157 WILson Street, Brooklyn NY 11211": {
+      "distance": 9072,
+      "duration": 2053
+    },
     "1573 MADISON AVENUE, Manhattan NY 10029": {
       "distance": 5526,
       "duration": 1099
@@ -2172,9 +3636,17 @@
       "distance": 12427,
       "duration": 3299
     },
+    "16-66 Hancock St, Ridgewood NY 11385": {
+      "distance": 12117,
+      "duration": 1874
+    },
     "160-05 HIGHLAND AVENUE, Queens NY 11432": {
       "distance": 19129,
       "duration": 2465
+    },
+    "1600 ROCKAWAY PARKWAY, BROOKLYN NY 10023": {
+      "distance": 18293,
+      "duration": 2935
     },
     "1600 Rockaway Parkway, Brooklyn NY 11236": {
       "distance": 18293,
@@ -2183,6 +3655,18 @@
     "1600 Rockaway Parkway, Brooklyn, NY 11236": {
       "distance": 18293,
       "duration": 3265
+    },
+    "1601 80 STREET, Brooklyn NY 11214": {
+      "distance": 19999,
+      "duration": 3043
+    },
+    "16020 GOETHALS AVE, JAMAICA NY 10456": {
+      "distance": 19728,
+      "duration": 3037
+    },
+    "1619 BOSTON RD, BRONX NY 11236": {
+      "distance": 13669,
+      "duration": 1976
     },
     "1619 Boston Road, Bronx, NY 10460": {
       "distance": 14143,
@@ -2196,9 +3680,25 @@
       "distance": 19722,
       "duration": 2910
     },
+    "167 01 GOTHIC DR, JAMAICA NY 11207": {
+      "distance": 19300,
+      "duration": 2425
+    },
+    "167 01 GOTHIC DR, JAMAICA NY 11220": {
+      "distance": 19300,
+      "duration": 2425
+    },
     "167-01 GOTHIC DRIVE; Jamaica, NY 11432": {
       "distance": 19419,
       "duration": 2681
+    },
+    "16701 GOTHIC DR, JAMAICA NY 10463": {
+      "distance": 19429,
+      "duration": 2509
+    },
+    "1680 LEXINGTON AVE, NEW YORK NY 10002": {
+      "distance": 5142,
+      "duration": 791
     },
     "1700 Fulton Street, Brooklyn, NY 11213": {
       "distance": 14058,
@@ -2232,6 +3732,14 @@
       "distance": 21156,
       "duration": 3073
     },
+    "198 FORSYTH ST, NEW YORK NY 10460": {
+      "distance": 3943,
+      "duration": 1003
+    },
+    "198 FORSYTH ST3RD FL, NEW YORK NY 10030": {
+      "distance": 10655,
+      "duration": 1759
+    },
     "198 VARET ST": {
       "distance": 9170,
       "duration": 1453
@@ -2239,6 +3747,18 @@
     "198 VARET ST, BROOKLYN NY 11206": {
       "distance": 9170,
       "duration": 1453
+    },
+    "1980 LAFAYETTE AVE, BRONX NY 10456": {
+      "distance": 17172,
+      "duration": 3359
+    },
+    "1980 LAFAYETTE AVE, BRONX NY 10459": {
+      "distance": 17172,
+      "duration": 3359
+    },
+    "1980 LAFAYETTE AVE, BRONX NY 11237": {
+      "distance": 17172,
+      "duration": 3359
     },
     "1980 Lafayette Avenue, Bronx, NY 10473": {
       "distance": 16023,
@@ -2268,9 +3788,17 @@
       "distance": 9057,
       "duration": 1695
     },
+    "201 East 144th Street, Bronx, NY 10451": {
+      "distance": 8906,
+      "duration": 1126
+    },
     "2021 Bergen Street, Brooklyn, NY 11233": {
       "distance": 16232,
       "duration": 2941
+    },
+    "2024 MOHEGAN AVE, BRONX NY 11211": {
+      "distance": 14772,
+      "duration": 2387
     },
     "2057 LINDEN BOULEVARD; Brooklyn NY 11207": {
       "distance": 19707,
@@ -2280,9 +3808,17 @@
       "distance": 24856,
       "duration": 4678
     },
+    "207-01 116th St, Queens NY 11411": {
+      "distance": 24973,
+      "duration": 4238
+    },
     "21-16 44th Road, Long Island City, NY 11101": {
       "distance": 3756,
       "duration": 768
+    },
+    "21-27 HIMROD STREET, Queens NY 11385": {
+      "distance": 11407,
+      "duration": 2333
     },
     "212 West 120 Street, Manhattan 10027, Manhattan NY 10027": {
       "distance": 8394,
@@ -2292,13 +3828,33 @@
       "distance": 7720,
       "duration": 1836
     },
+    "215 WEST 114TH ST, NEW YORK NY 11207": {
+      "distance": 12156,
+      "duration": 1904
+    },
     "215 West 114 St, Manhattan NY 10026": {
       "distance": 6872,
       "duration": 1408
     },
+    "22 EAST 128TH ST, NEW YORK NY 11206": {
+      "distance": 7343,
+      "duration": 1075
+    },
+    "220 HENRY ST, NEW YORK NY 10003": {
+      "distance": 5725,
+      "duration": 1368
+    },
     "222 West 134 Street, Manhattan 10030, Manhattan NY 10030": {
       "distance": 10351,
       "duration": 1986
+    },
+    "2225 WEBSTER AVE, BRONX NY 11216": {
+      "distance": 14751,
+      "duration": 2398
+    },
+    "223 GRAHAM AVE, BROOKLYN NY 10455": {
+      "distance": 7858,
+      "duration": 1246
     },
     "223 Graham Avenue, Brooklyn, NY 11206": {
       "distance": 7858,
@@ -2320,9 +3876,21 @@
       "distance": 7439,
       "duration": 1529
     },
+    "23034 EAST 105TH ST, NEW YORK NY 10459": {
+      "distance": 5262,
+      "duration": 885
+    },
+    "231 PALMETTO ST, BROOKLYN NY 11208": {
+      "distance": 11476,
+      "duration": 1861
+    },
     "231 Palmetto Street, Brooklyn 11221, BROOKLYN NY 11221": {
       "distance": 11476,
       "duration": 2461
+    },
+    "2351 1ST AVE4TH FL, NEW YORK NY 10035": {
+      "distance": 9031,
+      "duration": 2307
     },
     "2351 1st Avenue, New York, NY 10035": {
       "distance": 6980,
@@ -2340,9 +3908,21 @@
       "distance": 12130,
       "duration": 2095
     },
+    "240 2ND AVE, NEW YORK NY 10472": {
+      "distance": 23417,
+      "duration": 3859
+    },
+    "240 EAST 109TH ST, MANHATTAN NY 10002": {
+      "distance": 5955,
+      "duration": 1040
+    },
     "240 EAST 172 STREET, Bronx NY 10457": {
       "distance": 11789,
       "duration": 2076
+    },
+    "240 EAST 172ND ST, BRONX NY 11225": {
+      "distance": 11789,
+      "duration": 1746
     },
     "240 East 172nd Street, Bronx, NY 10457": {
       "distance": 11789,
@@ -2364,6 +3944,10 @@
       "distance": 10380,
       "duration": 1911
     },
+    "244 WEST 144 ST4TH FL, NEW YORK NY 10032": {
+      "distance": 12070,
+      "duration": 2343
+    },
     "245 West 129th Street, Manhattan 10027, Manhattan NY 10027": {
       "distance": 8237,
       "duration": 2008
@@ -2380,9 +3964,21 @@
       "distance": 22864,
       "duration": 3850
     },
+    "250 EAST 164TH ST, BRONX NY 10459": {
+      "distance": 10578,
+      "duration": 1754
+    },
     "250 East 156th Street, Bronx, NY 10451": {
       "distance": 9327,
       "duration": 1452
+    },
+    "250 HOOPER ST, BROOKLYN NY 10025": {
+      "distance": 9208,
+      "duration": 1921
+    },
+    "250 WEST 18TH ST, NEW YORK NY 11101": {
+      "distance": 7496,
+      "duration": 2546
     },
     "257 North 6th Street, Brooklyn, NY 11211": {
       "distance": 6114,
@@ -2400,17 +3996,37 @@
       "distance": 6880,
       "duration": 1485
     },
+    "2630 BENSON AVE, BROOKLYN NY 10006": {
+      "distance": 22478,
+      "duration": 3465
+    },
+    "2630 BENSON AVE, BROOKLYN NY 11101": {
+      "distance": 22478,
+      "duration": 3465
+    },
     "2630 Benson Avenue, Brooklyn, NY 11214": {
       "distance": 21809,
       "duration": 3785
+    },
+    "265 RALPH AVE, BROOKLYN NY 10473": {
+      "distance": 15050,
+      "duration": 2226
     },
     "2780 Reservoir Avenue, Bronx, NY 10468": {
       "distance": 15189,
       "duration": 2341
     },
+    "28-04 41 Avenue, Queens NY 11101": {
+      "distance": 4474,
+      "duration": 874
+    },
     "2801 41st Avenue, Long Island City, NY 11101": {
       "distance": 4499,
       "duration": 890
+    },
+    "283 ADAMS ST, BROOKLYN NY 11206": {
+      "distance": 9339,
+      "duration": 1311
     },
     "283 Adams Street, Brooklyn, NY 11201": {
       "distance": 9339,
@@ -2419,6 +4035,10 @@
     "284 Baltic Street, Brooklyn, NY 11201": {
       "distance": 9877,
       "duration": 1981
+    },
+    "2865 WEST 19TH ST, BROOKLYN NY 10023": {
+      "distance": 24849,
+      "duration": 3811
     },
     "2900 EXTERIOR STSTE 1R": {
       "distance": 16205,
@@ -2436,6 +4056,10 @@
       "distance": 5711,
       "duration": 1102
     },
+    "300 WILLOUGHBY AVE, BROOKLYN NY 11694": {
+      "distance": 10468,
+      "duration": 1922
+    },
     "300 Willoughby Avenue, Brooklyn, NY 11205": {
       "distance": 10468,
       "duration": 2312
@@ -2444,6 +4068,18 @@
       "distance": 22313,
       "duration": 4227
     },
+    "3000 EAST TREMONT AVE, BRONX NY 10456": {
+      "distance": 18365,
+      "duration": 2712
+    },
+    "3000 EAST TREMONT AVE, BRONX NY 11433": {
+      "distance": 18365,
+      "duration": 2712
+    },
+    "3000 East Tremont Avenue, Bronx NY 10461": {
+      "distance": 18365,
+      "duration": 2712
+    },
     "317 East 67th Street, New York, NY 10065": {
       "distance": 2701,
       "duration": 705
@@ -2451,6 +4087,10 @@
     "317,E 67th St,New York,NY,10065-6051": {
       "distance": 2701,
       "duration": 705
+    },
+    "32-24 CORPORAL KENNEDY ST, QUEENS NY 11361": {
+      "distance": 20032,
+      "duration": 4001
     },
     "320 E 96th St, New York, NY 10128": {
       "distance": 4848,
@@ -2464,13 +4104,29 @@
       "distance": 8240,
       "duration": 1528
     },
+    "326 SCHERMERHORN ST, BROOKLYN NY 11214": {
+      "distance": 10162,
+      "duration": 1314
+    },
+    "333 EAST 151ST ST, BRONX NY 10451": {
+      "distance": 9229,
+      "duration": 1400
+    },
     "333 East 151st Street, Bronx, NY 10451": {
       "distance": 9229,
       "duration": 1700
     },
+    "333 WEST 17 STREET, MANHATTAN NY 10011": {
+      "distance": 3788,
+      "duration": 902
+    },
     "339 Morris Avenue, Bronx, NY 10451": {
       "distance": 8659,
       "duration": 1405
+    },
+    "34 WEST 14TH ST, NEW YORK NY 10030": {
+      "distance": 2740,
+      "duration": 587
     },
     "345 Brook Avenue, Bronx NY": {
       "distance": 9229,
@@ -2479,6 +4135,10 @@
     "345 Brook Avenue, Bronx, NY 10454": {
       "distance": 9229,
       "duration": 1416
+    },
+    "345 Dean Street, Brooklyn NY 11217": {
+      "distance": 10721,
+      "duration": 1435
     },
     "345 East 15th Sst Manhattan NY 10003": {
       "distance": 2993,
@@ -2512,6 +4172,18 @@
       "distance": 17383,
       "duration": 3175
     },
+    "350 CONEY ISLAND AVE, BROOKLYN NY 11221": {
+      "distance": 14308,
+      "duration": 2529
+    },
+    "350 GRAND ST, NEW YORK NY 10034": {
+      "distance": 5995,
+      "duration": 1323
+    },
+    "350 GRAND ST, NEW YORK NY 10472": {
+      "distance": 5995,
+      "duration": 1323
+    },
     "350 GRAND STREET, Manhattan NY 10002": {
       "distance": 4874,
       "duration": 1354
@@ -2524,9 +4196,25 @@
       "distance": 4874,
       "duration": 1354
     },
+    "351 WEST 18TH ST, NEW YORK NY 10457": {
+      "distance": 3235,
+      "duration": 985
+    },
+    "351 WEST 18TH ST, NEW YORK NY 10463": {
+      "distance": 3235,
+      "duration": 985
+    },
+    "351 WEST 18TH ST, NEW YORK NY 11101": {
+      "distance": 3235,
+      "duration": 985
+    },
     "351 West 18th Street, New York, NY 10011": {
       "distance": 3707,
       "duration": 1456
+    },
+    "3540 BIVONA ST, BRONX NY 11417": {
+      "distance": 21860,
+      "duration": 3592
     },
     "36-41 28 St, Queens NY 11106": {
       "distance": 5825,
@@ -2548,6 +4236,10 @@
       "distance": 20234,
       "duration": 3520
     },
+    "383 STATE ST, BROOKLYN NY 11366": {
+      "distance": 10324,
+      "duration": 1431
+    },
     "3872 3RD AVE": {
       "distance": 1067937,
       "duration": 56191
@@ -2560,13 +4252,37 @@
       "distance": 2556,
       "duration": 711
     },
+    "40 IRVING PLACE, NEW YORK NY 11432": {
+      "distance": 2556,
+      "duration": 711
+    },
     "40 Irving Place, New York, NY 10003": {
       "distance": 2556,
       "duration": 594
     },
+    "400 IRVING AVE, BROOKLYN NY 10452": {
+      "distance": 11215,
+      "duration": 1692
+    },
+    "400 IRVING AVE, BROOKLYN NY 10453": {
+      "distance": 11215,
+      "duration": 1692
+    },
+    "400 IRVING AVE, BROOKLYN NY 11237": {
+      "distance": 11215,
+      "duration": 1692
+    },
     "400 IRVING AVENUE, Brooklyn NY 11237": {
       "distance": 11215,
       "duration": 2022
+    },
+    "400 PENNSYLVANIA AVE, BROOKLYN NY 11368": {
+      "distance": 15670,
+      "duration": 2560
+    },
+    "400 PENNSYLVANIA AVE, BROOKLYN NY 11432": {
+      "distance": 15670,
+      "duration": 2560
     },
     "400 PENNSYLVANIA AVENUE, Brooklyn, NY 11207": {
       "distance": 18986,
@@ -2600,9 +4316,21 @@
       "distance": 3624,
       "duration": 1052
     },
+    "4200 16TH AVE, BROOKLYN NY 11211": {
+      "distance": 15970,
+      "duration": 2645
+    },
     "424 Leonard Street, Brooklyn 11222, BROOKLYN NY 11222": {
       "distance": 6989,
       "duration": 1526
+    },
+    "43 WEST 22ND ST, NEW YORK NY 10016": {
+      "distance": 2146,
+      "duration": 659
+    },
+    "433 W 135th St, New York, NY 10031": {
+      "distance": 9528,
+      "duration": 1982
     },
     "439 WEST 49TH STREET, Manhattan, NY 10019": {
       "distance": 2289,
@@ -2620,6 +4348,10 @@
       "distance": 9565,
       "duration": 2297
     },
+    "444 WEST 56TH ST, NEW YORK NY 10040": {
+      "distance": 3598,
+      "duration": 1102
+    },
     "45-10 94th Street, Elmhurst, NY 11373": {
       "distance": 11312,
       "duration": 2021
@@ -2631,6 +4363,14 @@
     "45-35 Van Dam Street, Long Island City, NY 11101": {
       "distance": 5584,
       "duration": 999
+    },
+    "4510 94TH ST, ELMHURST NY 10460": {
+      "distance": 11312,
+      "duration": 2051
+    },
+    "4535 VAN DAM ST, LONG ISLAND CITY NY 10451": {
+      "distance": 5584,
+      "duration": 1029
     },
     "455 SOUTHERN BLVD": {
       "distance": 2334798,
@@ -2648,6 +4388,10 @@
       "distance": 10480,
       "duration": 1575
     },
+    "456 WHITE PLAINS RD, BRONX NY 11237": {
+      "distance": 17646,
+      "duration": 3384
+    },
     "456 WHITE PLAINS ROAD, Bronx NY 10473": {
       "distance": 17495,
       "duration": 3190
@@ -2659,6 +4403,18 @@
     "4600 Broadway, New York, NY 10040": {
       "distance": 14139,
       "duration": 2871
+    },
+    "470 JACKSON AVE, BRONX NY 10455": {
+      "distance": 10652,
+      "duration": 1705
+    },
+    "470 JACKSON AVE, BRONX NY 11413": {
+      "distance": 10652,
+      "duration": 1705
+    },
+    "4707 30TH PLACE, LONG ISLAND CITY NY 11212": {
+      "distance": 5928,
+      "duration": 1280
     },
     "48-01 90 St, Queens NY 11373": {
       "distance": 11016,
@@ -2692,6 +4448,14 @@
       "distance": 11754,
       "duration": 2708
     },
+    "504 WEST 158th ST, NEW YORK NY 11207": {
+      "distance": 11245,
+      "duration": 2353
+    },
+    "509 WEST 129TH ST, NEW YORK NY 11208": {
+      "distance": 18634,
+      "duration": 3452
+    },
     "509 West 129th Street, New York, NY 10027": {
       "distance": 8791,
       "duration": 2028
@@ -2699,6 +4463,10 @@
     "511 West 182nd Street, New York, NY 10033": {
       "distance": 13145,
       "duration": 3000
+    },
+    "521 WEST AVE, BROOKLYN NY 11203": {
+      "distance": 22028,
+      "duration": 3443
     },
     "525 WEST 50TH STREET, Manhattan NY 10019": {
       "distance": 2803,
@@ -2708,6 +4476,14 @@
       "distance": 2803,
       "duration": 1059
     },
+    "549 AUDUBON AVE, NEW YORK NY 10469": {
+      "distance": 13876,
+      "duration": 2435
+    },
+    "549 AUDUBON AVE, NEW YORK NY 11226": {
+      "distance": 13876,
+      "duration": 2435
+    },
     "549 AUDUBON AVENUE, Manhattan NY 10040": {
       "distance": 14159,
       "duration": 3370
@@ -2715,6 +4491,10 @@
     "549 Audubon Ave, New York, NY 10040": {
       "distance": 14159,
       "duration": 3370
+    },
+    "560 EAST 179TH ST, BRONX NY 10461": {
+      "distance": 14802,
+      "duration": 3064
     },
     "561 Grand Avenue, Brooklyn, NY 11238": {
       "distance": 14001,
@@ -2732,6 +4512,10 @@
       "distance": 17938,
       "duration": 2928
     },
+    "5800 TILDEN AVE, BROOKLYN NY 10002": {
+      "distance": 18104,
+      "duration": 3358
+    },
     "5800 TILDEN AVENUE, Brooklyn NY 11203": {
       "distance": 19021,
       "duration": 3575
@@ -2743,6 +4527,10 @@
     "6 EDGECOMBE AVENUE, Manhattan NY 10030": {
       "distance": 8819,
       "duration": 1852
+    },
+    "600 KINGSTON AVE, BROOKLYN NY 10033": {
+      "distance": 15737,
+      "duration": 2393
     },
     "600 Kingston Ave, Brooklyn, NY 11203": {
       "distance": 15343,
@@ -2768,9 +4556,37 @@
       "distance": 9873,
       "duration": 1560
     },
+    "600 ST ANN'S AVE, BRONX NY 11203": {
+      "distance": 9873,
+      "duration": 1560
+    },
+    "610 HENRY ST, BROOKLYN NY 10457": {
+      "distance": 10027,
+      "duration": 2137
+    },
+    "6125 MARATHON PKY, LITTLE NECK NY 11694": {
+      "distance": 28878,
+      "duration": 5239
+    },
+    "639 St. Anns Avenue, Bronx NY 10455": {
+      "distance": 10667,
+      "duration": 1601
+    },
+    "650 ACADEMY ST, NEW YORK NY 11236": {
+      "distance": 18411,
+      "duration": 3017
+    },
+    "6565 FLATLANDS AVE, BROOKLYN NY 10002": {
+      "distance": 20878,
+      "duration": 3614
+    },
     "6565 FLATLANDS AVENUE, Brooklyn NY 11236": {
       "distance": 19693,
       "duration": 3891
+    },
+    "6565 Flatlands Avenue Brooklyn NY 11235": {
+      "distance": 20878,
+      "duration": 3614
     },
     "6565 Flatlands Avenue, Brooklyn 11236, BROOKLYN NY 11236": {
       "distance": 20966,
@@ -2784,9 +4600,17 @@
       "distance": 6435,
       "duration": 840
     },
+    "70 TOMPKINS AVE, BROOKLYN NY 10459": {
+      "distance": 9122,
+      "duration": 1694
+    },
     "70 TOMPKINS AVENUE, Brooklyn NY 11206": {
       "distance": 9307,
       "duration": 2173
+    },
+    "701 ST ANNS AVE, BRONX NY 11373": {
+      "distance": 10842,
+      "duration": 1728
     },
     "701 Saint Anns Avenue, Bronx, NY 10455": {
       "distance": 11932,
@@ -2796,25 +4620,73 @@
       "distance": 17714,
       "duration": 3714
     },
+    "730 CONCOURSE VILLAGE WEST, BRONX NY 11201": {
+      "distance": 9133,
+      "duration": 1323
+    },
+    "730 CONCOURSE VILLAGE WEST, BRONX NY 11211": {
+      "distance": 9133,
+      "duration": 1323
+    },
     "730 CONCOURSE VILLAGE WEST, Bronx NY 10451": {
       "distance": 9133,
       "duration": 1623
+    },
+    "750 BAYCHESTER AVE, BRONX NY 10460": {
+      "distance": 22477,
+      "duration": 3824
+    },
+    "7540 PARSONS BLVD, FLUSHING NY 11231": {
+      "distance": 18614,
+      "duration": 3583
     },
     "755 East 100th Street, Brooklyn, NY 11236": {
       "distance": 17653,
       "duration": 3041
     },
+    "77 CHICAGO AVE, STATEN ISLAND NY 10039": {
+      "distance": 24110,
+      "duration": 4276
+    },
+    "778 FOREST AVENUE, BRONX NY 10456": {
+      "distance": 10599,
+      "duration": 1576
+    },
     "797 Bushwick Ave, Brooklyn NY 11221": {
       "distance": 12953,
       "duration": 2094
+    },
+    "8 21 BAY 25TH ST, FAR ROCKAWAY NY 11691": {
+      "distance": 37102,
+      "duration": 4029
     },
     "8-21 Bay 25th Street, Far Rockaway, NY 11691": {
       "distance": 37102,
       "duration": 4479
     },
+    "800 EAST GUN HILL RD, BRONX NY 10467": {
+      "distance": 19385,
+      "duration": 2840
+    },
+    "800 EAST GUN HILL RD, BRONX NY 11203": {
+      "distance": 19385,
+      "duration": 2840
+    },
+    "800 EAST GUN HILL RD, BRONX NY 11211": {
+      "distance": 19385,
+      "duration": 2840
+    },
+    "800 EAST GUN HILL RD, BRONX NY 11233": {
+      "distance": 19385,
+      "duration": 2840
+    },
     "800 EAST GUN HILL ROAD, Bronx NY 10467": {
       "distance": 21814,
       "duration": 3736
+    },
+    "800 HOME ST, BRONX NY 10457": {
+      "distance": 12300,
+      "duration": 2176
     },
     "800 HOME STREET, Bronx NY 10456": {
       "distance": 11471,
@@ -2836,6 +4708,18 @@
       "distance": 12729,
       "duration": 2100
     },
+    "8310 21st Avenue, Brooklyn NY 11214": {
+      "distance": 21170,
+      "duration": 3236
+    },
+    "832 MARCY AVE, BROOKLYN NY 11212": {
+      "distance": 13137,
+      "duration": 2060
+    },
+    "832 MARCY AVE, BROOKLYN NY 11233": {
+      "distance": 13137,
+      "duration": 2060
+    },
     "832 Marcy Avenue, Brooklyn 11216, BROOKLYN NY 11212": {
       "distance": 12738,
       "duration": 2720
@@ -2852,9 +4736,21 @@
       "distance": 10304,
       "duration": 1870
     },
+    "850 10TH AVE, NEW YORK NY 11214": {
+      "distance": 12667,
+      "duration": 2065
+    },
     "850 Grand Street, Brooklyn, NY 11211": {
       "distance": 7466,
       "duration": 1260
+    },
+    "883 CLASSON AVE, BROOKLYN NY 10463": {
+      "distance": 13230,
+      "duration": 1715
+    },
+    "883 CLASSON AVE, BROOKLYN NY 11212": {
+      "distance": 13230,
+      "duration": 1715
     },
     "883 Classon Ave, Brooklyn NY 11225": {
       "distance": 13230,
@@ -2872,6 +4768,10 @@
       "distance": 6141,
       "duration": 1118
     },
+    "900 TINTON AVE, BRONX NY 11236": {
+      "distance": 11275,
+      "duration": 1690
+    },
     "900 TINTON AVENUE, Bronx NY 10456": {
       "distance": 12548,
       "duration": 2356
@@ -2879,6 +4779,14 @@
     "901 Classon Avenue, Brooklyn, NY 11225": {
       "distance": 13321,
       "duration": 2105
+    },
+    "911 FLATBUSH AVE, BROOKLYN NY 10467": {
+      "distance": 14701,
+      "duration": 2820
+    },
+    "911 FLATBUSH AVE, BROOKLYN NY 11213": {
+      "distance": 14701,
+      "duration": 2820
     },
     "911 FLATBUSH AVENUE, Brooklyn NY 11226": {
       "distance": 14347,
@@ -2888,9 +4796,17 @@
       "distance": 14347,
       "duration": 2681
     },
+    "921 EAST 228TH ST, BRONX NY 10024": {
+      "distance": 20959,
+      "duration": 3275
+    },
     "921 East 228th Street, Bronx, NY 10466": {
       "distance": 23396,
       "duration": 4104
+    },
+    "925 ASTOR AVE, BRONX NY 10455": {
+      "distance": 17389,
+      "duration": 2807
     },
     "925 Astor Ave, Bronx NY 10469": {
       "distance": 20133,
@@ -2904,9 +4820,21 @@
       "distance": 20133,
       "duration": 3517
     },
+    "928 SIMPSON ST, BRONX NY 11208": {
+      "distance": 12503,
+      "duration": 1872
+    },
     "94-06 104TH STREET, Queens NY 11416": {
       "distance": 19199,
       "duration": 3660
+    },
+    "9517 KINGS HGWY, BROOKLYN NY 11221": {
+      "distance": 16683,
+      "duration": 2272
+    },
+    "965 LONGWOOD AVE, BRONX NY 10473": {
+      "distance": 11751,
+      "duration": 1740
     },
     "965 Longwood, Bronx NY": {
       "distance": 11751,
@@ -2920,11 +4848,19 @@
       "distance": 16064,
       "duration": 1666
     },
+    "99 TERRACE VIEW AVESTE 138, BRONX NY 10004": {
+      "distance": 16064,
+      "duration": 1606
+    },
     "99 Terrace View Ave": {
       "distance": 312646,
       "duration": 18438
     },
     "99 Terrace View Ave, BRONX NY 10463": {
+      "distance": 16064,
+      "duration": 1606
+    },
+    "99 Terrace View Ave, Bronx NY 10463": {
       "distance": 16064,
       "duration": 1606
     },
@@ -2935,6 +4871,14 @@
     "99 Terrace View Avenue, Bronx, NY 10463": {
       "distance": 16064,
       "duration": 1666
+    },
+    "999 JAMAICA AVE, BROOKLYN NY 10009": {
+      "distance": 18178,
+      "duration": 2808
+    },
+    "999 JAMAICA AVE, BROOKLYN NY 10451": {
+      "distance": 18178,
+      "duration": 2808
     },
     "999 Jamaica Avenue, Brooklyn, NY 11208": {
       "distance": 19540,
