@@ -21,11 +21,17 @@ function studentsPerGrade(school) {
   var maxGrade = grades[1] || minGrade;
   var numGrades;
 
-  if (!students) return 0;
+  if (!students) {
+    // Alas, no student data for this school.
+    return 0;
+  }
+
   if (students.allGrades) {
+    // 'students.allGrades' is the # of students across ALL grades.
     students = students.allGrades;
     numGrades = maxGrade - minGrade + 1;
   } else {
+    // 'students' is the # of students in grades 9-12 only.
     numGrades = maxGrade - Math.max(minGrade, 9) + 1;
   }
 
