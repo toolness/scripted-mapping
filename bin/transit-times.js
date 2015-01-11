@@ -112,5 +112,7 @@ function main() {
   });
 }
 
+module.exports = trips;
+
 if (!module.parent)
   main();
