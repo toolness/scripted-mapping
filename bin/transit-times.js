@@ -46,7 +46,7 @@ function getTransitTime(apiKey, origin, destination, cb) {
 }
 
 function writeCsv(cb) {
-  var headerRow = ["School Name"];
+  var headerRow = ["School Name", "Address"];
   var lines = [];
 
   originPointInfo.forEach(function(originInfo) {
@@ -54,7 +54,7 @@ function writeCsv(cb) {
   });
   lines.push(headerRow);
   schoolInfo.forEach(function(destinationInfo) {
-    var row = [destinationInfo.name];
+    var row = [destinationInfo.name, destinationInfo.address];
     originPointInfo.forEach(function(originInfo) {
       var trip = trips[originInfo.address][destinationInfo.address];
       row.push(Math.round(trip.duration / 60).toString());
