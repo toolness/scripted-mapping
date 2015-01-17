@@ -320,6 +320,10 @@
       "distance": 5036,
       "duration": 1115
     },
+    "1485 Pacific Street, Brooklyn NY 11216": {
+      "distance": 5174,
+      "duration": 1115
+    },
     "1495 HERKIMER ST": {
       "distance": 8103,
       "duration": 1413
@@ -1948,6 +1952,10 @@
     },
     "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11233": {
       "distance": 7596,
+      "duration": 1337
+    },
+    "1485 Pacific Street, Brooklyn NY 11216": {
+      "distance": 7995,
       "duration": 1337
     },
     "1495 HERKIMER ST": {
@@ -3579,6 +3587,10 @@
     "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11233": {
       "distance": 15078,
       "duration": 2758
+    },
+    "1485 Pacific Street, Brooklyn NY 11216": {
+      "distance": 13513,
+      "duration": 2459
     },
     "1495 HERKIMER ST": {
       "distance": 14039,

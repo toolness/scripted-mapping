@@ -404,6 +404,11 @@
     "lat": 40.6774688,
     "lng": -73.9420711
   },
+  "1485 Pacific Street, Brooklyn NY 11216": {
+    "formatted_address": "1485 Pacific Street, Brooklyn, NY 11216, USA",
+    "lat": 40.6774688,
+    "lng": -73.9420711
+  },
   "1495 HERKIMER ST": {
     "formatted_address": "1495 Herkimer Street, Brooklyn, NY 11233, USA",
     "lat": 40.6775666,

@@ -1,17 +1,17 @@
 [
   {
     "address": "225 East 23rd Street, New York, NY 10010",
-    "freeLunch": 83,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
-    "name": "47 American Sign Language and English Secondary School",
+    "name": "47 The American Sign Language and English Secondary School",
     "programs": [
       "ECS"
     ],
-    "reducedLunch": null,
-    "students": 184
+    "reducedLunch": 83.2,
+    "students": 189
   },
   {
     "address": "433 W 135th St, New York, NY 10031",
@@ -20,11 +20,11 @@
       9,
       12
     ],
-    "name": "A PHILIP RANDOLPH CAMPUS HIGH SCHOOL",
+    "name": "A. PHILIP RANDOLPH CAMPUS HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 78,
-    "students": 1326
+    "reducedLunch": 79.7,
+    "students": 1339
   },
   {
     "address": "911 FLATBUSH AVE, BROOKLYN NY 11213",
@@ -33,15 +33,15 @@
       6,
       12
     ],
-    "name": "ACAD FOR COLLEGE PREP AND CAREER EXPLORATION",
+    "name": "Academy for College Preparation and Career Exploration: A College Board School",
     "programs": [
     ],
-    "reducedLunch": 78,
-    "students": 553
+    "reducedLunch": 77.4,
+    "students": 381
   },
   {
     "address": "6565 Flatlands Avenue Brooklyn NY 11235",
-    "freeLunch": 79,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -49,7 +49,7 @@
     "name": "ACADEMY FOR CONSERVATION AND THE ENVIRONMENT",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 78.6,
     "students": 280
   },
   {
@@ -62,21 +62,20 @@
     "name": "ACADEMY FOR ENVIRONMENTAL LEADERSHIP",
     "programs": [
     ],
-    "reducedLunch": 97,
-    "students": 334
+    "reducedLunch": 100,
+    "students": 352
   },
   {
     "address": "150 ALBANY AVE, BROOKLYN, NY 11213",
-    "freeLunch": 92,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "ACADEMY FOR HEALTH CAREERS",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 92,
     "students": 314
   },
   {
@@ -88,26 +87,23 @@
     ],
     "name": "ACADEMY FOR LANGUAGE AND TECHNOLOGY",
     "programs": [
-      "CTE",
-      "MOUSE"
     ],
-    "reducedLunch": 92.3,
-    "students": 336
+    "reducedLunch": 95.3,
+    "students": 301
   },
   {
     "address": "921 East 228th Street, Bronx, NY 10466",
-    "freeLunch": 81,
+    "freeLunch": null,
     "grades": [
       8,
       12
     ],
     "name": "Academy for Scholarship and Entrepreneurship: A College Board School",
     "programs": [
-      "CTE",
       "ECS"
     ],
-    "reducedLunch": null,
-    "students": 437
+    "reducedLunch": 80.5,
+    "students": 349
   },
   {
     "address": "509 WEST 129TH ST, NEW YORK NY 11208",
@@ -116,11 +112,11 @@
       6,
       12
     ],
-    "name": "ACADEMY FOR SOCIAL ACTION A COLLEGE BOARD SCHOOL",
+    "name": "ACADEMY FOR SOCIAL ACTION: A COLLEGE BOARD SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 85,
-    "students": 393
+    "reducedLunch": 80.6,
+    "students": 260
   },
   {
     "address": "1065 ELTON ST, BROOKLYN NY 10029",
@@ -132,21 +128,8 @@
     "name": "ACADEMY FOR YOUNG WRITERS",
     "programs": [
     ],
-    "reducedLunch": 74,
-    "students": 384
-  },
-  {
-    "address": "28-04 41 Avenue, Queens NY 11101",
-    "freeLunch": 73,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "ACADEMY OF AMERICAN STUDIES",
-    "programs": [
-    ],
-    "reducedLunch": null,
-    "students": 810
+    "reducedLunch": 78.3,
+    "students": 423
   },
   {
     "address": "30-20 Thomson Avenue, Long Island City, NY 11101",
@@ -157,28 +140,26 @@
     ],
     "name": "ACADEMY OF FINANCE AND ENTERPRISE",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 75,
-    "students": 420
+    "reducedLunch": 80.9,
+    "students": 467
   },
   {
     "address": "911 FLATBUSH AVENUE, Brooklyn NY 11226",
-    "freeLunch": 84,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Academy of Hospitality and Tourism",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 84.2,
     "students": 303
   },
   {
     "address": "999 Jamaica Avenue, Brooklyn, NY 11208",
-    "freeLunch": 79,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -187,8 +168,21 @@
     "programs": [
       "ScriptEd"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 78.9,
     "students": 440
+  },
+  {
+    "address": "8 21 BAY 25TH ST, FAR ROCKAWAY NY 11691",
+    "freeLunch": null,
+    "grades": [
+      6,
+      12
+    ],
+    "name": "ACADEMY OF MEDICAL TECHNOLOGY: A COLLEGE BOARD SCHOOL",
+    "programs": [
+    ],
+    "reducedLunch": 78.1,
+    "students": 412
   },
   {
     "address": "400 IRVING AVE, BROOKLYN NY 11237",
@@ -200,85 +194,37 @@
     "name": "ACADEMY OF URBAN PLANNING",
     "programs": [
     ],
+    "reducedLunch": 96.2,
+    "students": 313
+  },
+  {
+    "address": "1485 Pacific Street, Brooklyn NY 11216",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "Achievement First Brooklyn High School",
+    "programs": [
+      "TEALS",
+      "Charter"
+    ],
     "reducedLunch": 80,
-    "students": 385
+    "students": 397
   },
   {
-    "address": "8 21 BAY 25TH ST, FAR ROCKAWAY NY 11691",
-    "freeLunch": null,
-    "grades": [
-      6,
-      12
-    ],
-    "name": "ACADEY OF MEDICAL TECHNOLOGY   A COLLEGE BOARD SCH",
-    "programs": [
-    ],
-    "reducedLunch": 74,
-    "students": 598
-  },
-  {
-    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "Achievement First Bushwick Charter School",
-    "programs": [
-      "Charter"
-    ],
-    "reducedLunch": 79,
-    "students": {
-      "allGrades": 939
-    }
-  },
-  {
-    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "Achievement First Crown Heights Charter School ",
-    "programs": [
-      "Charter"
-    ],
-    "reducedLunch": 75,
-    "students": {
-      "allGrades": 943
-    }
-  },
-  {
-    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
+    "address": "1485 Pacific Street, Brooklyn NY 11216",
     "freeLunch": null,
     "grades": [
       9,
       10
     ],
-    "name": "Achievement First East New York Charter School ",
+    "name": "Achievement First Brooklyn University Prep High School",
     "programs": [
       "Charter"
     ],
-    "reducedLunch": 78,
-    "students": {
-      "allGrades": 779
-    }
-  },
-  {
-    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "Achievement First Endeavor Charter School ",
-    "programs": [
-      "Charter"
-    ],
-    "reducedLunch": 79,
-    "students": {
-      "allGrades": 849
-    }
+    "reducedLunch": 84,
+    "students": 187
   },
   {
     "address": "561 Grand Avenue, Brooklyn, NY 11238",
@@ -290,8 +236,8 @@
     "name": "ACORN COMMUNITY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 87.4,
-    "students": 731
+    "reducedLunch": 86.4,
+    "students": 623
   },
   {
     "address": "333 East 151st Street, Bronx, NY 10451",
@@ -300,12 +246,11 @@
       9,
       12
     ],
-    "name": "ALFRED E SMITH CAREER AND TECHNICAL HIGH SCHOOL",
+    "name": "Alfred E. Smith Career and Technical Education High School",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 78.4,
-    "students": 719
+    "reducedLunch": 87.9,
+    "students": 390
   },
   {
     "address": "321 PALMETTO STREET, Brooklyn, NY 11237",
@@ -317,8 +262,8 @@
     "name": "ALL CITY LEADERSHIP SECONDARY SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 89.4,
-    "students": 263
+    "reducedLunch": 88.3,
+    "students": 146
   },
   {
     "address": "1980 LAFAYETTE AVE, BRONX NY 11237",
@@ -327,11 +272,11 @@
       6,
       12
     ],
-    "name": "ANTONIA PANTOJA PREPERATORY ACADEMY",
+    "name": "Antonia Pantoja Preparatory Academy: A College Board School",
     "programs": [
     ],
-    "reducedLunch": 77,
-    "students": 441
+    "reducedLunch": 100,
+    "students": 235
   },
   {
     "address": "456 WHITE PLAINS RD, BRONX NY 11237",
@@ -340,11 +285,11 @@
       6,
       12
     ],
-    "name": "ARCHIMEDES ACADEMY FOR MATH, SCIENCE AND TECHNOLOG",
+    "name": "ARCHIMEDES ACADEMY FOR MATH, SCIENCE AND TECHNOLOGY APPLICATIONS",
     "programs": [
     ],
-    "reducedLunch": 81,
-    "students": 580
+    "reducedLunch": 80.4,
+    "students": 354
   },
   {
     "address": "1010 REV. J. A. POLITE AVENUE, Bronx NY 10459",
@@ -353,15 +298,15 @@
       9,
       12
     ],
-    "name": "ARTURO SCHOMBURG SATELLITE ACADEMY BRONX",
+    "name": "ARTURO A. SCHOMBURG SATELLITE ACADEMY BRONX",
     "programs": [
     ],
-    "reducedLunch": 79.9,
-    "students": 224
+    "reducedLunch": 77.9,
+    "students": 226
   },
   {
     "address": "1495 HERKIMER STREET, Brooklyn NY 11233",
-    "freeLunch": 80,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -370,7 +315,7 @@
     "programs": [
       "ECS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 80.1,
     "students": 241
   },
   {
@@ -383,34 +328,20 @@
     "name": "ASTOR COLLEGIATE ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 78.7,
-    "students": 497
-  },
-  {
-    "address": "156-10 Baisley Boulevard, Queens NY 11434",
-    "freeLunch": 73,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "AUGUST MARTIN HIGH SCHOOL",
-    "programs": [
-    ],
-    "reducedLunch": null,
-    "students": 853
+    "reducedLunch": 82.9,
+    "students": 474
   },
   {
     "address": "50 Bedford Avenue, Brooklyn, NY 11222",
-    "freeLunch": 78,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Automotive High School",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 78.1,
     "students": 420
   },
   {
@@ -422,10 +353,9 @@
     ],
     "name": "AVIATION CAREER AND TECHNICAL HIGH SCHOOL",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 99.9,
-    "students": 2201
+    "reducedLunch": 100,
+    "students": 2231
   },
   {
     "address": "965 LONGWOOD AVE, BRONX NY 10473",
@@ -437,12 +367,12 @@
     "name": "BANANA KELLY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 76,
-    "students": 430
+    "reducedLunch": 81.3,
+    "students": 364
   },
   {
     "address": "32-24 CORPORAL KENNEDY ST, QUEENS NY 11361",
-    "freeLunch": 73,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -450,24 +380,8 @@
     "name": "BAYSIDE HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 73.2,
     "students": 3241
-  },
-  {
-    "address": "832 Marcy Avenue, Brooklyn 11216, BROOKLYN NY 11221",
-    "freeLunch": null,
-    "grades": [
-      9,
-      11
-    ],
-    "name": "Bedford Stuyvesant Collegiate Charter School ",
-    "programs": [
-      "Charter"
-    ],
-    "reducedLunch": 83,
-    "students": {
-      "allGrades": 361
-    }
   },
   {
     "address": "832 MARCY AVE, BROOKLYN NY 11233",
@@ -476,11 +390,11 @@
       9,
       12
     ],
-    "name": "BEDFORD STUYVESANT PREPRETORY HIGH SCHOOL",
+    "name": "BEDFORD STUYVESANT PREPARATORY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 81,
-    "students": 107
+    "reducedLunch": 77.2,
+    "students": 123
   },
   {
     "address": "500 East Fordham Road, Bronx, NY 10458",
@@ -489,40 +403,38 @@
       9,
       12
     ],
-    "name": "BELMONT PREPERATORY HIGH SCHOOL",
+    "name": "BELMONT PREPARATORY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 81.9,
-    "students": 408
+    "reducedLunch": 89.5,
+    "students": 410
   },
   {
     "address": "1700 Fulton Street, Brooklyn, NY 11213",
-    "freeLunch": 75,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Boys and Girls High School",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 74.8,
     "students": 940
   },
   {
     "address": "2474 CROTONA AVENUE, Bronx, NY 10458",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       9
     ],
     "name": "Bronx Academy for Software Engineering (BASE)",
     "programs": [
-      "CTE",
       "ASE",
       "C/I"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 112
   },
   {
@@ -535,21 +447,8 @@
     "name": "BRONX ACADEMY OF HEALTH CAREERS",
     "programs": [
     ],
-    "reducedLunch": 96,
-    "students": 480
-  },
-  {
-    "address": "339 Morris Avenue, Bronx, NY 10451",
-    "freeLunch": null,
-    "grades": [
-      6,
-      12
-    ],
-    "name": "BRONX ACADEMY OF LETTERS",
-    "programs": [
-    ],
-    "reducedLunch": 88.2,
-    "students": 550
+    "reducedLunch": 100,
+    "students": 461
   },
   {
     "address": "800 EAST GUN HILL ROAD, Bronx NY 10467",
@@ -561,8 +460,8 @@
     "name": "BRONX AEROSPACE HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 95.7,
-    "students": 417
+    "reducedLunch": 100,
+    "students": 404
   },
   {
     "address": "1440 STORY AVE, BRONX NY 10457",
@@ -574,8 +473,8 @@
     "name": "BRONX ARENA HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 80,
-    "students": 202
+    "reducedLunch": 76.6,
+    "students": 214
   },
   {
     "address": "1980 LAFAYETTE AVE, BRONX NY 10459",
@@ -587,8 +486,8 @@
     "name": "BRONX BRIDGES HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 78,
-    "students": 237
+    "reducedLunch": 100,
+    "students": 313
   },
   {
     "address": "800 HOME ST, BRONX NY 10457",
@@ -600,8 +499,8 @@
     "name": "BRONX CAREER AND COLLEGE PREPARATORY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 85,
-    "students": 301
+    "reducedLunch": 89.2,
+    "students": 323
   },
   {
     "address": "1365 Fulton Avenue, Bronx, NY 10456",
@@ -612,14 +511,13 @@
     ],
     "name": "BRONX CENTER FOR SCIENCE AND MATHEMATICS",
     "programs": [
-      "MOUSE"
     ],
-    "reducedLunch": 92.1,
-    "students": 444
+    "reducedLunch": 82.6,
+    "students": 461
   },
   {
     "address": "100 WEST MOSHOLU PARKWAY SOUTH, BRONX NY",
-    "freeLunch": 86,
+    "freeLunch": null,
     "grades": [
       9,
       10
@@ -627,7 +525,7 @@
     "name": "BRONX COLLABORATIVE HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 85.6,
     "students": 90
   },
   {
@@ -640,8 +538,8 @@
     "name": "BRONX COLLEGIATE ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 84.6,
-    "students": 350
+    "reducedLunch": 100,
+    "students": 356
   },
   {
     "address": "1980 Lafayette Avenue, Bronx, NY 10473",
@@ -653,36 +551,34 @@
     "name": "BRONX COMMUNITY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 76.3,
+    "reducedLunch": 100,
     "students": 198
   },
   {
     "address": "1980 Lafayette Avenue, Bronx, NY 10473",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       11
     ],
     "name": "Bronx Compass High School",
     "programs": [
-      "SEP",
-      "Club"
+      "SEP"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 195
   },
   {
     "address": "333 East 151st Street, Bronx, NY 10451",
-    "freeLunch": 92,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Bronx Design and Construction Academy",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 92.1,
     "students": 429
   },
   {
@@ -692,13 +588,11 @@
       6,
       12
     ],
-    "name": "BRONX EARLY COLLEGE ACADEMY FOR TEACHING AND LEARN",
+    "name": "BRONX EARLY COLLEGE ACADEMY FOR TEACHING AND LEARNING",
     "programs": [
-      "MOUSE",
-      "Club"
     ],
-    "reducedLunch": 86,
-    "students": 535
+    "reducedLunch": 91.1,
+    "students": 277
   },
   {
     "address": "99 TERRACE VIEW AVENUE, Bronx NY 10463",
@@ -709,12 +603,10 @@
     ],
     "name": "BRONX ENGINEERING AND TECHNOLOGY ACADEMY",
     "programs": [
-      "CTE",
-      "C/I",
-      "Club"
+      "C/I"
     ],
-    "reducedLunch": 84.3,
-    "students": 439
+    "reducedLunch": 81.9,
+    "students": 420
   },
   {
     "address": "1619 BOSTON RD, BRONX NY 11236",
@@ -726,12 +618,12 @@
     "name": "BRONX ENVISION ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 82,
-    "students": 157
+    "reducedLunch": 88.3,
+    "students": 239
   },
   {
     "address": "1980 Lafayette Avenue, Bronx, NY 10473",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -739,7 +631,7 @@
     "name": "BRONX GUILD",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 315
   },
   {
@@ -752,8 +644,8 @@
     "name": "BRONX HAVEN HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 98,
-    "students": 177
+    "reducedLunch": 75,
+    "students": 172
   },
   {
     "address": "750 BAYCHESTER AVE, BRONX NY 10460",
@@ -765,8 +657,21 @@
     "name": "BRONX HEALTH SCIENCES HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 85,
-    "students": 349
+    "reducedLunch": 82,
+    "students": 345
+  },
+  {
+    "address": "500 East Fordham Road, Bronx, NY 10458",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "BRONX HIGH SCHOOL FOR LAW AND COMMUNITY SERVICES",
+    "programs": [
+    ],
+    "reducedLunch": 91.6,
+    "students": 403
   },
   {
     "address": "240 EAST 172ND ST, BRONX NY 11225",
@@ -778,8 +683,8 @@
     "name": "BRONX HIGH SCHOOL FOR MEDICAL SCIENCE",
     "programs": [
     ],
-    "reducedLunch": 84,
-    "students": 465
+    "reducedLunch": 100,
+    "students": 298
   },
   {
     "address": "800 EAST GUN HILL RD, BRONX NY 11233",
@@ -788,25 +693,11 @@
       9,
       12
     ],
-    "name": "BRONX HIGH SCHOOL FOR WRITING AND COMMUNICATION AR",
+    "name": "BRONX HIGH SCHOOL FOR WRITING AND COMMUNICATION ARTS",
     "programs": [
     ],
-    "reducedLunch": 96,
-    "students": 417
-  },
-  {
-    "address": "500 East Fordham Road, Bronx, NY 10458",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "BRONX HIGH SCHOOL LAW AND COMMUNITY SERVICES",
-    "programs": [
-      "CTE"
-    ],
-    "reducedLunch": 79.4,
-    "students": 432
+    "reducedLunch": 100,
+    "students": 413
   },
   {
     "address": "240 East 172nd Street, Bronx, NY 10457",
@@ -817,11 +708,9 @@
     ],
     "name": "BRONX HIGH SCHOOL OF BUSINESS",
     "programs": [
-      "CTE",
-      "Club"
     ],
-    "reducedLunch": 83.9,
-    "students": 398
+    "reducedLunch": 100,
+    "students": 359
   },
   {
     "address": "1110 BOSTON ROAD, BRONX, NY 10456",
@@ -832,11 +721,10 @@
     ],
     "name": "BRONX INTERNATIONAL HIGH SCHOOL",
     "programs": [
-      "CTE",
       "C/I"
     ],
-    "reducedLunch": 99.2,
-    "students": 393
+    "reducedLunch": 94.2,
+    "students": 414
   },
   {
     "address": "800 EAST GUN HILL RD, BRONX NY 11203",
@@ -848,8 +736,8 @@
     "name": "BRONX LAB SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 96,
-    "students": 478
+    "reducedLunch": 100,
+    "students": 476
   },
   {
     "address": "800 Home Street, Rm. 426; Bronx, NY 10456",
@@ -861,8 +749,8 @@
     "name": "BRONX LATIN SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 93.3,
-    "students": 418
+    "reducedLunch": 91.8,
+    "students": 279
   },
   {
     "address": "1710 WEBSTER AVENUE , Bronx NY 10457",
@@ -873,11 +761,10 @@
     ],
     "name": "BRONX LEADERSHIP ACADEMY HIGH SCHOOL",
     "programs": [
-      "MOUSE",
       "ECS"
     ],
-    "reducedLunch": 90.3,
-    "students": 703
+    "reducedLunch": 88,
+    "students": 711
   },
   {
     "address": "730 CONCOURSE VILLAGE WEST, BRONX NY 11201",
@@ -889,8 +776,8 @@
     "name": "BRONX LEADERSHIP ACADEMY II HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 91,
-    "students": 496
+    "reducedLunch": 91.5,
+    "students": 515
   },
   {
     "address": "1001 INTERVALE AVE, BRONX NY 10459",
@@ -904,7 +791,9 @@
       "Charter"
     ],
     "reducedLunch": null,
-    "students": 636
+    "students": {
+      "allGrades": 636
+    }
   },
   {
     "address": "3872 3RD AVE, BRONX NY 10457",
@@ -918,24 +807,26 @@
       "Charter"
     ],
     "reducedLunch": 79.7,
-    "students": 686
+    "students": {
+      "allGrades": 686
+    }
   },
   {
     "address": "1010 REV. J. A. POLITE AVENUE, Bronx NY 10459",
-    "freeLunch": 84,
+    "freeLunch": null,
     "grades": [
       10,
       12
     ],
-    "name": "BRONX REGIONAL HS",
+    "name": "BRONX REGIONAL HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 83.9,
     "students": 255
   },
   {
     "address": "3000 East Tremont Avenue, Bronx NY 10461",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       10
@@ -943,7 +834,7 @@
     "name": "BRONX RIVER HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 101
   },
   {
@@ -956,8 +847,8 @@
     "name": "BRONX SCHOOL FOR LAW, GOVERNMENT AND JUSTICE",
     "programs": [
     ],
-    "reducedLunch": 76.8,
-    "students": 763
+    "reducedLunch": 89.7,
+    "students": 494
   },
   {
     "address": "99 Terrace View Avenue, Bronx, NY 10463",
@@ -968,10 +859,9 @@
     ],
     "name": "BRONX SCHOOL OF LAW AND FINANCE",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 82.5,
-    "students": 422
+    "reducedLunch": 83.7,
+    "students": 435
   },
   {
     "address": "928 SIMPSON ST, BRONX NY 11208",
@@ -983,8 +873,8 @@
     "name": "BRONX STUDIO SCHOOL FOR WRITERS AND ARTISTS",
     "programs": [
     ],
-    "reducedLunch": 94,
-    "students": 553
+    "reducedLunch": 100,
+    "students": 303
   },
   {
     "address": "99 Terrace View Avenue, Bronx, NY 10463",
@@ -996,21 +886,20 @@
     "name": "BRONX THEATRE HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 78.7,
-    "students": 447
+    "reducedLunch": 81.8,
+    "students": 435
   },
   {
     "address": "925 Astor Ave, Bronx NY 10469",
-    "freeLunch": 86,
+    "freeLunch": null,
     "grades": [
       9,
       11
     ],
     "name": "Bronxdale High School",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 86.4,
     "students": 332
   },
   {
@@ -1023,8 +912,8 @@
     "name": "BROOKLYN ACADEMY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 78,
-    "students": 155
+    "reducedLunch": 86.3,
+    "students": 160
   },
   {
     "address": "883 CLASSON AVE, BROOKLYN NY 11212",
@@ -1036,8 +925,8 @@
     "name": "BROOKLYN ACADEMY OF SCIENCE AND THE ENVIRONMENT",
     "programs": [
     ],
-    "reducedLunch": 82,
-    "students": 479
+    "reducedLunch": 80.9,
+    "students": 477
   },
   {
     "address": "6565 FLATLANDS AVENUE, Brooklyn NY 11236",
@@ -1049,48 +938,35 @@
     "name": "BROOKLYN BRIDGE ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 98.6,
-    "students": 214
-  },
-  {
-    "address": "350 CONEY ISLAND AVE, BROOKLYN NY 11221",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "BROOKLYN COLLEGE ACADEMY",
-    "programs": [
-    ],
-    "reducedLunch": 74,
-    "students": 636
+    "reducedLunch": 81.6,
+    "students": 179
   },
   {
     "address": "2021 Bergen Street, Brooklyn, NY 11233",
     "freeLunch": null,
     "grades": [
-      6,
+      9,
       12
     ],
-    "name": "BROOKLYN COLLEGIATE A COLLEGE BOARD SCHOOL",
+    "name": "BROOKLYN COLLEGIATE: A COLLEGE BOARD SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 82.8,
-    "students": 580
+    "reducedLunch": 84.5,
+    "students": 345
   },
   {
     "address": "300 Willoughby Avenue, Brooklyn, NY 11205",
-    "freeLunch": 86,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
-    "name": "Brooklyn Community Arts and Media High School",
+    "name": "Brooklyn Community High School of Communication, Arts and Media",
     "programs": [
       "ECS"
     ],
-    "reducedLunch": null,
-    "students": 4011
+    "reducedLunch": 86,
+    "students": 401
   },
   {
     "address": "112 SCHERMERHORN ST, BROOKLYN NY 11221",
@@ -1102,8 +978,8 @@
     "name": "BROOKLYN FRONTIERS HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 87,
-    "students": 136
+    "reducedLunch": 89.3,
+    "students": 169
   },
   {
     "address": "6565 FLATLANDS AVE, BROOKLYN NY 10002",
@@ -1115,12 +991,12 @@
     "name": "BROOKLYN GENERATION SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 80,
-    "students": 300
+    "reducedLunch": 84.5,
+    "students": 297
   },
   {
     "address": "1396 BROADWAY, Brooklyn NY 11221",
-    "freeLunch": 84,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -1129,7 +1005,7 @@
     "programs": [
       "ScriptEd"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 83.6,
     "students": 518
   },
   {
@@ -1139,28 +1015,15 @@
       9,
       12
     ],
-    "name": "BROOKLYN HIGH SCHOOL FOR LEADERSHIP AND COMMUNITY",
+    "name": "BROOKLYN HIGH SCHOOL FOR LEADERSHIP AND COMMUNITY SERVICE",
     "programs": [
     ],
-    "reducedLunch": 84,
-    "students": 211
-  },
-  {
-    "address": "1396 BROADWAY, BROOKLYN NY 10469",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "BROOKLYN HIGH SCHOOL LAW AND TECH",
-    "programs": [
-    ],
-    "reducedLunch": 87,
-    "students": 455
+    "reducedLunch": 77.3,
+    "students": 233
   },
   {
     "address": "345 Dean Street, Brooklyn NY 11217",
-    "freeLunch": 76,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -1168,7 +1031,7 @@
     "name": "BROOKLYN HIGH SCHOOL OF THE ARTS",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 76.3,
     "students": 815
   },
   {
@@ -1180,14 +1043,13 @@
     ],
     "name": "BROOKLYN INSTITUTE FOR LIBERAL ARTS",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 88,
+    "reducedLunch": 86.5,
     "students": 170
   },
   {
     "address": "49 Flatbush Avenue Extension, Brooklyn, NY 11201",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -1196,7 +1058,7 @@
     "programs": [
       "ScriptEd"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 343
   },
   {
@@ -1209,23 +1071,8 @@
     "name": "BROOKLYN LAB SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 80,
-    "students": 368
-  },
-  {
-    "address": "300 Willoughby Avenue, Brooklyn, NY 11205",
-    "freeLunch": 77,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "Brooklyn Leadership (transfer school)",
-    "programs": [
-      "Bootstrap",
-      "SGD"
-    ],
-    "reducedLunch": null,
-    "students": 233
+    "reducedLunch": 83.2,
+    "students": 364
   },
   {
     "address": "257 North 6th Street, Brooklyn, NY 11211",
@@ -1237,8 +1084,8 @@
     "name": "BROOKLYN PREPARATORY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 78.8,
-    "students": 400
+    "reducedLunch": 81.8,
+    "students": 489
   },
   {
     "address": "284 Baltic Street, Brooklyn, NY 11201",
@@ -1250,8 +1097,8 @@
     "name": "BROOKLYN SCHOOL FOR GLOBAL STUDIES",
     "programs": [
     ],
-    "reducedLunch": 80.2,
-    "students": 354
+    "reducedLunch": 84.4,
+    "students": 190
   },
   {
     "address": "400 IRVING AVE, BROOKLYN NY 10452",
@@ -1260,44 +1107,28 @@
       9,
       10
     ],
-    "name": "BROOKLYN SCHOOL FOR MATH AND RESEARC",
+    "name": "BROOKLYN SCHOOL FOR MATH AND RESEARCH",
     "programs": [
     ],
-    "reducedLunch": 90,
-    "students": 126
+    "reducedLunch": 89.2,
+    "students": 203
   },
   {
     "address": "883 Classon Ave, Brooklyn NY 11225",
-    "freeLunch": 81,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Brooklyn School for Music and Theatrer",
     "programs": [
-      "CTE",
-      "Club"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 81,
     "students": 399
   },
   {
-    "address": "610 HENRY ST, BROOKLYN NY 10457",
-    "freeLunch": null,
-    "grades": [
-      6,
-      12
-    ],
-    "name": "BROOKLYN SECONDARY SCHOOL FOR COLLABORATIVE STUDIE",
-    "programs": [
-      "Club"
-    ],
-    "reducedLunch": 76,
-    "students": 678
-  },
-  {
     "address": "8310 21st Avenue, Brooklyn NY 11214",
-    "freeLunch": 74,
+    "freeLunch": null,
     "grades": [
       6,
       12
@@ -1305,23 +1136,20 @@
     "name": "BROOKLYN STUDIO SECONDARY SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
-    "students": {
-      "allGrades": 902
-    }
+    "reducedLunch": 74.4,
+    "students": 647
   },
   {
     "address": "6565 FLATLANDS AVENUE, Brooklyn NY 11236",
-    "freeLunch": 87,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Brooklyn Theatre Arts High School",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 87.3,
     "students": 401
   },
   {
@@ -1348,24 +1176,8 @@
     "name": "BROWNSVILLE ACADEMY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 84,
-    "students": 172
-  },
-  {
-    "address": "832 Marcy Avenue, Brooklyn 11216, BROOKLYN NY 11212",
-    "freeLunch": 82,
-    "grades": [
-      9,
-      11
-    ],
-    "name": "Brownsville Collegiate Charter School",
-    "programs": [
-      "Charter"
-    ],
-    "reducedLunch": null,
-    "students": {
-      "allGrades": 341
-    }
+    "reducedLunch": 79,
+    "students": 205
   },
   {
     "address": "231 PALMETTO ST, BROOKLYN NY 11208",
@@ -1377,8 +1189,8 @@
     "name": "BUSHWICK COMMUNITY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 78,
-    "students": 325
+    "reducedLunch": 100,
+    "students": 328
   },
   {
     "address": "797 Bushwick Ave, Brooklyn NY 11221",
@@ -1387,11 +1199,11 @@
       9,
       12
     ],
-    "name": "BUSHWICK LEADERS HS FOR ACADEMIC EXCELLENCE",
+    "name": "BUSHWICK LEADERS HIGH SCHOOL FOR ACADEMIC EXCELLENCE",
     "programs": [
     ],
-    "reducedLunch": 95,
-    "students": 461
+    "reducedLunch": 95.6,
+    "students": 362
   },
   {
     "address": "400 IRVING AVENUE, Brooklyn NY 11237",
@@ -1403,26 +1215,25 @@
     "name": "BUSHWICK SCHOOL FOR SOCIAL JUSTICE",
     "programs": [
     ],
-    "reducedLunch": 83.6,
-    "students": 434
+    "reducedLunch": 100,
+    "students": 416
   },
   {
     "address": "439 West 49th St, Manhattan NY 10019",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Business of Sports School",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 420
   },
   {
     "address": "188-4 91st Avenue, Hollis, NY 11423",
-    "freeLunch": 76,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -1431,7 +1242,7 @@
     "programs": [
       "SEP"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 75.6,
     "students": 336
   },
   {
@@ -1444,8 +1255,8 @@
     "name": "CASCADES HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 76,
-    "students": 234
+    "reducedLunch": 78.4,
+    "students": 222
   },
   {
     "address": "1573 MADISON AVENUE, Manhattan NY 10029",
@@ -1458,8 +1269,8 @@
     "programs": [
       "ECS"
     ],
-    "reducedLunch": 89.4,
-    "students": 445
+    "reducedLunch": 89.6,
+    "students": 479
   },
   {
     "address": "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 10468",
@@ -1470,10 +1281,9 @@
     ],
     "name": "CHANNEL VIEW SCHOOL FOR RESEARCH",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 79,
-    "students": 642
+    "reducedLunch": 100,
+    "students": 453
   },
   {
     "address": "131 Avenue of the Americas, New York, NY 10013",
@@ -1484,10 +1294,9 @@
     ],
     "name": "CHELSEA CAREER AND TECHNICAL EDUCATION HIGH SCHOOL",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 75.3,
-    "students": 465
+    "reducedLunch": 80.6,
+    "students": 443
   },
   {
     "address": "4600 Broadway, New York, NY 10040",
@@ -1499,12 +1308,12 @@
     "name": "CITY COLLEGE ACADEMY OF THE ARTS",
     "programs": [
     ],
-    "reducedLunch": 81.4,
-    "students": 586
+    "reducedLunch": 88.2,
+    "students": 340
   },
   {
     "address": "105 Tech Place, Brooklyn, NY 11201",
-    "freeLunch": 73,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -1513,7 +1322,7 @@
     "programs": [
       "ScriptEd"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 72.7,
     "students": 451
   },
   {
@@ -1526,8 +1335,8 @@
     "name": "CIVIC LEADERSHIP ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 73,
-    "students": 444
+    "reducedLunch": 78.6,
+    "students": 453
   },
   {
     "address": "901 Classon Avenue, Brooklyn, NY 11225",
@@ -1538,14 +1347,13 @@
     ],
     "name": "CLARA BARTON HIGH SCHOOL",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 77.9,
-    "students": 1605
+    "reducedLunch": 79.4,
+    "students": 1525
   },
   {
     "address": "240 East 172nd Street, Bronx, NY 10457",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       11
@@ -1554,7 +1362,7 @@
     "programs": [
       "ScriptEd"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 171
   },
   {
@@ -1567,8 +1375,8 @@
     "name": "COALITION SCHOOL FOR SOCIAL CHANGE",
     "programs": [
     ],
-    "reducedLunch": 97.7,
-    "students": 349
+    "reducedLunch": 100,
+    "students": 311
   },
   {
     "address": "347 BALTIC STREET, Brooklyn NY 11201",
@@ -1579,10 +1387,9 @@
     ],
     "name": "COBBLE HILL SCHOOL OF AMERICAN STUDIES",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 83.1,
-    "students": 652
+    "reducedLunch": 87.4,
+    "students": 571
   },
   {
     "address": "925 Astor Avenue, Bronx, NY 10469",
@@ -1593,10 +1400,9 @@
     ],
     "name": "COLLEGIATE INSTITUTE FOR MATH AND SCIENCE",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 80.1,
-    "students": 543
+    "reducedLunch": 77.9,
+    "students": 656
   },
   {
     "address": "504 WEST 158th ST, NEW YORK NY 11207",
@@ -1608,8 +1414,8 @@
     "name": "COMMUNITY HEALTH ACADEMY OF THE HEIGHTS",
     "programs": [
     ],
-    "reducedLunch": 92,
-    "students": 545
+    "reducedLunch": 90.7,
+    "students": 361
   },
   {
     "address": "350 Gerard Avenue, Bronx, NY 10451",
@@ -1621,12 +1427,12 @@
     "name": "COMMUNITY SCHOOL FOR SOCIAL JUSTICE",
     "programs": [
     ],
-    "reducedLunch": 86.8,
-    "students": 317
+    "reducedLunch": 87.2,
+    "students": 335
   },
   {
     "address": "580 Crotona Park South, Bronx, NY 10456",
-    "freeLunch": 97,
+    "freeLunch": null,
     "grades": [
       6,
       10
@@ -1635,8 +1441,8 @@
     "programs": [
       "ECS"
     ],
-    "reducedLunch": null,
-    "students": 543
+    "reducedLunch": 96.5,
+    "students": 221
   },
   {
     "address": "112 East 106th Street, New York, NY 10029",
@@ -1647,14 +1453,15 @@
     ],
     "name": "Cristo Rey New York High School",
     "programs": [
-      "ScriptEd"
+      "ScriptEd",
+      "Charter"
     ],
     "reducedLunch": null,
-    "students": null
+    "students": 380
   },
   {
     "address": "639 St. Anns Avenue, Bronx NY 10455",
-    "freeLunch": 91,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -1662,26 +1469,25 @@
     "name": "CROTONA ACADEMY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 90.5,
     "students": 105
   },
   {
     "address": "2474 CROTONA AVENUE, Bronx, NY 10458",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "CROTONA INTERNATIONAL HIGH SCHOOL",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 252
   },
   {
     "address": "5800 Tilden Avenue, Brooklyn, NY 11203",
-    "freeLunch": 82,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -1689,7 +1495,7 @@
     "name": "Cultural Academy for the Arts and Sciences",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 81.9,
     "students": 309
   },
   {
@@ -1702,21 +1508,20 @@
     "name": "CYPRESS HILLS COLLEGIATE PREPARATORY SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 81,
-    "students": 423
+    "reducedLunch": 86.5,
+    "students": 370
   },
   {
     "address": "100 WEST MOSHOLU PARKWAY SOUTH, BRONX NY",
-    "freeLunch": 76,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "DEWITT CLINTON HIGH SCHOOL",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 75.9,
     "students": 2746
   },
   {
@@ -1730,22 +1535,8 @@
     "programs": [
       "C/I"
     ],
-    "reducedLunch": 83.4,
-    "students": 524
-  },
-  {
-    "address": "101 Park Avenue, Brooklyn, NY, 11205",
-    "freeLunch": null,
-    "grades": [
-      6,
-      12
-    ],
-    "name": "DR SUSAN S MCKINNEY SECONDARY SCHOOL OF THE ARTS",
-    "programs": [
-      "MOUSE"
-    ],
-    "reducedLunch": 77.8,
-    "students": 446
+    "reducedLunch": 82.1,
+    "students": 542
   },
   {
     "address": "800 HOME STREET, Bronx NY 10456",
@@ -1759,7 +1550,22 @@
       "Charter"
     ],
     "reducedLunch": null,
-    "students": 418
+    "students": {
+      "allGrades": 418
+    }
+  },
+  {
+    "address": "101 Park Avenue, Brooklyn, NY, 11205",
+    "freeLunch": null,
+    "grades": [
+      6,
+      12
+    ],
+    "name": "DR. SUSAN S. MCKINNEY SECONDARY SCHOOL OF THE ARTS",
+    "programs": [
+    ],
+    "reducedLunch": 83.9,
+    "students": 361
   },
   {
     "address": "240 East 172nd Street, Bronx, NY 10457",
@@ -1771,12 +1577,12 @@
     "name": "DREAMYARD PREPARATORY SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 83.3,
-    "students": 348
+    "reducedLunch": 100,
+    "students": 345
   },
   {
     "address": "4143 3rd Avenue, Bronx, NY 10457",
-    "freeLunch": 81,
+    "freeLunch": null,
     "grades": [
       6,
       12
@@ -1786,8 +1592,8 @@
       "SEP",
       "TEALS"
     ],
-    "reducedLunch": null,
-    "students": 645
+    "reducedLunch": 80.5,
+    "students": 387
   },
   {
     "address": "1137 HERKIMER ST, BROOKLYN NY 11355",
@@ -1799,8 +1605,8 @@
     "name": "EAGLE ACADEMY FOR YOUNG MEN II",
     "programs": [
     ],
-    "reducedLunch": 85,
-    "students": 427
+    "reducedLunch": 75.8,
+    "students": 226
   },
   {
     "address": "1716 Southern Boulevard, Bronx, NY 10460",
@@ -1812,8 +1618,8 @@
     "name": "EAST BRONX ACADEMY FOR THE FUTURE",
     "programs": [
     ],
-    "reducedLunch": 82.8,
-    "students": 617
+    "reducedLunch": 91.6,
+    "students": 363
   },
   {
     "address": "9517 KINGS HGWY, BROOKLYN NY 11221",
@@ -1825,8 +1631,8 @@
     "name": "EAST BROOKLYN COMMUNITY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 84,
-    "students": 170
+    "reducedLunch": 77.5,
+    "students": 187
   },
   {
     "address": "2057 LINDEN BOULEVARD; Brooklyn NY 11207",
@@ -1839,8 +1645,8 @@
     "programs": [
       "Bootstrap"
     ],
-    "reducedLunch": 85.7,
-    "students": 433
+    "reducedLunch": 84.6,
+    "students": 285
   },
   {
     "address": "420 East 12th Street, New York, NY 10009",
@@ -1852,8 +1658,8 @@
     "name": "EAST SIDE COMMUNITY SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 79.4,
-    "students": 597
+    "reducedLunch": 73,
+    "students": 388
   },
   {
     "address": "46-21 Colden Street, Flushing, NY 11355",
@@ -1867,8 +1673,8 @@
       "TEALS",
       "ECS"
     ],
-    "reducedLunch": 79.7,
-    "students": 615
+    "reducedLunch": 83,
+    "students": 371
   },
   {
     "address": "1155 DEKALB AVENUE, Brooklyn NY 11221",
@@ -1880,21 +1686,21 @@
     "name": "EBC HIGH SCHOOL FOR PUBLIC SERVICE BUSHWICK",
     "programs": [
     ],
-    "reducedLunch": 94.4,
-    "students": 606
+    "reducedLunch": 92.2,
+    "students": 513
   },
   {
     "address": "140 West 102nd Street, New York, NY 10025",
-    "freeLunch": 86,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
-    "name": "Edward A. Reynolds West Side HS",
+    "name": "Edward A. Reynolds West Side High School",
     "programs": [
       "Bootstrap"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 86.2,
     "students": 522
   },
   {
@@ -1907,8 +1713,8 @@
     "name": "EL PUENTE ACADEMY FOR PEACE AND JUSTICE",
     "programs": [
     ],
-    "reducedLunch": 79,
-    "students": 220
+    "reducedLunch": 84,
+    "students": 225
   },
   {
     "address": "100 HESTER STREET, Manhattan NY 10002",
@@ -1920,22 +1726,21 @@
     "name": "EMMA LAZARUS HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 93.3,
-    "students": 255
+    "reducedLunch": 96.4,
+    "students": 221
   },
   {
     "address": "36-41 28 St, Queens NY 11106",
-    "freeLunch": 77,
+    "freeLunch": null,
     "grades": [
       9,
       14
     ],
     "name": "Energy Tech High School",
     "programs": [
-      "CTE",
       "Bootstrap"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 76.5,
     "students": 119
   },
   {
@@ -1945,25 +1750,24 @@
       9,
       12
     ],
-    "name": "ENGLISH LANGUAGE LEARNERS AND INTERNATIONAL SUPPOR",
+    "name": "English Language Learners and International Support Preparatory Academy (ELLIS)",
     "programs": [
     ],
-    "reducedLunch": 88.1,
-    "students": 311
+    "reducedLunch": 90.7,
+    "students": 335
   },
   {
     "address": "240 EAST 109TH ST, MANHATTAN NY 10002",
     "freeLunch": null,
     "grades": [
       6,
-      9
+      12
     ],
-    "name": "ESPERANZA PREPATORY ACADEMY",
+    "name": "ESPERANZA PREPARATORY ACADEMY",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 94,
-    "students": 347
+    "reducedLunch": 95.8,
+    "students": 148
   },
   {
     "address": "143 10 SPRINGFIELD BLVD, SPRINGFIELD GARDENS NY 10463",
@@ -1972,11 +1776,11 @@
       9,
       12
     ],
-    "name": "EXCELSIOR PREPARATORTY HIGH SCHOOL",
+    "name": "EXCELSIOR PREPARATORY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 78,
-    "students": 450
+    "reducedLunch": 78.5,
+    "students": 480
   },
   {
     "address": "1363 FULTON AVENUE, Bronx NY 10456",
@@ -1987,24 +1791,22 @@
     ],
     "name": "EXIMIUS COLLEGE PREPARATORY ACADEMY",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 92.4,
-    "students": 355
+    "reducedLunch": 91.7,
+    "students": 423
   },
   {
     "address": "2630 Benson Avenue, Brooklyn, NY 11214",
-    "freeLunch": 79,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Expeditionary Learning School for Community Leaders",
     "programs": [
-      "TEALS",
-      "Club"
+      "TEALS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 79,
     "students": 276
   },
   {
@@ -2016,10 +1818,9 @@
     ],
     "name": "EXPLORATIONS ACADEMY",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 99.2,
-    "students": 363
+    "reducedLunch": 92.4,
+    "students": 357
   },
   {
     "address": "525 West 50th Street, New York, NY 10019",
@@ -2030,10 +1831,9 @@
     ],
     "name": "FACING HISTORY SCHOOL",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 77.5,
-    "students": 449
+    "reducedLunch": 100,
+    "students": 417
   },
   {
     "address": "1021 JENNINGS STREET, Bronx NY 10460",
@@ -2046,22 +1846,20 @@
     "programs": [
       "C/I"
     ],
-    "reducedLunch": 91,
-    "students": 477
+    "reducedLunch": 100,
+    "students": 493
   },
   {
     "address": "400 Pennsylvania Ave, Brooklyn NY 11207",
-    "freeLunch": 83,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "FDNY High School for Fire and Life Safey",
     "programs": [
-      "CTE",
-      "Club"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 83.4,
     "students": 296
   },
   {
@@ -2071,12 +1869,11 @@
       9,
       12
     ],
-    "name": "FELISA RINCON DE GAUTIER INSTITUTE FOR LAW AND PUB",
+    "name": "FELISA RINCON DE GAUTIER INSTITUTE FOR LAW AND PUBLIC POLICY",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 76.6,
-    "students": 363
+    "reducedLunch": 80.6,
+    "students": 341
   },
   {
     "address": "144-80 Barclay Avenue, Flushing, NY 11355",
@@ -2089,8 +1886,8 @@
     "programs": [
       "Bootstrap"
     ],
-    "reducedLunch": 88.1,
-    "students": 421
+    "reducedLunch": 96.8,
+    "students": 412
   },
   {
     "address": "525 West 50th Street, New York, NY 10019",
@@ -2101,10 +1898,9 @@
     ],
     "name": "FOOD AND FINANCE HIGH SCHOOL",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 78.3,
-    "students": 433
+    "reducedLunch": 81.9,
+    "students": 443
   },
   {
     "address": "500 East Fordham Road, Bronx, NY 10458",
@@ -2115,11 +1911,10 @@
     ],
     "name": "FORDHAM HIGH SCHOOL FOR THE ARTS",
     "programs": [
-      "CTE",
       "C/I"
     ],
-    "reducedLunch": 85.2,
-    "students": 385
+    "reducedLunch": 88.9,
+    "students": 407
   },
   {
     "address": "500 East Fordham Road, Bronx, NY 10458",
@@ -2128,11 +1923,11 @@
       9,
       12
     ],
-    "name": "FORDHAM LEADERSHIP ACADEMY FOR BUSINESS AND TECHNO",
+    "name": "FORDHAM LEADERSHIP ACADEMY FOR BUSINESS AND TECHNOLOGY",
     "programs": [
     ],
-    "reducedLunch": 82.6,
-    "students": 449
+    "reducedLunch": 90.4,
+    "students": 460
   },
   {
     "address": "470 JACKSON AVE, BRONX NY 11413",
@@ -2144,8 +1939,8 @@
     "name": "FOREIGN LANGUAGE ACADEMY OF GLOBAL STUDIES",
     "programs": [
     ],
-    "reducedLunch": 91,
-    "students": 241
+    "reducedLunch": 91.5,
+    "students": 189
   },
   {
     "address": "198 FORSYTH ST, NEW YORK NY 10460",
@@ -2154,11 +1949,11 @@
       9,
       12
     ],
-    "name": "FORSYTHE SATELLITE ACADEMY",
+    "name": "FORSYTH SATELLITE ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 88,
-    "students": 207
+    "reducedLunch": 79,
+    "students": 224
   },
   {
     "address": "70 TOMPKINS AVENUE, Brooklyn NY 11206",
@@ -2170,8 +1965,8 @@
     "name": "FOUNDATIONS ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 77.5,
-    "students": 138
+    "reducedLunch": 87.3,
+    "students": 110
   },
   {
     "address": "50 Bedford Avenue, Brooklyn, NY 11222",
@@ -2183,21 +1978,20 @@
     "name": "FRANCES PERKINS ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 94.2,
-    "students": 173
+    "reducedLunch": 86.6,
+    "students": 157
   },
   {
     "address": "58-20 Utopia Parkway, Queens NY 11365",
-    "freeLunch": 75,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Francis Lewis High School",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 74.7,
     "students": 4058
   },
   {
@@ -2210,37 +2004,8 @@
     "name": "FRANKLIN DELANO ROOSEVELT HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 76.1,
-    "students": 3171
-  },
-  {
-    "address": "215 WEST 114TH ST, NEW YORK NY 11207",
-    "freeLunch": null,
-    "grades": [
-      6,
-      12
-    ],
-    "name": "FREDERICK DOUGLAS ACADEMY II SECONDARY SCHOOL",
-    "programs": [
-      "MOUSE",
-      "Club"
-    ],
-    "reducedLunch": 77,
-    "students": 400
-  },
-  {
-    "address": "3630 3rd Ave, Bronx, NY 10456",
-    "freeLunch": null,
-    "grades": [
-      7,
-      12
-    ],
-    "name": "FREDERICK DOUGLAS ACADEMY III SECONDARY SCHOOL",
-    "programs": [
-      "ECS"
-    ],
-    "reducedLunch": 87.6,
-    "students": 532
+    "reducedLunch": 79.7,
+    "students": 3130
   },
   {
     "address": "226 Bristol Street, Brooklyn, NY 11212",
@@ -2251,23 +2016,36 @@
     ],
     "name": "FREDERICK DOUGLAS ACADEMY VII HIGH SCHOOL",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 86.1,
-    "students": 360
+    "reducedLunch": 84.8,
+    "students": 328
   },
   {
-    "address": "2581 Adam Clayton Powell Junior Boulevard, New York, NY 10039",
+    "address": "215 WEST 114TH ST, NEW YORK NY 11207",
     "freeLunch": null,
     "grades": [
       6,
       12
     ],
-    "name": "FREDERICK DOUGLASS ACADEMY",
+    "name": "FREDERICK DOUGLASS ACADEMY II SECONDARY SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 77.9,
-    "students": 1549
+    "reducedLunch": 76,
+    "students": 316
+  },
+  {
+    "address": "3630 3rd Ave, Bronx, NY 10456",
+    "freeLunch": null,
+    "grades": [
+      7,
+      12
+    ],
+    "name": "FREDERICK DOUGLASS ACADEMY III SECONDARY SCHOOL",
+    "programs": [
+      "ECS"
+    ],
+    "reducedLunch": 86.1,
+    "students": 410
   },
   {
     "address": "1010 LAFAYETTE AVE, BROOKLYN NY 10473",
@@ -2279,63 +2057,48 @@
     "name": "FREDERICK DOUGLASS ACADEMY IV SECONDARY SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 87,
-    "students": 263
+    "reducedLunch": 88.4,
+    "students": 126
   },
   {
     "address": "8-21 Bay 25th Street, Far Rockaway, NY 11691",
-    "freeLunch": 77,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "FREDERICK DOUGLASS ACADEMY VI SECONDARY SCHOOL",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 76.7,
     "students": 412
   },
   {
-    "address": "77 CHICAGO AVE, STATEN ISLAND NY 10039",
-    "freeLunch": null,
-    "grades": [
-      4,
-      11
-    ],
-    "name": "GELLER HOUSE SCHOOL",
-    "programs": [
-    ],
-    "reducedLunch": 86,
-    "students": 22
-  },
-  {
     "address": "143-10 Sprinfield Blvd, Queens NY 11413",
-    "freeLunch": 75,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
-    "name": "George Washington Carver High School for the Science",
+    "name": "George Washington Carver High School for the Sciences",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 74.5,
     "students": 498
   },
   {
     "address": "105 Johnson Street, Brooklyn, NY 11201",
-    "freeLunch": 78,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
-    "name": "George Westinghouse High School",
+    "name": "George Westinghouse Career and Technical Education High School",
     "programs": [
       "ScriptEd",
       "ECS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 77.6,
     "students": 702
   },
   {
@@ -2348,8 +2111,8 @@
     "name": "GOTHAM PROFESSIONAL ARTS ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 76,
-    "students": 271
+    "reducedLunch": 100,
+    "students": 242
   },
   {
     "address": "1 Monroe St, Manhattan NY 10002",
@@ -2363,7 +2126,9 @@
       "Charter"
     ],
     "reducedLunch": null,
-    "students": 89
+    "students": {
+      "allGrades": 89
+    }
   },
   {
     "address": "223 GRAHAM AVE, BROOKLYN NY 10455",
@@ -2375,8 +2140,8 @@
     "name": "GREEN SCHOOL: AN ACADEMY FOR ENVIRONMENTAL CAREERS",
     "programs": [
     ],
-    "reducedLunch": 78,
-    "students": 355
+    "reducedLunch": 85.7,
+    "students": 328
   },
   {
     "address": "501 West 165th Street, New York, NY 10032",
@@ -2385,12 +2150,12 @@
       9,
       12
     ],
-    "name": "GREGORIO LUPERON HIGH SCH FOR SCIENCE AND MATHEMAT",
+    "name": "Gregorio Luperon High School for Science and Mathematics",
     "programs": [
       "TEALS"
     ],
-    "reducedLunch": 93.2,
-    "students": 472
+    "reducedLunch": 92.7,
+    "students": 491
   },
   {
     "address": "21-27 HIMROD STREET, Queens NY 11385",
@@ -2443,11 +2208,11 @@
       9,
       12
     ],
-    "name": "HARLEM RENAISSENCE HIGH SCHOOL",
+    "name": "HARLEM RENAISSANCE HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 92,
-    "students": 199
+    "reducedLunch": 76.3,
+    "students": 232
   },
   {
     "address": "35 West 124th Street, Manhattan NY 10027",
@@ -2467,47 +2232,6 @@
     }
   },
   {
-    "address": "244 WEST 144 ST4TH FL, NEW YORK NY 10032",
-    "freeLunch": null,
-    "grades": [
-      5,
-      12
-    ],
-    "name": "HARLEM VILLAGE ACADEMY CHARTER SCHOOL EHVACS",
-    "programs": [
-      "Charter"
-    ],
-    "reducedLunch": 74,
-    "students": 552
-  },
-  {
-    "address": "2351 1ST AVE4TH FL, NEW YORK NY 10035",
-    "freeLunch": null,
-    "grades": [
-      5,
-      12
-    ],
-    "name": "HARLEM VILLAGE ACADEMY LEADERSHIP CHARTER SCHOOL",
-    "programs": [
-      "Charter"
-    ],
-    "reducedLunch": 80,
-    "students": 577
-  },
-  {
-    "address": "34 WEST 14TH ST, NEW YORK NY 10030",
-    "freeLunch": null,
-    "grades": [
-      9,
-      9
-    ],
-    "name": "HARVEST COLLEGIATE HIGH SCHOOL",
-    "programs": [
-    ],
-    "reducedLunch": 78,
-    "students": 124
-  },
-  {
     "address": "2 Astor Place #3, New York, NY 10003",
     "freeLunch": null,
     "grades": [
@@ -2518,11 +2242,11 @@
     "programs": [
     ],
     "reducedLunch": 85.3,
-    "students": 68
+    "students": 75
   },
   {
     "address": "350 Gerard Avenue, Bronx, NY 10451",
-    "freeLunch": 88,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -2530,21 +2254,20 @@
     "name": "HEALTH OPPORTUNITIES HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 87,
     "students": 577
   },
   {
     "address": "455 Southern Blvd, Bronx NY 10455",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       10
     ],
     "name": "Health, Education, and Research occupations High School (H.E.R.O)",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 126
   },
   {
@@ -2557,8 +2280,8 @@
     "name": "HENRY STREET SCHOOL FOR INTERNATIONAL STUDIES",
     "programs": [
     ],
-    "reducedLunch": 79,
-    "students": 391
+    "reducedLunch": 83,
+    "students": 258
   },
   {
     "address": "1680 LEXINGTON AVE, NEW YORK NY 10002",
@@ -2570,21 +2293,8 @@
     "name": "HERITAGE SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 80,
-    "students": 328
-  },
-  {
-    "address": "94-06 104TH STREET, Queens NY 11416",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "HIGH SCH CONSTRUCTION, TRADES, ENGINEERING AND ARC",
-    "programs": [
-    ],
-    "reducedLunch": 75.7,
-    "students": 923
+    "reducedLunch": 88.6,
+    "students": 351
   },
   {
     "address": "105-25 HORACE HARDING EXPY N, Queens NY 11368",
@@ -2595,24 +2305,22 @@
     ],
     "name": "HIGH SCHOOL FOR ARTS AND BUSINESS",
     "programs": [
-      "CTE",
       "AP CS A"
     ],
-    "reducedLunch": 88.3,
-    "students": 845
+    "reducedLunch": 100,
+    "students": 887
   },
   {
     "address": "122 Amsterdam Avenue, New York, NY 10023",
-    "freeLunch": 83,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "High School for Arts, Imagination and Inquiry",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 83.2,
     "students": 435
   },
   {
@@ -2625,8 +2333,8 @@
     "name": "HIGH SCHOOL FOR CIVIL RIGHTS",
     "programs": [
     ],
-    "reducedLunch": 76,
-    "students": 359
+    "reducedLunch": 76.8,
+    "students": 349
   },
   {
     "address": "167 01 GOTHIC DR, JAMAICA NY 11207",
@@ -2638,8 +2346,21 @@
     "name": "HIGH SCHOOL FOR COMMUNITY LEADERSHIP",
     "programs": [
     ],
-    "reducedLunch": 89,
-    "students": 268
+    "reducedLunch": 87.4,
+    "students": 357
+  },
+  {
+    "address": "800 EAST GUN HILL RD, BRONX NY 11211",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "HIGH SCHOOL FOR CONTEMPORARY ARTS",
+    "programs": [
+    ],
+    "reducedLunch": 100,
+    "students": 518
   },
   {
     "address": "350 GRAND ST, NEW YORK NY 10034",
@@ -2651,21 +2372,20 @@
     "name": "HIGH SCHOOL FOR DUAL LANGUAGE AND ASIAN STUDIES",
     "programs": [
     ],
-    "reducedLunch": 88,
-    "students": 392
+    "reducedLunch": 88.8,
+    "students": 410
   },
   {
     "address": "2474 CROTONA AVENUE, Bronx, NY 10458",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       11
     ],
     "name": "HIGH SCHOOL FOR ENERGY AND TECHNOLOGY",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 211
   },
   {
@@ -2678,8 +2398,8 @@
     "name": "HIGH SCHOOL FOR ENVIRONMENTAL STUDIES",
     "programs": [
     ],
-    "reducedLunch": 73,
-    "students": 1329
+    "reducedLunch": 75.5,
+    "students": 1312
   },
   {
     "address": "650 ACADEMY ST, NEW YORK NY 11236",
@@ -2691,12 +2411,12 @@
     "name": "HIGH SCHOOL FOR EXCELLENCE AND INNOVATION",
     "programs": [
     ],
-    "reducedLunch": 86,
-    "students": 221
+    "reducedLunch": 87.9,
+    "students": 223
   },
   {
     "address": "883 Classon Avenue, Brooklyn, NY 11225",
-    "freeLunch": 88,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -2706,7 +2426,7 @@
       "ScriptEd",
       "TEALS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 88.3,
     "students": 256
   },
   {
@@ -2719,54 +2439,39 @@
     "name": "HIGH SCHOOL FOR HEALTH CAREERS AND SCIENCES",
     "programs": [
     ],
-    "reducedLunch": 83,
-    "students": 650
+    "reducedLunch": 92.8,
+    "students": 624
   },
   {
     "address": "345 East 15th Sst Manhattan NY 10003",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "HIGH SCHOOL FOR HEALTH PROFESSIONS AND HUMAN SERVICES",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 1706
   },
   {
     "address": "1600 Rockaway Parkway, Brooklyn NY 11236",
-    "freeLunch": 81,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "HIGH SCHOOL FOR INNOVATION IN ADVERTISING AND MEDIA",
     "programs": [
-      "CTE",
       "ECS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 80.5,
     "students": 313
   },
   {
-    "address": "549 AUDUBON AVENUE, Manhattan NY 10040",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "HIGH SCHOOL FOR INTERNATIONAL BUSINESS AND FINANCE",
-    "programs": [
-    ],
-    "reducedLunch": 93.9,
-    "students": 628
-  },
-  {
     "address": "40 IRVING PLACE, Manhattan New York 10003",
-    "freeLunch": 87,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -2776,7 +2481,7 @@
       "ScriptEd",
       "TEALS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 87.4,
     "students": 358
   },
   {
@@ -2788,10 +2493,9 @@
     ],
     "name": "HIGH SCHOOL FOR LAW AND PUBLIC SERVICE",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 92.1,
-    "students": 709
+    "reducedLunch": 75.8,
+    "students": 679
   },
   {
     "address": "122 AMSTERDAM AVE, NEW YORK NY 10468",
@@ -2800,11 +2504,11 @@
       9,
       12
     ],
-    "name": "HIGH SCHOOL FOR LAW, ADVOCACY AND COMMUNITY JUSTIC",
+    "name": "High School for Law, Advocacy and Community Justice",
     "programs": [
     ],
-    "reducedLunch": 86,
-    "students": 542
+    "reducedLunch": 88.1,
+    "students": 531
   },
   {
     "address": "549 AUDUBON AVE, NEW YORK NY 11226",
@@ -2816,8 +2520,8 @@
     "name": "HIGH SCHOOL FOR MEDIA AND COMMUNICATIONS",
     "programs": [
     ],
-    "reducedLunch": 86,
-    "students": 524
+    "reducedLunch": 89.3,
+    "students": 523
   },
   {
     "address": "1600 ROCKAWAY PARKWAY, BROOKLYN NY 10023",
@@ -2829,8 +2533,21 @@
     "name": "HIGH SCHOOL FOR MEDICAL PROFESSIONS",
     "programs": [
     ],
-    "reducedLunch": 93,
-    "students": 461
+    "reducedLunch": 92.1,
+    "students": 441
+  },
+  {
+    "address": "600 Kingston Avenue, Brooklyn, NY 11203",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "HIGH SCHOOL FOR PUBLIC SERVICE: HEROES OF TOMORROW",
+    "programs": [
+    ],
+    "reducedLunch": 86.1,
+    "students": 439
   },
   {
     "address": "911 FLATBUSH AVE, BROOKLYN NY 10467",
@@ -2842,8 +2559,8 @@
     "name": "HIGH SCHOOL FOR SERVICE AND LEARNING AT ERASMUS",
     "programs": [
     ],
-    "reducedLunch": 73,
-    "students": 417
+    "reducedLunch": 77.6,
+    "students": 434
   },
   {
     "address": "2780 Reservoir Avenue, Bronx, NY 10468",
@@ -2854,10 +2571,9 @@
     ],
     "name": "HIGH SCHOOL FOR TEACHING AND THE PROFESSIONS",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 99.4,
-    "students": 494
+    "reducedLunch": 91.2,
+    "students": 499
   },
   {
     "address": "1100 BOSTON RD, BRONX NY 10006",
@@ -2869,8 +2585,8 @@
     "name": "HIGH SCHOOL FOR VIOLIN AND DANCE",
     "programs": [
     ],
-    "reducedLunch": 91,
-    "students": 348
+    "reducedLunch": 92.1,
+    "students": 378
   },
   {
     "address": "911 FLATBUSH AVENUE, Brooklyn NY 11226",
@@ -2879,11 +2595,24 @@
       9,
       12
     ],
-    "name": "HIGH SCHOOL FOR YOUTH AND COMMUNITY DEVELOPMENT",
+    "name": "High School for Youth and Community Development at Erasmus",
     "programs": [
     ],
-    "reducedLunch": 78.1,
-    "students": 384
+    "reducedLunch": 82.1,
+    "students": 347
+  },
+  {
+    "address": "30-20 Thomson Avenue, Long Island City, NY 11101",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "HIGH SCHOOL OF APPLIED COMMUNICATION",
+    "programs": [
+    ],
+    "reducedLunch": 75.5,
+    "students": 421
   },
   {
     "address": "122 Amsterdam Avenue, New York, NY 10023",
@@ -2894,10 +2623,9 @@
     ],
     "name": "HIGH SCHOOL OF ARTS AND TECHNOLOGY",
     "programs": [
-      "MOUSE"
     ],
-    "reducedLunch": 85.6,
-    "students": 599
+    "reducedLunch": 91.2,
+    "students": 588
   },
   {
     "address": "800 EAST GUN HILL ROAD, Bronx NY 10467",
@@ -2908,41 +2636,26 @@
     ],
     "name": "HIGH SCHOOL OF COMPUTERS AND TECHNOLOGY",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 96.4,
-    "students": 548
-  },
-  {
-    "address": "800 EAST GUN HILL RD, BRONX NY 11211",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "HIGH SCHOOL OF CONTEMPORARY ARTS",
-    "programs": [
-    ],
-    "reducedLunch": 97,
-    "students": 493
+    "reducedLunch": 100,
+    "students": 556
   },
   {
     "address": "100 Trinity Place, Manhattan NY 10006",
-    "freeLunch": 78,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "HIGH SCHOOL OF ECONOMICS AND FINANCE",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 78.4,
     "students": 767
   },
   {
     "address": "525 WEST 50TH STREET, Manhattan NY 10019",
-    "freeLunch": 92,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -2950,8 +2663,21 @@
     "name": "HIGH SCHOOL OF HOSPITALITY MANAGEMENT",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 91.6,
     "students": 431
+  },
+  {
+    "address": "925 Astor Avenue, Bronx, NY 10469",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "High School of Language and Innovation",
+    "programs": [
+    ],
+    "reducedLunch": 97.6,
+    "students": 255
   },
   {
     "address": "2630 Benson Avenue, Brooklyn, NY 11214",
@@ -2963,12 +2689,12 @@
     "name": "HIGH SCHOOL OF SPORTS MANAGEMENT",
     "programs": [
     ],
-    "reducedLunch": 77.8,
-    "students": 370
+    "reducedLunch": 80.2,
+    "students": 323
   },
   {
     "address": "350 67th Street, Brooklyn, NY 11220",
-    "freeLunch": 80,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -2977,7 +2703,7 @@
     "programs": [
       "SEP"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 80.2,
     "students": 1313
   },
   {
@@ -2990,8 +2716,8 @@
     "name": "HIGH SCHOOL OF WORLD CULTURES",
     "programs": [
     ],
-    "reducedLunch": 91.6,
-    "students": 369
+    "reducedLunch": 95.6,
+    "students": 388
   },
   {
     "address": "160-05 HIGHLAND AVENUE, Queens NY 11432",
@@ -3002,24 +2728,10 @@
     ],
     "name": "HILLCREST HIGH SCHOOL",
     "programs": [
-      "CTE",
       "ECS"
     ],
-    "reducedLunch": 79.3,
-    "students": 3084
-  },
-  {
-    "address": "167 01 GOTHIC DR, JAMAICA NY 11220",
-    "freeLunch": null,
-    "grades": [
-      9,
-      11
-    ],
-    "name": "HILLSIDE ARTS AND LETTERS ACADEMY",
-    "programs": [
-    ],
-    "reducedLunch": 76,
-    "students": 329
+    "reducedLunch": 79.5,
+    "students": 3231
   },
   {
     "address": "965 Longwood, Bronx NY",
@@ -3028,11 +2740,11 @@
       9,
       12
     ],
-    "name": "HOLCOMBE L RUCKER SCHOOL OF COMMUNITY RESEARCH",
+    "name": "HOLCOMBE L. RUCKER SCHOOL OF COMMUNITY RESEARCH",
     "programs": [
     ],
-    "reducedLunch": 81.5,
-    "students": 330
+    "reducedLunch": 91.6,
+    "students": 261
   },
   {
     "address": "600 ST ANN'S AVE, BRONX NY 11203",
@@ -3041,66 +2753,11 @@
       6,
       12
     ],
-    "name": "HOSTOS LINCOLN ACADEMY OF SCIENCE",
-    "programs": [
-      "Club"
-    ],
-    "reducedLunch": 79,
-    "students": 527
-  },
-  {
-    "address": "11625 GUY R BREWER BLVD, JAMAICA NY 10011",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "HS FOR LAW ENFORCEMENT AND PUBLIC SAFETY",
+    "name": "HOSTOS-LINCOLN ACADEMY OF SCIENCE",
     "programs": [
     ],
-    "reducedLunch": 74,
-    "students": 547
-  },
-  {
-    "address": "600 Kingston Avenue, Brooklyn, NY 11203",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "HS FOR PUBLIC SERVICE HEROES OF TOMORROW",
-    "programs": [
-    ],
-    "reducedLunch": 81.8,
-    "students": 417
-  },
-  {
-    "address": "351 WEST 18TH ST, NEW YORK NY 10463",
-    "freeLunch": null,
-    "grades": [
-      9,
-      11
-    ],
-    "name": "HUDSON HIGH SCHOOL OF LEARNING TECHNOLOGIES",
-    "programs": [
-      "MOUSE",
-      "Club"
-    ],
-    "reducedLunch": 77,
-    "students": 352
-  },
-  {
-    "address": "351 WEST 18TH ST, NEW YORK NY 11101",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "HUMANITIES PREPARATORY ACADEMY",
-    "programs": [
-    ],
-    "reducedLunch": 73,
-    "students": 207
+    "reducedLunch": 77.3,
+    "students": 343
   },
   {
     "address": "830 Hunts Point Ave, BRONX NY 10474",
@@ -3115,22 +2772,9 @@
       "Charter"
     ],
     "reducedLunch": 94.4,
-    "students": 957
-  },
-  {
-    "address": "2975 Tibbett Ave, Bronx NY, 10463",
-    "freeLunch": null,
-    "grades": [
-      6,
-      12
-    ],
-    "name": "IN TECH ACADEMY AKA MS HS 368",
-    "programs": [
-      "CTE",
-      "MOUSE"
-    ],
-    "reducedLunch": 82.2,
-    "students": 1124
+    "students": {
+      "allGrades": 957
+    }
   },
   {
     "address": "850 10TH AVE, NEW YORK NY 11214",
@@ -3142,8 +2786,8 @@
     "name": "INDEPENDENCE HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 81,
-    "students": 388
+    "reducedLunch": 82,
+    "students": 328
   },
   {
     "address": "21-16 44th Road, Long Island City, NY 11101",
@@ -3154,14 +2798,13 @@
     ],
     "name": "INFORMATION TECHNOLOGY HIGH SCHOOL",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 79.3,
-    "students": 917
+    "reducedLunch": 81.2,
+    "students": 920
   },
   {
     "address": "145 West 84 Street, Manhattan NY 10024",
-    "freeLunch": 77,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -3169,22 +2812,34 @@
     "name": "INNOVATION DIPLOMA PLUS",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 77.1,
     "students": 192
   },
   {
     "address": "207- 01 116TH AVENUE, Queens NY 11411",
-    "freeLunch": 79,
+    "freeLunch": null,
     "grades": [
       9,
       10
     ],
     "name": "INSTITUTE FOR HEALTH PROFESSIONS AT CAMBRIA HEIGHTS",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 79.3,
     "students": 82
+  },
+  {
+    "address": "2975 Tibbett Ave, Bronx NY, 10463",
+    "freeLunch": null,
+    "grades": [
+      6,
+      12
+    ],
+    "name": "In-Tech Academy (M.S. / High School 368)",
+    "programs": [
+    ],
+    "reducedLunch": 89.1,
+    "students": 580
   },
   {
     "address": "345 Brook Avenue, Bronx, NY 10454",
@@ -3197,7 +2852,7 @@
     "programs": [
       "ECS"
     ],
-    "reducedLunch": 91.4,
+    "reducedLunch": 93.1,
     "students": 437
   },
   {
@@ -3210,8 +2865,8 @@
     "name": "INTERNATIONAL HIGH SCHOOL AT LAFAYETTE",
     "programs": [
     ],
-    "reducedLunch": 84,
-    "students": 355
+    "reducedLunch": 91,
+    "students": 345
   },
   {
     "address": "45-35 Van Dam Street, Long Island City, NY 11101",
@@ -3220,11 +2875,11 @@
       9,
       12
     ],
-    "name": "INTERNATIONAL HIGH SCHOOL AT LAGUARDIA COMMUNITY C",
+    "name": "International High School at LaGuardia Community College",
     "programs": [
     ],
-    "reducedLunch": 90.9,
-    "students": 493
+    "reducedLunch": 100,
+    "students": 503
   },
   {
     "address": "883 CLASSON AVE, BROOKLYN NY 10463",
@@ -3236,8 +2891,8 @@
     "name": "INTERNATIONAL HIGH SCHOOL AT PROSPECT HEIGHTS",
     "programs": [
     ],
-    "reducedLunch": 75,
-    "students": 411
+    "reducedLunch": 100,
+    "students": 421
   },
   {
     "address": "40 IRVING PLACE, NEW YORK NY 11432",
@@ -3248,23 +2903,21 @@
     ],
     "name": "INTERNATIONAL HIGH SCHOOL AT UNION SQUARE",
     "programs": [
-      "MOUSE"
     ],
-    "reducedLunch": 81,
-    "students": 259
+    "reducedLunch": 87.3,
+    "students": 339
   },
   {
     "address": "48-01 90 St, Queens NY 11373",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       10
     ],
     "name": "INTERNATIONAL HIGH SCHOOL FOR HEALTH SCIENCES",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 50
   },
   {
@@ -3291,8 +2944,8 @@
     "name": "INTERNATIONAL SCHOOL FOR LIBERAL ARTS",
     "programs": [
     ],
-    "reducedLunch": 75.2,
-    "students": 606
+    "reducedLunch": 97.8,
+    "students": 381
   },
   {
     "address": "5800 TILDEN AVENUE, Brooklyn NY 11203",
@@ -3304,8 +2957,8 @@
     "name": "IT TAKES A VILLAGE ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 83,
-    "students": 382
+    "reducedLunch": 83.6,
+    "students": 513
   },
   {
     "address": "120 WEST 46 STREET, Manhattan NY 10026",
@@ -3316,10 +2969,9 @@
     ],
     "name": "JACQUELINE KENNEDY ONASSIS HIGH SCHOOL",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 79.3,
-    "students": 721
+    "reducedLunch": 77.9,
+    "students": 709
   },
   {
     "address": "16701 GOTHIC DR, JAMAICA NY 10463",
@@ -3331,25 +2983,12 @@
     "name": "JAMAICA GATEWAY TO THE SCIENCES",
     "programs": [
     ],
-    "reducedLunch": 79,
-    "students": 307
-  },
-  {
-    "address": "351 WEST 18TH ST, NEW YORK NY 10457",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "JAMES BALDWIN SCHOOL A SCHOOL FOR EXPEDITIONARY LR",
-    "programs": [
-    ],
-    "reducedLunch": 74,
-    "students": 253
+    "reducedLunch": 79.8,
+    "students": 396
   },
   {
     "address": "778 FOREST AVENUE, BRONX NY 10456",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -3357,21 +2996,8 @@
     "name": "JILL CHAIFETZ TRANSFER HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 184
-  },
-  {
-    "address": "470 JACKSON AVE, BRONX NY 10455",
-    "freeLunch": 74,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "JM RAPPORT SCHOOL FOR CAREER DEVELOPMENT",
-    "programs": [
-    ],
-    "reducedLunch": null,
-    "students": 574
   },
   {
     "address": "101-01 ROCKAWAY BOULEVARD, Queens, NY 11417",
@@ -3382,25 +3008,22 @@
     ],
     "name": "JOHN ADAMS HIGH SCHOOL",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 81.6,
-    "students": 3325
+    "reducedLunch": 86.3,
+    "students": 2838
   },
   {
     "address": "50 Avenue X, Brooklyn NY 11223",
-    "freeLunch": 83,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "JOHN DEWEY HIGH SCHOOL",
     "programs": [
-      "CTE",
-      "MOUSE",
       "AP CS A"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 82.7,
     "students": 1937
   },
   {
@@ -3429,7 +3052,9 @@
       "Charter"
     ],
     "reducedLunch": 81.6,
-    "students": 383
+    "students": {
+      "allGrades": 383
+    }
   },
   {
     "address": "215 Heyward Street, Brooklyn, NY 11206",
@@ -3441,8 +3066,8 @@
     "name": "JUAN MOREL CAMPOS SECONDARY SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 97.2,
-    "students": 864
+    "reducedLunch": 100,
+    "students": 423
   },
   {
     "address": "326 SCHERMERHORN ST, BROOKLYN NY 11214",
@@ -3454,24 +3079,8 @@
     "name": "KHALIL GIBRAN INTERNATIONAL ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 88,
-    "students": 89
-  },
-  {
-    "address": "1485 Pacific Street, Brooklyn 11216, BROOKLYN NY 11216",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "Kings Collegiate Charter School",
-    "programs": [
-      "Charter"
-    ],
-    "reducedLunch": 80,
-    "students": {
-      "allGrades": 415
-    }
+    "reducedLunch": 100,
+    "students": 96
   },
   {
     "address": "2630 BENSON AVE, BROOKLYN NY 10006",
@@ -3483,8 +3092,8 @@
     "name": "KINGSBOROUGH EARLY COLLEGE SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 77,
-    "students": 545
+    "reducedLunch": 74.6,
+    "students": 330
   },
   {
     "address": "2780 Reservoir Avenue, Bronx, NY 10468",
@@ -3496,8 +3105,8 @@
     "name": "KINGSBRIDGE INTERNATIONAL HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 89.5,
-    "students": 497
+    "reducedLunch": 97.1,
+    "students": 443
   },
   {
     "address": "201 East 144th Street, Bronx, NY 10451",
@@ -3521,11 +3130,11 @@
       9,
       12
     ],
-    "name": "KNOWLEDGE AND POWER PREP ACADEMY INTERNATIONAL HIG",
+    "name": "Knowledge and Power Preparatory Academy International High School (Kappa)",
     "programs": [
     ],
-    "reducedLunch": 90.7,
-    "students": 322
+    "reducedLunch": 88.9,
+    "students": 467
   },
   {
     "address": "5800 TILDEN AVE, BROOKLYN NY 10002",
@@ -3537,8 +3146,8 @@
     "name": "KURT HAHN EXPEDITIONARY LEARNING SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 80,
-    "students": 281
+    "reducedLunch": 83.3,
+    "students": 288
   },
   {
     "address": "351 West 18th Street, New York, NY 10011",
@@ -3550,21 +3159,8 @@
     "name": "LANDMARK HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 81.6,
-    "students": 413
-  },
-  {
-    "address": "925 Astor Avenue, Bronx, NY 10469",
-    "freeLunch": 97,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "Language and Innovation",
-    "programs": [
-    ],
-    "reducedLunch": null,
-    "students": 255
+    "reducedLunch": 88.1,
+    "students": 396
   },
   {
     "address": "90 Trinity Place, New York, NY 10006",
@@ -3576,8 +3172,8 @@
     "name": "LEADERSHIP AND PUBLIC SERVICE HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 80.1,
-    "students": 608
+    "reducedLunch": 76.8,
+    "students": 685
   },
   {
     "address": "1701 FULTON AVENUE, Bronx NY 10457",
@@ -3589,24 +3185,8 @@
     "name": "LEADERSHIP INSTITUTE",
     "programs": [
     ],
-    "reducedLunch": 84.2,
-    "students": 228
-  },
-  {
-    "address": "6565 Flatlands Avenue, Brooklyn 11236, BROOKLYN NY 11236",
-    "freeLunch": null,
-    "grades": [
-      9,
-      9
-    ],
-    "name": "Leadership Prep Bedford Stuyvesant Charter School",
-    "programs": [
-      "Charter"
-    ],
-    "reducedLunch": 79,
-    "students": {
-      "allGrades": 620
-    }
+    "reducedLunch": 95.2,
+    "students": 227
   },
   {
     "address": "2865 WEST 19TH ST, BROOKLYN NY 10023",
@@ -3618,8 +3198,8 @@
     "name": "LIBERATION DIPLOMA PLUS",
     "programs": [
     ],
-    "reducedLunch": 76,
-    "students": 188
+    "reducedLunch": 80.1,
+    "students": 196
   },
   {
     "address": "250 WEST 18TH ST, NEW YORK NY 11101",
@@ -3631,8 +3211,8 @@
     "name": "LIBERTY HIGH SCHOOL ACADEMY FOR NEWCOMERS",
     "programs": [
     ],
-    "reducedLunch": 97,
-    "students": 382
+    "reducedLunch": 100,
+    "students": 339
   },
   {
     "address": "2630 Benson Avenue, Brooklyn, NY 11214",
@@ -3643,10 +3223,9 @@
     ],
     "name": "LIFE ACADEMY HIGH SCHOOL FOR FILM AND MUSIC",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 75.5,
-    "students": 249
+    "reducedLunch": 88.1,
+    "students": 260
   },
   {
     "address": "320 E 96th St, New York, NY 10128",
@@ -3657,39 +3236,36 @@
     ],
     "name": "LIFE SCIENCES SECONDARY SCHOOL",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 76,
-    "students": 717
+    "reducedLunch": 75,
+    "students": 658
   },
   {
     "address": "14-30 Broadway, Queens NY 11106",
-    "freeLunch": 76,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "LONG ISLAND CITY HIGH SCHOOL",
     "programs": [
-      "CTE",
       "AP CS A"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 76.4,
     "students": 2522
   },
   {
     "address": "145 STANTON STREET, Manhattan NY 10002",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       10,
       12
     ],
     "name": "LOWER EAST SIDE PREPARATORY HIGH SCHOOL",
     "programs": [
-      "MOUSE",
       "ECS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 551
   },
   {
@@ -3702,8 +3278,8 @@
     "name": "LOWER MANHATTAN ARTS ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 87,
-    "students": 349
+    "reducedLunch": 100,
+    "students": 362
   },
   {
     "address": "223 Graham Avenue, Brooklyn, NY 11206",
@@ -3715,21 +3291,20 @@
     "name": "LYONS COMMUNITY SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 82.2,
-    "students": 527
+    "reducedLunch": 85.5,
+    "students": 322
   },
   {
     "address": "111 EAST 33RD STREET, Manhattan NY 10016",
-    "freeLunch": 89,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "MANHATTAN ACADEMY FOR ARTS & LANGUAGE",
     "programs": [
-      "MOUSE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 89.1,
     "students": 312
   },
   {
@@ -3741,24 +3316,21 @@
     ],
     "name": "MANHATTAN BRIDGES HIGH SCHOOL",
     "programs": [
-      "CTE",
-      "MOUSE"
     ],
-    "reducedLunch": 95,
-    "students": 541
+    "reducedLunch": 100,
+    "students": 552
   },
   {
     "address": "351 West 18th Street, New York, NY 10011",
-    "freeLunch": 82,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "MANHATTAN BUSINESS ACADEMY",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 81.9,
     "students": 426
   },
   {
@@ -3768,12 +3340,12 @@
       9,
       12
     ],
-    "name": "MANHATTAN CENTER FOR SCIENCE AND MATH",
+    "name": "MANHATTAN CENTER FOR SCIENCE AND MATHEMATICS",
     "programs": [
       "AP CS A"
     ],
-    "reducedLunch": 80.7,
-    "students": 1645
+    "reducedLunch": 81.9,
+    "students": 1588
   },
   {
     "address": "240 2ND AVE, NEW YORK NY 10472",
@@ -3785,12 +3357,12 @@
     "name": "MANHATTAN COMPREHENSIVE NIGHT AND DAY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 100,
-    "students": 698
+    "reducedLunch": 88.9,
+    "students": 768
   },
   {
     "address": "317,E 67th St,New York,NY,10065-6051",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -3799,7 +3371,7 @@
     "programs": [
       "ScriptEd"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 331
   },
   {
@@ -3812,8 +3384,8 @@
     "name": "MANHATTAN THEATRE LAB HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 81,
-    "students": 236
+    "reducedLunch": 79.1,
+    "students": 129
   },
   {
     "address": "43 WEST 22ND ST, NEW YORK NY 10016",
@@ -3825,7 +3397,7 @@
     "name": "MANHATTAN VILLAGE ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 74,
+    "reducedLunch": 74.9,
     "students": 414
   },
   {
@@ -3835,24 +3407,11 @@
       9,
       12
     ],
-    "name": "MARBLE HILL HIGH SCHOOL OF INTERNATIONAL STUDIES",
+    "name": "MARBLE HILL HIGH SCHOOL FOR INTERNATIONAL STUDIES",
     "programs": [
     ],
-    "reducedLunch": 82.6,
-    "students": 455
-  },
-  {
-    "address": "120 WEST 231ST ST, BRONX NY 11217",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "MARIE CURIE HIGH SCH NURSING, MEDICINE AND APPLIED",
-    "programs": [
-    ],
-    "reducedLunch": 95,
-    "students": 564
+    "reducedLunch": 92.4,
+    "students": 447
   },
   {
     "address": "145 STANTON STREET, Manhattan NY 10002",
@@ -3864,8 +3423,8 @@
     "name": "MARTA VALLE HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 87.9,
-    "students": 365
+    "reducedLunch": 83.5,
+    "students": 401
   },
   {
     "address": "231 Palmetto Street, Brooklyn 11221, BROOKLYN NY 11221",
@@ -3883,7 +3442,7 @@
   },
   {
     "address": "207-01 116th St, Queens NY 11411",
-    "freeLunch": 82,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -3891,23 +3450,8 @@
     "name": "Mathematics, Science Research and Technology Magnet High School",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 81.7,
     "students": 416
-  },
-  {
-    "address": "1186 Carroll St, Brooklyn NY 11225",
-    "freeLunch": 73,
-    "grades": [
-      6,
-      12
-    ],
-    "name": "MEDGAR EVANS COLLEGE PREPARATORY SCHOOL",
-    "programs": [
-    ],
-    "reducedLunch": null,
-    "students": {
-      "allGrades": 1248
-    }
   },
   {
     "address": "985 Rockaway Avenue, Brooklyn, NY 11212",
@@ -3919,8 +3463,8 @@
     "name": "METROPOLITAN DIPLOMA PLUS HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 86.1,
-    "students": 180
+    "reducedLunch": 85.6,
+    "students": 188
   },
   {
     "address": "1180 Rev James A Polite Avenue, Bronx, NY 10459",
@@ -3932,21 +3476,8 @@
     "name": "METROPOLITAN HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 93.5,
-    "students": 339
-  },
-  {
-    "address": "1300 BOYTON AVE, BRONX NY 10002",
-    "freeLunch": null,
-    "grades": [
-      9,
-      10
-    ],
-    "name": "METROPOLITAN SOUNDVIEW HIGH (THE)",
-    "programs": [
-    ],
-    "reducedLunch": 90,
-    "students": 213
+    "reducedLunch": 88.8,
+    "students": 313
   },
   {
     "address": "4535 VAN DAM ST, LONG ISLAND CITY NY 10451",
@@ -3955,11 +3486,11 @@
       9,
       12
     ],
-    "name": "MIDDLE COLLEGE HIGH SCHOOL AT LAGUARDIA COMMUNITY",
+    "name": "Middle College High School at LaGuardia Community College",
     "programs": [
     ],
-    "reducedLunch": 82,
-    "students": 490
+    "reducedLunch": 100,
+    "students": 495
   },
   {
     "address": "1980 LAFAYETTE AVE, BRONX NY 10456",
@@ -3968,11 +3499,11 @@
       9,
       12
     ],
-    "name": "MILLENIUM ART ACADEMY",
+    "name": "MILLENNIUM ART ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 76,
-    "students": 493
+    "reducedLunch": 100,
+    "students": 496
   },
   {
     "address": "1300 BOYNTON AVE, BRONX NY 11101",
@@ -3984,8 +3515,8 @@
     "name": "MONROE ACADEMY FOR VISUAL ARTS AND DESIGN",
     "programs": [
     ],
-    "reducedLunch": 96,
-    "students": 461
+    "reducedLunch": 88.5,
+    "students": 460
   },
   {
     "address": "1100 Boston Road, Bronx, NY 10456",
@@ -3997,8 +3528,8 @@
     "name": "MORRIS ACADEMY FOR COLLABORATIVE STUDIES",
     "programs": [
     ],
-    "reducedLunch": 99.3,
-    "students": 445
+    "reducedLunch": 91.2,
+    "students": 464
   },
   {
     "address": "1595 Bathgate Avenue, Bronx, NY 10457",
@@ -4010,8 +3541,8 @@
     "name": "MOTT HALL BRONX HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 79,
-    "students": 348
+    "reducedLunch": 88.9,
+    "students": 379
   },
   {
     "address": "6 EDGECOMBE AVENUE, Manhattan NY 10030",
@@ -4023,8 +3554,8 @@
     "name": "MOTT HALL HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 89,
-    "students": 426
+    "reducedLunch": 89.2,
+    "students": 425
   },
   {
     "address": "1551 EAST 172ND ST, BRONX NY 10026",
@@ -4036,12 +3567,12 @@
     "name": "MOTT HALL V",
     "programs": [
     ],
-    "reducedLunch": 90,
-    "students": 565
+    "reducedLunch": 86.6,
+    "students": 348
   },
   {
     "address": "455 SOUTHERN BLVD, BRONX NY 10455",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       11
@@ -4049,7 +3580,7 @@
     "name": "MOTT HAVEN COMMUNITY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 202
   },
   {
@@ -4059,11 +3590,11 @@
       9,
       12
     ],
-    "name": "MOTT HAVEN VILLAGE PREP HIGH SCHOOL",
+    "name": "Mott Haven Village Preparatory High School",
     "programs": [
     ],
-    "reducedLunch": 84.8,
-    "students": 362
+    "reducedLunch": 94.5,
+    "students": 344
   },
   {
     "address": "999 Jamaica Avenue, Brooklyn, NY 11208",
@@ -4076,22 +3607,21 @@
     "programs": [
       "ECS"
     ],
-    "reducedLunch": 84.7,
-    "students": 405
+    "reducedLunch": 94.1,
+    "students": 322
   },
   {
     "address": "111 EAST 33RD STREET, Manhattan NY 10016",
-    "freeLunch": 79,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "MURRAY HILL ACADEMY",
     "programs": [
-      "MOUSE",
       "ECS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 78.7,
     "students": 305
   },
   {
@@ -4118,8 +3648,8 @@
     "name": "NEW DESIGN HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 86.7,
-    "students": 422
+    "reducedLunch": 100,
+    "students": 439
   },
   {
     "address": "730 CONCOURSE VILLAGE WEST, Bronx NY 10451",
@@ -4131,8 +3661,8 @@
     "name": "NEW EXPLORERS HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 86.8,
-    "students": 385
+    "reducedLunch": 93.3,
+    "students": 463
   },
   {
     "address": "1818 Amsterdam Avenue, Manhattan 10031, Manhattan NY 10031",
@@ -4152,7 +3682,7 @@
   },
   {
     "address": "1601 80 STREET, Brooklyn NY 11214",
-    "freeLunch": 74,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -4160,7 +3690,7 @@
     "name": "NEW UTRECHT HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 74.2,
     "students": 3362
   },
   {
@@ -4258,12 +3788,12 @@
     "name": "NEW WORLD HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 93.3,
-    "students": 402
+    "reducedLunch": 97.8,
+    "students": 401
   },
   {
     "address": "333 WEST 17 STREET, MANHATTAN NY 10011",
-    "freeLunch": 75,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -4271,7 +3801,7 @@
     "name": "NEW YORK CITY MUSEUM SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 74.7,
     "students": 462
   },
   {
@@ -4284,8 +3814,8 @@
     "name": "NEWCOMERS HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 85.4,
-    "students": 925
+    "reducedLunch": 91.2,
+    "students": 929
   },
   {
     "address": "424 Leonard Street, Brooklyn 11222, BROOKLYN NY 11222",
@@ -4325,12 +3855,12 @@
     "name": "OLYMPUS ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 75.4,
-    "students": 203
+    "reducedLunch": 75,
+    "students": 192
   },
   {
     "address": "3000 Avenue X, Brooklyn 11235, BROOKLYN NY 11235",
-    "freeLunch": 84,
+    "freeLunch": null,
     "grades": [
       9,
       10
@@ -4338,7 +3868,7 @@
     "name": "ORIGINS HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 83.5,
     "students": 85
   },
   {
@@ -4348,11 +3878,11 @@
       9,
       12
     ],
-    "name": "PABLO NERUDA ACADEMY FOR ARCHITECTURE AND WORLD ST",
+    "name": "Pablo Neruda Academy for Architecture and World Studies",
     "programs": [
     ],
-    "reducedLunch": 77.9,
-    "students": 349
+    "reducedLunch": 100,
+    "students": 335
   },
   {
     "address": "100 HESTER ST, NEW YORK NY 11412",
@@ -4363,10 +3893,9 @@
     ],
     "name": "PACE HIGH SCHOOL",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 73,
-    "students": 425
+    "reducedLunch": 80.3,
+    "students": 421
   },
   {
     "address": "45-10 94th Street, Elmhurst, NY 11373",
@@ -4378,8 +3907,8 @@
     "name": "PAN AMERICAN INTERNATIONAL HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 86.9,
-    "students": 366
+    "reducedLunch": 90.5,
+    "students": 367
   },
   {
     "address": "1300 Boynton Avenue, Bronx, NY 10472",
@@ -4391,8 +3920,8 @@
     "name": "PAN AMERICAN INTERNATIONAL HIGH SCHOOL AT MONROE",
     "programs": [
     ],
-    "reducedLunch": 95.5,
-    "students": 404
+    "reducedLunch": 97.5,
+    "students": 401
   },
   {
     "address": "23034 EAST 105TH ST, NEW YORK NY 10459",
@@ -4404,8 +3933,8 @@
     "name": "PARK EAST HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 88,
-    "students": 387
+    "reducedLunch": 89.2,
+    "students": 409
   },
   {
     "address": "237 7th Avenue, Brooklyn, NY 11215",
@@ -4417,8 +3946,8 @@
     "name": "PARK SLOPE COLLEGIATE",
     "programs": [
     ],
-    "reducedLunch": 82.5,
-    "students": 394
+    "reducedLunch": 77.8,
+    "students": 285
   },
   {
     "address": "10989 204TH ST, SAINT ALBANS NY 10469",
@@ -4427,26 +3956,24 @@
       6,
       12
     ],
-    "name": "PATHWAYS COLLEGE PREPARATORY SCHOOL:  A COLLEGE BO",
+    "name": "Pathways College Preparatory School: A College Board School",
     "programs": [
       "SEP"
     ],
-    "reducedLunch": 73,
-    "students": 564
+    "reducedLunch": 74.4,
+    "students": 348
   },
   {
     "address": "150 Albany Avenue, Brooklyn, NY 11213",
-    "freeLunch": 76,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Pathways in Technology Early College High School (P-Tech)",
     "programs": [
-      "CTE",
-      "SEP"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 76.4,
     "students": 330
   },
   {
@@ -4459,12 +3986,12 @@
     "name": "PEACE AND DIVERSITY ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 84.3,
-    "students": 223
+    "reducedLunch": 91,
+    "students": 189
   },
   {
     "address": "3000 East Tremont Avenue, Bronx NY 10461",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       10
@@ -4472,21 +3999,8 @@
     "name": "PELHAM LAB HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 95
-  },
-  {
-    "address": "925 ASTOR AVE, BRONX NY 10455",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "PELHAM PREPARATORY ACADEMY",
-    "programs": [
-    ],
-    "reducedLunch": 73,
-    "students": 501
   },
   {
     "address": "400 PENNSYLVANIA AVE, BROOKLYN NY 11432",
@@ -4498,25 +4012,12 @@
     "name": "PERFORMING ARTS AND TECHNOLOGY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 99,
-    "students": 440
-  },
-  {
-    "address": "143 10 SPRINGFIELD BLVD, SPRINGFIELD GARDENS NY 11432",
-    "freeLunch": null,
-    "grades": [
-      6,
-      12
-    ],
-    "name": "PREPARATORY ACADEMY FOR WRITERS:  A COLLEGE BOARD",
-    "programs": [
-    ],
-    "reducedLunch": 73,
-    "students": 479
+    "reducedLunch": 92.1,
+    "students": 428
   },
   {
     "address": "3000 Avenue X, Brooklyn 11235, BROOKLYN NY 11235",
-    "freeLunch": 85,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -4524,7 +4025,7 @@
     "name": "PROFESSIONAL PATHWAYS HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 84.8,
     "students": 105
   },
   {
@@ -4537,8 +4038,8 @@
     "name": "PROGRESS HIGH SCHOOL FOR PROFESSIONAL CAREERS",
     "programs": [
     ],
-    "reducedLunch": 81.7,
-    "students": 1067
+    "reducedLunch": 87.3,
+    "students": 1083
   },
   {
     "address": "560 EAST 179TH ST, BRONX NY 10461",
@@ -4547,89 +4048,11 @@
       9,
       12
     ],
-    "name": "PROVIDING URBAN LEARNERS SUCCESS IN EDUCATION HIGH",
+    "name": "Providing Urban Learners Success In Education High School",
     "programs": [
     ],
-    "reducedLunch": 85,
-    "students": 208
-  },
-  {
-    "address": "144176 EAST 128TH ST, NEW YORK NY 10029",
-    "freeLunch": null,
-    "grades": [
-      0,
-      12
-    ],
-    "name": "PS 138",
-    "programs": [
-    ],
-    "reducedLunch": 93,
-    "students": 526
-  },
-  {
-    "address": "70 TOMPKINS AVE, BROOKLYN NY 10459",
-    "freeLunch": null,
-    "grades": [
-      0,
-      12
-    ],
-    "name": "PS 368",
-    "programs": [
-    ],
-    "reducedLunch": 88,
-    "students": 268
-  },
-  {
-    "address": "383 STATE ST, BROOKLYN NY 11366",
-    "freeLunch": null,
-    "grades": [
-      0,
-      12
-    ],
-    "name": "PS 369 COY L COX SCHOOL",
-    "programs": [
-    ],
-    "reducedLunch": 82,
-    "students": 628
-  },
-  {
-    "address": "3540 BIVONA ST, BRONX NY 11417",
-    "freeLunch": null,
-    "grades": [
-      0,
-      12
-    ],
-    "name": "PS 723",
-    "programs": [
-    ],
-    "reducedLunch": 93,
-    "students": 511
-  },
-  {
-    "address": "1075 OCEANVIEW AVE, BROOKLYN NY 11694",
-    "freeLunch": null,
-    "grades": [
-      0,
-      12
-    ],
-    "name": "PS 771",
-    "programs": [
-    ],
-    "reducedLunch": 78,
-    "students": 369
-  },
-  {
-    "address": "6125 MARATHON PKY, LITTLE NECK NY 11694",
-    "freeLunch": null,
-    "grades": [
-      0,
-      12
-    ],
-    "name": "PS 811",
-    "programs": [
-    ],
-    "reducedLunch": 86,
-    "students": 347
+    "reducedLunch": 86.3,
+    "students": 227
   },
   {
     "address": "13811 35TH AVE, FLUSHING NY 10455",
@@ -4641,8 +4064,8 @@
     "name": "QUEENS ACADEMY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 84,
-    "students": 376
+    "reducedLunch": 73.2,
+    "students": 362
   },
   {
     "address": "167-01 GOTHIC DRIVE; Jamaica, NY 11432",
@@ -4651,11 +4074,11 @@
       6,
       12
     ],
-    "name": "QUEENS COLLEGIATE   A COLLEGE BOARD SCHOOL",
+    "name": "QUEENS COLLEGIATE: A COLLEGE BOARD SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 81.6,
-    "students": 522
+    "reducedLunch": 86.9,
+    "students": 397
   },
   {
     "address": "16020 GOETHALS AVE, JAMAICA NY 10456",
@@ -4667,36 +4090,34 @@
     "name": "QUEENS GATEWAY TO HEALTH SCIENCES SECONDARY SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 73,
-    "students": 821
+    "reducedLunch": 73.9,
+    "students": 502
   },
   {
     "address": "8-21 Bay 25th Street, Far Rockaway, NY 11691",
-    "freeLunch": 80,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Queens High School for Information, Research & Technology (QIRT)",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
-    "students": 394
+    "reducedLunch": 80.1,
+    "students": 322
   },
   {
     "address": "35-01 UNION STREET, Queens, NY 11354",
-    "freeLunch": 93,
+    "freeLunch": null,
     "grades": [
       9,
       10
     ],
     "name": "Queens High School of Language Studies",
     "programs": [
-      "ECS",
-      "Club"
+      "ECS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 92.9,
     "students": 70
   },
   {
@@ -4709,22 +4130,22 @@
     "name": "QUEENS SATELLITE HIGH SCHOOL FOR OPPORTUNITY",
     "programs": [
     ],
-    "reducedLunch": 89.4,
-    "students": 245
+    "reducedLunch": 83.1,
+    "students": 254
   },
   {
     "address": "37-02 47th Avenue, Long Island City, NY 11101",
-    "freeLunch": 85,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
-    "name": "Queens Vocational Technical High School",
+    "name": "Queens Vocational and Technical High School",
     "programs": [
       "ScriptEd",
       "SEP"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 84.7,
     "students": 1514
   },
   {
@@ -4737,8 +4158,8 @@
     "name": "RACHEL CARSON HIGH SCHOOL FOR COASTAL STUDIES",
     "programs": [
     ],
-    "reducedLunch": 79,
-    "students": 508
+    "reducedLunch": 100,
+    "students": 517
   },
   {
     "address": "35-59 81st Street, Queens 11372, Queens NY 11372",
@@ -4778,11 +4199,11 @@
       9,
       12
     ],
-    "name": "RENAISSANCE HIGH SCHOOL FOR MUSICAL THEATER AND TE",
+    "name": "Renaissance High School for Musical Theater & Technology",
     "programs": [
     ],
-    "reducedLunch": 81,
-    "students": 456
+    "reducedLunch": 100,
+    "students": 454
   },
   {
     "address": "123 WEST 43RD ST, NEW YORK NY 11215",
@@ -4794,12 +4215,12 @@
     "name": "REPERTORY COMPANY HIGH SCHOOL FOR THEATRE ARTS",
     "programs": [
     ],
-    "reducedLunch": 76,
-    "students": 223
+    "reducedLunch": 76.3,
+    "students": 236
   },
   {
     "address": "1700 Fulton Street, Brooklyn, NY 11213",
-    "freeLunch": 86,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -4807,36 +4228,34 @@
     "name": "RESEARCH AND SERVICE HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 85.7,
     "students": 140
   },
   {
     "address": "7 Beaver Street, New York, NY 10004",
-    "freeLunch": 85,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
-    "name": "Richard R Green High School for Teaching",
+    "name": "Richard R. Green High School for Teaching",
     "programs": [
       "ScriptEd"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 84.5,
     "students": 593
   },
   {
     "address": "89-30 114th Street, Richmond Hill, NY 11418",
-    "freeLunch": 82,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Richmond Hill High School",
     "programs": [
-      "CTE",
-      "Club"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 82,
     "students": 2225
   },
   {
@@ -4868,30 +4287,17 @@
     "students": 172
   },
   {
-    "address": "16-66 Hancock St, Ridgewood NY 11385",
-    "freeLunch": 73,
-    "grades": [
-      0,
-      12
-    ],
-    "name": "ROBERT E. PEARY SCHOOL",
-    "programs": [
-    ],
-    "reducedLunch": null,
-    "students": 430
-  },
-  {
     "address": "7540 PARSONS BLVD, FLUSHING NY 11231",
     "freeLunch": null,
     "grades": [
       9,
       12
     ],
-    "name": "ROBERT F KENNEDY COMMUNITY HIGH SCHOOL",
+    "name": "ROBERT F. KENNEDY COMMUNITY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 75,
-    "students": 693
+    "reducedLunch": 81.5,
+    "students": 685
   },
   {
     "address": "4707 30TH PLACE, LONG ISLAND CITY NY 11212",
@@ -4900,12 +4306,11 @@
       7,
       12
     ],
-    "name": "ROBERT F WAGNER JR SECONDARY SCHOOL ARTS AND TECHN",
+    "name": "ROBERT F. WAGNER JR SECONDARY SCHOOL ARTS AND TECHN",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 78,
-    "students": 608
+    "reducedLunch": 78.1,
+    "students": 521
   },
   {
     "address": "13830 LAFAYETTE ST, OZONE PARK NY 10463",
@@ -4914,12 +4319,11 @@
       9,
       12
     ],
-    "name": "ROBERT H GODDARD HIGH SCHOOL FOR COMM ARTS 7 AND T",
+    "name": "Robert H. Goddard High School of Communication Arts and Technology",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 76,
-    "students": 596
+    "reducedLunch": 80.9,
+    "students": 598
   },
   {
     "address": "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 11208",
@@ -4931,8 +4335,8 @@
     "name": "ROCKAWAY COLLEGIATE HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 83,
-    "students": 217
+    "reducedLunch": 100,
+    "students": 312
   },
   {
     "address": "10000 BEACH CHANNEL DR, ROCKAWAY PARK NY 10457",
@@ -4941,11 +4345,11 @@
       9,
       11
     ],
-    "name": "ROCKAWAY PARK HIGH SCHOOL FOR ENVIRONMENTAL SUSTAI",
+    "name": "Rockaway Park High School for Environmental Sustainability",
     "programs": [
     ],
-    "reducedLunch": 79,
-    "students": 281
+    "reducedLunch": 100,
+    "students": 354
   },
   {
     "address": "120 WEST 30TH ST, NEW YORK NY 10455",
@@ -4957,22 +4361,8 @@
     "name": "SATELLITE ACADEMY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 84,
-    "students": 244
-  },
-  {
-    "address": "370 Fountain Avenue, Brooklyn, NY 11208",
-    "freeLunch": 86,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "School for Classics",
-    "programs": [
-      "Bootstrap"
-    ],
-    "reducedLunch": null,
-    "students": 309
+    "reducedLunch": 87.5,
+    "students": 255
   },
   {
     "address": "600 Kingston Avenue, Brooklyn, NY 11203",
@@ -4984,8 +4374,8 @@
     "name": "SCHOOL FOR DEMOCRACY AND LEADERSHIP",
     "programs": [
     ],
-    "reducedLunch": 75,
-    "students": 404
+    "reducedLunch": 85.8,
+    "students": 267
   },
   {
     "address": "1110 BOSTON ROAD, BRONX, NY 10456",
@@ -4997,8 +4387,8 @@
     "name": "SCHOOL FOR EXCELLENCE",
     "programs": [
     ],
-    "reducedLunch": 99.2,
-    "students": 386
+    "reducedLunch": 90.4,
+    "students": 396
   },
   {
     "address": "600 Kingston Ave, Brooklyn, NY 11203",
@@ -5010,25 +4400,23 @@
     "name": "SCHOOL FOR HUMAN RIGHTS",
     "programs": [
       "TEALS",
-      "ECS",
-      "Club"
+      "ECS"
     ],
-    "reducedLunch": 84.2,
-    "students": 386
+    "reducedLunch": 87.3,
+    "students": 277
   },
   {
     "address": "284 Baltic Street, Brooklyn, NY 11201",
-    "freeLunch": 76,
+    "freeLunch": null,
     "grades": [
       6,
       12
     ],
     "name": "School for International Studies",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
-    "students": 479
+    "reducedLunch": 76.2,
+    "students": 354
   },
   {
     "address": "850 Grand Street, Brooklyn, NY 11211",
@@ -5039,11 +4427,10 @@
     ],
     "name": "SCHOOL FOR LEGAL STUDIES",
     "programs": [
-      "CTE",
       "ECS"
     ],
-    "reducedLunch": 84.2,
-    "students": 753
+    "reducedLunch": 87.1,
+    "students": 641
   },
   {
     "address": "900 TINTON AVE, BRONX NY 11236",
@@ -5054,40 +4441,37 @@
     ],
     "name": "SCHOOL FOR TOURISM AND HOSPITALITY",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 94,
-    "students": 87
+    "reducedLunch": 91.3,
+    "students": 161
   },
   {
     "address": "3000 East Tremont Avenue, Bronx NY 10461",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       10
     ],
     "name": "SCHUYLERVILLE PREPARATORY HIGH SCHOOL",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 95
   },
   {
     "address": "49 FLATBUSH AVENUE EXTENSION Brooklyn NY 11201",
-    "freeLunch": 75,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Science Skills Center High School for Science, Technology and the Creative Arts",
     "programs": [
-      "CTE",
       "TEALS",
       "ECS",
       "AP CS A"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 75,
     "students": 537
   },
   {
@@ -5097,39 +4481,37 @@
       6,
       12
     ],
-    "name": "SCIENCE, TECH AND RESEARCH HIGH SCHOOL AT ERASMUS",
+    "name": "Science, Technology and Research Early College High School at Erasmus",
     "programs": [
-      "CTE",
-      "Club"
     ],
-    "reducedLunch": 98.5,
-    "students": 520
+    "reducedLunch": 80.8,
+    "students": 333
   },
   {
     "address": "237 7th Ave, Brooklyn, NY 11215",
     "freeLunch": null,
     "grades": [
-      7,
+      9,
       12
     ],
     "name": "SECONDARY SCHOOL FOR JOURNALISM",
     "programs": [
     ],
-    "reducedLunch": 78.9,
-    "students": 337
+    "reducedLunch": 88.2,
+    "students": 270
   },
   {
     "address": "237 7 AVENUE, Brooklyn, NY 11215",
     "freeLunch": null,
     "grades": [
-      7,
+      9,
       12
     ],
     "name": "SECONDARY SCHOOL FOR LAW",
     "programs": [
     ],
-    "reducedLunch": 81.6,
-    "students": 473
+    "reducedLunch": 83,
+    "students": 388
   },
   {
     "address": "360 EAST 145 STREET, Bronx NY 10454",
@@ -5138,11 +4520,11 @@
       6,
       12
     ],
-    "name": "SOUTH BRONX PREPARATORY   A COLLEGE BOARD SCHOOL",
+    "name": "SOUTH BRONX PREPARATORY: A COLLEGE BOARD SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 81.5,
-    "students": 621
+    "reducedLunch": 95.8,
+    "students": 351
   },
   {
     "address": "173 Conover Street, Brooklyn, NY 11231",
@@ -5154,21 +4536,20 @@
     "name": "SOUTH BROOKLYN COMMUNITY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 79.5,
-    "students": 146
+    "reducedLunch": 83.4,
+    "students": 163
   },
   {
     "address": "439 WEST 49TH STREET, Manhattan, NY 10019",
-    "freeLunch": 84,
+    "freeLunch": null,
     "grades": [
       9,
       10
     ],
     "name": "Stephen Mather  for Building Arts and Craftsmanship High School",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 83.5,
     "students": 85
   },
   {
@@ -5181,8 +4562,8 @@
     "name": "SUNSET PARK HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 81,
-    "students": 1286
+    "reducedLunch": 82.4,
+    "students": 1309
   },
   {
     "address": " 226 Bristol Street, Brooklyn, NY 11212",
@@ -5191,38 +4572,24 @@
       6,
       12
     ],
-    "name": "TEACHERS PREPERATORY HIGH SCHOOL",
+    "name": "TEACHERS PREPARATORY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 86.7,
-    "students": 565
-  },
-  {
-    "address": "921 EAST 228TH ST, BRONX NY 10024",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "THE BRONXWOOD PREPARATORY ACADEMY",
-    "programs": [
-    ],
-    "reducedLunch": 74,
-    "students": 416
+    "reducedLunch": 78.6,
+    "students": 366
   },
   {
     "address": "125 Stuyvesant Avenue, Brooklyn, NY 11221",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       6,
       12
     ],
-    "name": "The Brooklyn Academy for Global Finance",
+    "name": "The Brooklyn Academy of Global Finance",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
-    "students": 148
+    "reducedLunch": 100,
+    "students": 53
   },
   {
     "address": "2780 Reservoir Avenue, Bronx, NY 10468",
@@ -5234,8 +4601,8 @@
     "name": "THE CELIA CRUZ BRONX HIGH SCHOOL OF MUSIC",
     "programs": [
     ],
-    "reducedLunch": 78,
-    "students": 422
+    "reducedLunch": 83.7,
+    "students": 436
   },
   {
     "address": "1551 EAST 172ND ST, BRONX NY 11201",
@@ -5246,14 +4613,13 @@
     ],
     "name": "THE CINEMA SCHOOL",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 78,
-    "students": 304
+    "reducedLunch": 79.2,
+    "students": 318
   },
   {
     "address": "549 AUDUBON AVENUE, Manhattan NY 10040",
-    "freeLunch": 93,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -5261,7 +4627,7 @@
     "name": "THE COLLEGE ACADEMY",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 93.4,
     "students": 546
   },
   {
@@ -5288,37 +4654,60 @@
     "name": "THE GLOBAL LEARNING COLLABORATIVE",
     "programs": [
     ],
-    "reducedLunch": 90,
-    "students": 421
+    "reducedLunch": 89.6,
+    "students": 480
   },
   {
     "address": "850 Grand Street, Brooklyn, NY 11211",
-    "freeLunch": 81,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "The HIGH SCHOOL FOR ENTERPRISE, BUSINESS AND TECHNOLOGY",
     "programs": [
-      "CTE",
-      "MOUSE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 81.2,
     "students": 1016
   },
   {
     "address": "225 West 25th St, Manhattan NY 10011",
-    "freeLunch": 82,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "The High School of Fashion Industries",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 81.6,
     "students": 1732
+  },
+  {
+    "address": "120 WEST 231ST ST, BRONX NY 11217",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "The Marie Curie School for Medicine, Nursing, and Health Professions",
+    "programs": [
+    ],
+    "reducedLunch": 100,
+    "students": 573
+  },
+  {
+    "address": "1300 BOYTON AVE, BRONX NY 10002",
+    "freeLunch": null,
+    "grades": [
+      9,
+      10
+    ],
+    "name": "The Metropolitan Soundview High School",
+    "programs": [
+    ],
+    "reducedLunch": 100,
+    "students": 316
   },
   {
     "address": "99 TERRACE VIEW AVESTE 138, BRONX NY 10004",
@@ -5336,7 +4725,7 @@
   },
   {
     "address": "240 West 113 Street, Manhattan 10026, Manhattan NY 10026",
-    "freeLunch": 82,
+    "freeLunch": null,
     "grades": [
       6,
       12
@@ -5346,7 +4735,36 @@
       "Charter"
     ],
     "reducedLunch": null,
-    "students": 447
+    "students": {
+      "allGrades": 447
+    }
+  },
+  {
+    "address": "370 Fountain Avenue, Brooklyn, NY 11208",
+    "freeLunch": null,
+    "grades": [
+      9,
+      12
+    ],
+    "name": "The School for Classics: An Academy of Thinkers",
+    "programs": [
+      "Bootstrap"
+    ],
+    "reducedLunch": 86.1,
+    "students": 309
+  },
+  {
+    "address": "339 Morris Avenue, Bronx, NY 10451",
+    "freeLunch": null,
+    "grades": [
+      6,
+      12
+    ],
+    "name": "The Urban Assembly BRONX ACADEMY OF LETTERS",
+    "programs": [
+    ],
+    "reducedLunch": 91.3,
+    "students": 326
   },
   {
     "address": "49 FLATBUSH AVENUE EXTENSION, Brookly NY 11201",
@@ -5358,8 +4776,8 @@
     "name": "THE URBAN ASSEMBLY SCHOOL OF MUSIC AND ART AT WATE",
     "programs": [
     ],
-    "reducedLunch": 81.2,
-    "students": 431
+    "reducedLunch": 83.2,
+    "students": 394
   },
   {
     "address": "2225 WEBSTER AVE, BRONX NY 11216",
@@ -5370,24 +4788,21 @@
     ],
     "name": "THEATRE ARTS PRODUCTION COMPANY SCHOOL (TAPCo)",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 77,
-    "students": 576
+    "reducedLunch": 100,
+    "students": 344
   },
   {
     "address": "165-65 84th Avenue, Jamaica, NY 11432",
-    "freeLunch": 77,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Thomas Edison Career and Technical Education High School",
     "programs": [
-      "CTE",
-      "Club"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 76.8,
     "students": 2168
   },
   {
@@ -5400,28 +4815,14 @@
     "name": "THURGOOD MARSHALL ACADEMY FOR LEARNING AND SOCIAL",
     "programs": [
     ],
-    "reducedLunch": 83.8,
-    "students": 580
-  },
-  {
-    "address": "1 Wells St, Brooklyn NY, 11208",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "TRANSIT TECH CAREER AND TECHNICAL EDUCATION HIGH S",
-    "programs": [
-      "CTE"
-    ],
-    "reducedLunch": 84.7,
-    "students": 1309
+    "reducedLunch": 75.9,
+    "students": 403
   },
   {
     "address": "800 Van Siclen Ave, Brooklyn 11207, BROOKLYN NY 11207",
     "freeLunch": null,
     "grades": [
-      9,
+      0,
       12
     ],
     "name": "UFT Charter",
@@ -5435,16 +4836,15 @@
   },
   {
     "address": "40 Irving Place, New York, NY 10003",
-    "freeLunch": 83,
+    "freeLunch": null,
     "grades": [
       9,
       11
     ],
     "name": "Union Square Academy for Health Sciences",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 83.4,
     "students": 223
   },
   {
@@ -5457,8 +4857,8 @@
     "name": "UNITY CENTER FOR URBAN TECHNOLOGIES",
     "programs": [
     ],
-    "reducedLunch": 84.8,
-    "students": 237
+    "reducedLunch": 91,
+    "students": 255
   },
   {
     "address": "701 ST ANNS AVE, BRONX NY 11373",
@@ -5469,10 +4869,9 @@
     ],
     "name": "UNIVERSITY HEIGHTS SECONDARY SCHOOL",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 90,
-    "students": 470
+    "reducedLunch": 89.3,
+    "students": 466
   },
   {
     "address": "200 MONROE STREET, Manhattan NY 10002",
@@ -5484,8 +4883,8 @@
     "name": "UNIVERSITY NEIGHBORHOOD HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 85.9,
-    "students": 391
+    "reducedLunch": 89.3,
+    "students": 299
   },
   {
     "address": "600 ST ANN'S AVE, BRONX NY 10455",
@@ -5503,16 +4902,15 @@
   },
   {
     "address": "1600 Rockaway Parkway, Brooklyn, NY 11236",
-    "freeLunch": 79,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Urban Action Academy",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 78.8,
     "students": 312
   },
   {
@@ -5526,7 +4924,7 @@
     "programs": [
     ],
     "reducedLunch": 81.9,
-    "students": 310
+    "students": 326
   },
   {
     "address": "509 West 129th Street, New York, NY 10027",
@@ -5538,24 +4936,22 @@
     "name": "URBAN ASSEMBLY FOR THE PERFORMING ARTS",
     "programs": [
     ],
-    "reducedLunch": 80.3,
-    "students": 370
+    "reducedLunch": 85.9,
+    "students": 354
   },
   {
     "address": "439 West 49th Street, New York, NY 10019",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Urban Assembly Gateway School for Technology",
     "programs": [
-      "CTE",
-      "MOUSE",
       "SEP",
       "TEALS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 367
   },
   {
@@ -5565,12 +4961,11 @@
       6,
       12
     ],
-    "name": "URBAN ASSEMBLY INSTITUTE OF MATH AND SCIENCE FOR Y",
+    "name": "Urban Assembly Institute of Math and Science for Young Women",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 79,
-    "students": 488
+    "reducedLunch": 83.5,
+    "students": 285
   },
   {
     "address": "1595 Bathgate Avenue, Bronx, NY 10457",
@@ -5582,8 +4977,8 @@
     "name": "URBAN ASSEMBLY SCHOOL FOR APPLIED MATH AND SCIENCE",
     "programs": [
     ],
-    "reducedLunch": 87.5,
-    "students": 606
+    "reducedLunch": 92.7,
+    "students": 347
   },
   {
     "address": "730 CONCOURSE VILLAGE WEST, BRONX NY 11211",
@@ -5596,7 +4991,7 @@
     "programs": [
     ],
     "reducedLunch": 85,
-    "students": 526
+    "students": 575
   },
   {
     "address": "4200 16TH AVE, BROOKLYN NY 11211",
@@ -5608,70 +5003,66 @@
     "name": "URBAN ASSEMBLY SCHOOL FOR CRIMINAL JUSTICE",
     "programs": [
     ],
-    "reducedLunch": 87,
-    "students": 431
+    "reducedLunch": 90.1,
+    "students": 301
   },
   {
     "address": "411 PEARL STREET, Manhattan, NY 10038",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       9,
       null
     ],
     "name": "Urban Assembly School for Emergency Management",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 100,
     "students": 116
   },
   {
     "address": "2005 Madison Avenue, New York, NY 10035",
-    "freeLunch": 84,
+    "freeLunch": null,
     "grades": [
       9,
       10
     ],
     "name": "Urban Assembly School for Global Commerce",
     "programs": [
-      "CTE",
       "C/I"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 84.1,
     "students": 82
   },
   {
     "address": "145 West 84th Street, New York, NY 10024",
-    "freeLunch": 90,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Urban Assembly School for Green Careers",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 90.1,
     "students": 395
   },
   {
     "address": "283 Adams Street, Brooklyn, NY 11201",
-    "freeLunch": 75,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Urban Assembly School for Law and Justice",
     "programs": [
-      "ECS",
-      "Club"
+      "ECS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 74.6,
     "students": 449
   },
   {
     "address": "122 AMSTERDAM AVENUE, Manhattan NY 10023",
-    "freeLunch": 77,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -5680,7 +5071,7 @@
     "programs": [
       "C/I"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 77,
     "students": 387
   },
   {
@@ -5693,8 +5084,8 @@
     "name": "URBAN ASSEMBLY SCHOOL FOR WILDLIFE CONSERVATION",
     "programs": [
     ],
-    "reducedLunch": 86,
-    "students": 464
+    "reducedLunch": 100,
+    "students": 332
   },
   {
     "address": "26 Broadway, New York, NY 10004",
@@ -5706,8 +5097,8 @@
     "name": "URBAN ASSEMBLY SCHOOL OF BUSINESS FOR YOUNG WOMEN",
     "programs": [
     ],
-    "reducedLunch": 84.6,
-    "students": 377
+    "reducedLunch": 81.6,
+    "students": 412
   },
   {
     "address": "525 West 50th Street, New York, NY 10019",
@@ -5719,8 +5110,8 @@
     "name": "URBAN ASSEMBLY SCHOOL OF DESIGN AND CONSTRUCTION",
     "programs": [
     ],
-    "reducedLunch": 77.5,
-    "students": 431
+    "reducedLunch": 79.2,
+    "students": 427
   },
   {
     "address": "600 LAFAYETTE AVE, BROOKLYN NY 11216",
@@ -5743,11 +5134,11 @@
       9,
       12
     ],
-    "name": "VALIDUS PREPARATORY ACADEMY",
+    "name": "Validus Preparatory Academy: An Expeditionary Learning School",
     "programs": [
     ],
-    "reducedLunch": 79.5,
-    "students": 366
+    "reducedLunch": 90.1,
+    "students": 374
   },
   {
     "address": "317 East 67th Street, New York, NY 10065",
@@ -5759,12 +5150,12 @@
     "name": "VANGUARD HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 76.7,
-    "students": 443
+    "reducedLunch": 75.5,
+    "students": 469
   },
   {
     "address": "35-01 UNION STREET, Queens, NY 11354",
-    "freeLunch": 73,
+    "freeLunch": null,
     "grades": [
       9,
       10
@@ -5772,12 +5163,12 @@
     "name": "VERITAS ACADEMY",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 73.4,
     "students": 124
   },
   {
     "address": "6565 Flatlands Avenue, Brooklyn, NY 11236",
-    "freeLunch": 77,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -5786,25 +5177,12 @@
     "programs": [
       "ECS"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 77.4,
     "students": 332
   },
   {
-    "address": "4510 94TH ST, ELMHURST NY 10460",
-    "freeLunch": null,
-    "grades": [
-      9,
-      12
-    ],
-    "name": "VOYAGES PREPARATORY",
-    "programs": [
-    ],
-    "reducedLunch": 74,
-    "students": 256
-  },
-  {
     "address": "156-10 Baisley Boulevard, Queens NY 11434",
-    "freeLunch": 83,
+    "freeLunch": null,
     "grades": [
       9,
       12
@@ -5812,7 +5190,7 @@
     "name": "VOYAGES PREPARATORY HIGH SCHOOL SOUTH QUEENS",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 83.3,
     "students": 150
   },
   {
@@ -5822,11 +5200,11 @@
       9,
       12
     ],
-    "name": "W E B DUBOIS ACADEMIC HIGH SCHOOL",
+    "name": "W. E. B. DUBOIS ACADEMIC HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 87.1,
-    "students": 194
+    "reducedLunch": 76.3,
+    "students": 131
   },
   {
     "address": "145 Pennsylvania Avenue, Brooklyn,  New York 11207  ",
@@ -5835,26 +5213,24 @@
       9,
       12
     ],
-    "name": "W H MAXWELL CAREER AND TECHNICAL EDUCATION HIGH SC",
+    "name": "W. H. Maxwell Career and Technical Education High School",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": 84.8,
-    "students": 592
+    "reducedLunch": 87.7,
+    "students": 463
   },
   {
     "address": "215 West 114 St, Manhattan NY 10026",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       6,
       12
     ],
     "name": "WADLEIGH SECONDARY SCHOOL FOR THE PERFORMING AND VISUAL ARTS",
     "programs": [
-      "MOUSE"
     ],
-    "reducedLunch": null,
-    "students": 531
+    "reducedLunch": 100,
+    "students": 457
   },
   {
     "address": "511 West 182nd Street, New York, NY 10033",
@@ -5866,8 +5242,8 @@
     "name": "WASHINGTON HEIGHTS EXPEDITIONARY LEARNING SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 92,
-    "students": 602
+    "reducedLunch": 100,
+    "students": 384
   },
   {
     "address": "500 East Fordham Road, Bronx, NY 10458",
@@ -5879,8 +5255,8 @@
     "name": "WEST BRONX ACADEMY FOR THE FUTURE",
     "programs": [
     ],
-    "reducedLunch": 88.8,
-    "students": 636
+    "reducedLunch": 92.8,
+    "students": 347
   },
   {
     "address": "1053 41ST ST, BROOKLYN NY 11207",
@@ -5892,7 +5268,7 @@
     "name": "WEST BROOKLYN COMMUNITY HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 73,
+    "reducedLunch": 76.3,
     "students": 215
   },
   {
@@ -5904,10 +5280,9 @@
     ],
     "name": "WESTCHESTER SQUARE ACADEMY",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": 82,
-    "students": 108
+    "reducedLunch": 100,
+    "students": 251
   },
   {
     "address": "25 BRIGHTON 4TH ROAD, Brooklyn NY 11235",
@@ -5916,14 +5291,13 @@
       9,
       12
     ],
-    "name": "WILLIAM E GRADY CAREER AND TECHNICAL EDUCATION HIG",
+    "name": "William E. Grady Career and Technical Education High School",
     "programs": [
-      "CTE",
       "TEALS",
       "ECS"
     ],
-    "reducedLunch": 85.5,
-    "students": 940
+    "reducedLunch": 88.5,
+    "students": 636
   },
   {
     "address": "198 VARET ST, BROOKLYN NY 11206",
@@ -5955,16 +5329,15 @@
   },
   {
     "address": "257 North 6th Street, Brooklyn, NY 11211",
-    "freeLunch": 82,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "Williamsburg High School for Architecture and Design",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 82,
     "students": 579
   },
   {
@@ -5977,8 +5350,8 @@
     "name": "WILLIAMSBURG PREPARATORY SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 99.5,
-    "students": 575
+    "reducedLunch": 81.4,
+    "students": 671
   },
   {
     "address": "1122 EAST 180 STREET, Bronx NY 10460",
@@ -5990,8 +5363,8 @@
     "name": "WINGS ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 79.9,
-    "students": 532
+    "reducedLunch": 85.2,
+    "students": 534
   },
   {
     "address": "456 WHITE PLAINS ROAD, Bronx NY 10473",
@@ -6000,29 +5373,28 @@
       9,
       12
     ],
-    "name": "WOMEN S ACADEMY OF EXCELLENCE",
+    "name": "WOMEN'S ACADEMY OF EXCELLENCE",
     "programs": [
     ],
-    "reducedLunch": 80.4,
-    "students": 373
+    "reducedLunch": 83.3,
+    "students": 395
   },
   {
     "address": "400 PENNSYLVANIA AVENUE, Brooklyn, NY 11207",
-    "freeLunch": 85,
+    "freeLunch": null,
     "grades": [
       9,
       12
     ],
     "name": "World Academy for Total Community Health High School (WATCH)",
     "programs": [
-      "CTE"
     ],
-    "reducedLunch": null,
+    "reducedLunch": 85.4,
     "students": 309
   },
   {
     "address": "100 WEST MOSHOLU PARKWAY SOUTH, BRONX NY",
-    "freeLunch": 96,
+    "freeLunch": null,
     "grades": [
       9,
       10
@@ -6030,7 +5402,7 @@
     "name": "WORLD VIEW HIGH SCHOOL",
     "programs": [
     ],
-    "reducedLunch": null,
+    "reducedLunch": 95.8,
     "students": 71
   },
   {
@@ -6043,8 +5415,8 @@
     "name": "YORK EARLY COLLEGE ACADEMY",
     "programs": [
     ],
-    "reducedLunch": 74,
-    "students": 577
+    "reducedLunch": 76.4,
+    "students": 317
   },
   {
     "address": "105 EAST 106TH ST, NEW YORK NY 11206",
@@ -6053,56 +5425,51 @@
       6,
       12
     ],
-    "name": "YOUNG WOMEN S LEADERSHIP SCHOOL",
+    "name": "YOUNG WOMEN'S LEADERSHIP SCHOOL",
     "programs": [
     ],
-    "reducedLunch": 81,
-    "students": 442
+    "reducedLunch": 80.2,
+    "students": 300
   },
   {
     "address": "325 Bushwick Avenue, Brooklyn, NY 11206",
-    "freeLunch": 80,
+    "freeLunch": null,
     "grades": [
       6,
       12
     ],
     "name": "Young Women's Leadership School of Brooklyn",
     "programs": [
-      "TEALS",
-      "Club"
+      "TEALS"
     ],
-    "reducedLunch": null,
-    "students": 651
+    "reducedLunch": 79.8,
+    "students": 191
   },
   {
     "address": "23-15 NEWTOWN AVENUE, Queens NY 11102",
-    "freeLunch": 79,
+    "freeLunch": null,
     "grades": [
       6,
       12
     ],
     "name": "YOUNG WOMEN'S LEADERSHIP SCHOOL, Astoria",
     "programs": [
-      "MOUSE",
       "ECS"
     ],
-    "reducedLunch": null,
-    "students": 576
+    "reducedLunch": 79.2,
+    "students": 318
   },
   {
     "address": "150-91 87 Road, Queens NY 11432",
-    "freeLunch": 100,
+    "freeLunch": null,
     "grades": [
       6,
       12
     ],
     "name": "YOUNG WOMEN'S LEADERSHIP SCHOOL, QUEENS",
     "programs": [
-      "Club"
     ],
-    "reducedLunch": null,
-    "students": {
-      "allGrades": 555
-    }
+    "reducedLunch": 100,
+    "students": 322
   }
 ]
