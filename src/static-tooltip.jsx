@@ -91,7 +91,7 @@ define(function(require) {
             9:45am on a weekday morning.
             {hasStudentsInfo
              ? <span> Student population is based on the
-               2011-12 school year.</span>
+               2013-14 school year.</span>
              : null}
           </div>
         </div>

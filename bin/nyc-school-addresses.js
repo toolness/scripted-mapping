@@ -8,17 +8,13 @@ var ADDRESS_FIXUPS = {
 };
 var PROGRAM_TYPES = [
   'ScriptEd',
-  'CTE',
-  'MOUSE',
   'Bootstrap',
-  'SGD',
   'SEP',
   'TEALS',
   'ECS',
   'ASE',
   'C/I',
   'AP CS A',
-  'Club',
   'Charter'
 ];
 var WEIRD_BOOLEANS = [
@@ -116,7 +112,7 @@ function main() {
       };
       var name = column('School Name');
       var address = fixup(column('Address'), ADDRESS_FIXUPS);
-      var students = column('Total Students [Public School] 2011-12');
+      var students = column('Total Students 9th-12th [DOE 2013-14]');
 
       if (!name) {
         console.log("No school at row " + rowNumber + ", skipping it.");
@@ -138,8 +134,9 @@ function main() {
         grades: [parseGrade(column('Lowest Grade Offered')),
                  parseGrade(column('Highest Grade Offered'))],
         students: parseStudents(students),
-        freeLunch: getPercentage(column('% of Students Eligible for Free Lunch Program (2011-12 and 2014-15)')),
-        reducedLunch: getPercentage(column('% of Student Eligible for a Free or Reduced-Fee Lunch'))
+        freeLunch: getPercentage(column('Free Lunch % (Inside Schools)')),
+        reducedLunch: getPercentage(column('Free & Reduced Lunch (NCES  2011-12/2012-13)')) ||
+                      getPercentage(column('% eligible for free or reduced lunch (DOE 2013-14)'))
       };
     }).filter(function(info) { return !!info; });
     fs.writeFileSync(JSON_FILENAME, stableStringify(data, {space: 2}));
